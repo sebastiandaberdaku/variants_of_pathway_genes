@@ -1,0 +1,6 @@
+*.pyc
+00-All.vcf.gz
+*.log
+.settings
+.project
+.pydevproject
