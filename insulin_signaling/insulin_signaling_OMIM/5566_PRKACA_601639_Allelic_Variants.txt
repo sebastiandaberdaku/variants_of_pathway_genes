@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+601639
+PROTEIN KINASE, cAMP-DEPENDENT, CATALYTIC, ALPHA;  PRKACA
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	CUSHING SYNDROME, ACTH-INDEPENDENT ADRENAL, SOMATIC	PRKACA, LEU206ARG	rs386352352		RCV000122662;;;RCV000119834
+
+
+
+
+
+
+

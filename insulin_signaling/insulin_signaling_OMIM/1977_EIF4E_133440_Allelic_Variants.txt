@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+133440
+EUKARYOTIC TRANSLATION INITIATION FACTOR 4E;  EIF4E
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	AUTISM, SUSCEPTIBILITY TO, 19	EIF4E, 1-BP INS, -25C			RCV000033167
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+176911
+PROTEIN KINASE, cAMP-DEPENDENT, REGULATORY, TYPE I, BETA;  PRKAR1B
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	VARIANT OF UNKNOWN SIGNIFICANCE	PRKAR1B, LEU50ARG	rs1057519490		RCV000416507
+
+
+
+
+
+
+

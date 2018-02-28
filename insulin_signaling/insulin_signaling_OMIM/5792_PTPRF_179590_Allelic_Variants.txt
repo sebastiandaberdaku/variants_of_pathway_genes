@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+179590
+PROTEIN-TYROSINE PHOSPHATASE, RECEPTOR-TYPE, F;  PTPRF
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	BREAST AND/OR NIPPLES, APLASIA OR HYPOPLASIA OF, 2 (1 family)	PTPRF, 2-BP DEL, 1847TG	rs1131692054		RCV000144043
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+138190
+SOLUTE CARRIER FAMILY 2 (FACILITATED GLUCOSE TRANSPORTER), MEMBER 4; SLC2A4
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE	SLC2A4, VAL383ILE	rs121434581		RCV000017469
+
+
+
+
+
+
+

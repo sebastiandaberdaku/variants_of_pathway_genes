@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+602733
+ALDEHYDE DEHYDROGENASE, FAMILY 9, SUBFAMILY A, MEMBER 1;  ALDH9A1
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	ALDH9A1*2 POLYMORPHISM	ALDH9A1, CYS115SER	rs121908986	rs121908986	RCV000007260
+
+
+
+
+
+
+

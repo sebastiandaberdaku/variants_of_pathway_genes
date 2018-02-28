@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+176885
+PROTEIN-TYROSINE PHOSPHATASE, NONRECEPTOR-TYPE, 1;  PTPN1
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	INSULIN RESISTANCE, SUSCEPTIBILITY TO	PTPN1, 1-BP INS, 1484G, 3-PRIME UTR	rs16989673		RCV000014243
+
+
+
+
+
+
+

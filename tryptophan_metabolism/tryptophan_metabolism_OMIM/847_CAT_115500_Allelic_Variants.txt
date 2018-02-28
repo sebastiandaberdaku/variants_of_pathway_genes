@@ -1,0 +1,19 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+115500
+CATALASE;  CAT
+Allelic Variants (3 Selected Examples)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	ACATALASEMIA, JAPANESE TYPE	CAT, IVS4, G-A, +5			RCV000019165
+.0002	ACATALASEMIA, JAPANESE TYPE	CAT, 1-BP DEL, 358T			RCV000022461
+.0003	ACATALASEMIA, HUNGARIAN TYPE	CAT, 2-BP INS, 138GA			RCV000022462
+
+
+
+
+
+
+

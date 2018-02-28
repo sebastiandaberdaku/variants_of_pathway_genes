@@ -1,0 +1,29 @@
+# Genes in model:
+# Essential:
+Ddc	1644:DDC
+Aanat	15:AANAT
+# Optima
+Tph1	7166:TPH1
+Tph2	121278:TPH2
+# ELE (in the 'diseased' model the Wars gene is included in the MLE cathegory)
+Wars	7453:WARS
+# MLE
+Acmsd	130013:ACMSD
+Afmid	125061:AFMID
+Cat	847:CAT
+Haao	23498:HAAO
+Il4i	259307:IL4I1
+Ido	3620:IDO1
+Inmt	11185:INMT
+Kat.1	883:KYAT1
+Kat.2	51166:AADAT
+Kat.3	56267:KYAT3
+Kynu	8942:KYNU
+MaoA	4128:MAOA
+MaoB	4129:MAOB
+Nmnat	64802:NMNAT1
+Qprt	23475:QPRT
+Slc7a5	8140:SLC7A5
+Slc7a8	23428:SLC7A8
+Tdo2	6999:TDO2
+Kmo	8564:KMO

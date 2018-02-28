@@ -1,0 +1,18 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+191070
+TRYPTOPHAN 2,3-DIOXYGENASE;  TDO2
+Allelic Variants (2 Selected Examples)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	HYPERTRYPTOPHANEMIA (1 patient)	TDO2, 1-BP DUP, NT491	rs767123432	rs767123432	RCV000509047
+.0002	HYPERTRYPTOPHANEMIA (1 patient)	TDO2, MET108ILE			RCV000509051
+
+
+
+
+
+
+

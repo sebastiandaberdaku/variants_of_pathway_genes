@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+604976
+PROTEIN KINASE, AMP-ACTIVATED, NONCATALYTIC, GAMMA-3;  PRKAG3
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	GLYCOGEN CONTENT IN SKELETAL MUSCLE, INCREASED	PRKAG3, ARG225TRP	rs138130157		RCV000005602
+
+
+
+
+
+
+

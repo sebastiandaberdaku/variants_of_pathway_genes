@@ -1,0 +1,18 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+138570
+GLYCOGEN SYNTHASE 1;  GYS1
+Allelic Variants (2 Selected Examples)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	GLYCOGEN STORAGE DISEASE 0, MUSCLE	GYS1, ARG462TER	rs121434584		RCV000017435
+.0002	GLYCOGEN STORAGE DISEASE 0, MUSCLE	GYS1, 2-BP DEL, 162AG	rs587777375	rs587777375	RCV000116203
+
+
+
+
+
+
+

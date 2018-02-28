@@ -1,0 +1,19 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+309850
+MONOAMINE OXIDASE A;  MAOA
+Allelic Variants (3 Selected Examples)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	BRUNNER SYNDROME	MAOA, GLN296TER	rs72554632		RCV000010645
+.0002	ANTISOCIAL BEHAVIOR, SUSCEPTIBILITY TO;;AUTISM, SEVERE, INCLUDED	MAOA, 30-BP DUP, VNTR, PROMOTER			RCV000010647;;;RCV000010646
+.0003	BRUNNER SYNDROME	MAOA, CYS266PHE	rs587777457		RCV000128399
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+191050
+TRYPTOPHANYL-tRNA SYNTHETASE;  WARS
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	NEURONOPATHY, DISTAL HEREDITARY MOTOR, TYPE IX	WARS, HIS257ARG	rs770003315	rs770003315	RCV000509593
+
+
+
+
+
+
+

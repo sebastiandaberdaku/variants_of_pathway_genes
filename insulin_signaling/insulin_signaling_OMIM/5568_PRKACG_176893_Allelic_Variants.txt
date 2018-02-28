@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+176893
+PROTEIN KINASE, cAMP-DEPENDENT, CATALYTIC, GAMMA;  PRKACG
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	BLEEDING DISORDER, PLATELET-TYPE, 19 (1 family)	PRKACG, ILE74MET	rs724159972		RCV000149789
+
+
+
+
+
+
+

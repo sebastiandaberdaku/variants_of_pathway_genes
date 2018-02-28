@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+602897
+MITOGEN-ACTIVATED PROTEIN KINASE 10;  MAPK10
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE	MAPK10, EX10-14DEL			RCV000007138
+
+
+
+
+
+
+

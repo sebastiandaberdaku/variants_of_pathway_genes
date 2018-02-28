@@ -1,0 +1,18 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+601247
+SON OF SEVENLESS, DROSOPHILA, HOMOLOG 2;  SOS2
+Allelic Variants (2 Selected Examples)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	NOONAN SYNDROME 9	SOS2, THR376SER	rs869320687		RCV000191030;;;RCV000224178
+.0002	NOONAN SYNDROME 9	SOS2, MET267LYS	rs797045167		RCV000191031
+
+
+
+
+
+
+

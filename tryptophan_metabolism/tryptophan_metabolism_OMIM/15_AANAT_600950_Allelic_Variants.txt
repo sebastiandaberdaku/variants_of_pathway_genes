@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+600950
+ARYLALKYLAMINE N-ACETYLTRANSFERASE;  AANAT
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE	AANAT, ALA129THR	rs28936679		RCV000009162
+
+
+
+
+
+
+

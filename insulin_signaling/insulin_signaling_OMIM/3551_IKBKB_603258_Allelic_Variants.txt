@@ -1,0 +1,18 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+603258
+INHIBITOR OF KAPPA LIGHT CHAIN GENE ENHANCER IN B CELLS, KINASE OF, BETA;  IKBKB
+Allelic Variants (2 Selected Examples)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	IMMUNODEFICIENCY 15	IKBKB, 1-BP DUP, 1292G	rs886041036		RCV000088681
+.0002	IMMUNODEFICIENCY 15	IKBKB, ARG272TER	rs200296680		RCV000144958
+
+
+
+
+
+
+

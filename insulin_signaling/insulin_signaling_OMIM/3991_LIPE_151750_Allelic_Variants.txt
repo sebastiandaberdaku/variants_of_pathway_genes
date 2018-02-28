@@ -1,0 +1,18 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+151750
+LIPASE, HORMONE-SENSITIVE;  LIPE
+Allelic Variants (2 Selected Examples)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 6	LIPE, 19-BP DEL, NT2300	rs587777699		RCV000144035
+.0002	LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 6	LIPE, 2-BP INS, CG			RCV000157608
+
+
+
+
+
+
+

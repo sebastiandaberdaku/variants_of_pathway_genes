@@ -1,0 +1,17 @@
+OMIM Allelic Variants - 
+Downloaded:	Feb 28, 2018
+Copyright (c) 1966-2018 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+607037
+ENOYL-CoA HYDRATASE/3-HYDROXYACYL CoA DEHYDROGENASE;  EHHADH
+Allelic Variants (1 Selected Example)
+
+Number	Phenotype	Mutation	dbSNP	ExAC dbSNP	ClinVar
+.0001	FANCONI RENOTUBULAR SYNDROME 3 (1 family)	EHHADH, GLU3LYS	rs398124646		RCV000082871
+
+
+
+
+
+
+

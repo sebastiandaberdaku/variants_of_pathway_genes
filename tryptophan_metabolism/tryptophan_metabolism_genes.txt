@@ -1,0 +1,3542 @@
+ENTRY       125061            CDS       T01001
+NAME        AFMID, FKF, KF, KFA
+DEFINITION  (RefSeq) arylformamidase
+ORTHOLOGY   K01432  arylformamidase [EC:3.5.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                125061 (AFMID)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                125061 (AFMID)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.9  arylformamidase
+                 125061 (AFMID)
+POSITION    17q25.3
+MOTIF       Pfam: Abhydrolase_3 COesterase Abhydrolase_6 Hydrolase_4 Peptidase_S9 FSH1 LIDHydrolase Lipase_3 NYN
+DBLINKS     NCBI-GeneID: 125061
+            NCBI-ProteinID: NP_001010982
+            HGNC: 20910
+            Ensembl: ENSG00000183077
+            Vega: OTTHUMG00000153957
+            Pharos: Q63HM1(Tbio)
+            UniProt: Q63HM1
+AASEQ       303
+            MMDVSGVGFPSKVPWKKMSAEELENQYCPSRWVVRLGAEEALRTYSQIGIEATTRARATR
+            KSLLHVPYGDGEGEKVDIYFPDESSEALPFFLFFHGGYWQSGSKDESAFMVHPLTAQGVA
+            VVIVAYGIAPKGTLDHMVDQVTRSVAFVQKRYPSNKGIYLCGHSAGAHLAAMMLLADWTK
+            HGVTPNLRGFFLVSGVFDLEPIVYTSQNVALQLTLEDAQRNSPQLKVAQAQPVDPTCRVL
+            VVVGQFDSPEFHRQSWEFYQTLCQGEWKASFEELHDVDHFEIVENLTQKDNVLTQIILKT
+            IFQ
+NTSEQ       912
+            atgatggatgtgtctggtgtgggtttcccaagcaaggttccttggaagaagatgtctgca
+            gaggagctggagaatcagtactgtcccagccgatgggttgtccgactgggagcagaggaa
+            gccttgaggacctactcacagataggaattgaagccaccacaagggcccgggccaccagg
+            aagagcctgctgcatgtcccctatggagacggcgaaggggagaaagtggacatttacttc
+            cccgacgagtcgtctgaagccttgcctttcttcctgttctttcacggaggatactggcag
+            agcggaagtaaggatgagtctgccttcatggtccacccgctgacggcacagggagtggcc
+            gtggtaatagtggcttacggcatcgcccccaaaggcaccctggaccacatggtagaccag
+            gtgacccgcagcgttgcgtttgtccagaagcggtatccaagcaacaagggaatttacctg
+            tgtggacactcagccggggcccacctggctgccatgatgctcctggccgactggaccaag
+            catggggtcacgcccaacctcagaggctttttcctggtgagtggggtctttgacctggag
+            cccatcgtgtatacttcacagaacgttgctctccagctgaccctggaggacgctcagagg
+            aatagcccccagctgaaggtggcccaggcacagccggtggaccccacctgccgtgtgctg
+            gtggtcgtgggccagttcgactcccccgaattccaccgacagtcctgggagttttaccag
+            accctgtgtcaaggagagtggaaagcctcatttgaagagctccacgatgtggaccacttt
+            gaaattgttgagaatctgacccagaaggacaacgtgctcacccagattatcttgaaaaca
+            atcttccagtag
+///
+ENTRY       316               CDS       T01001
+NAME        AOX1, AO, AOH1
+DEFINITION  (RefSeq) aldehyde oxidase 1
+ORTHOLOGY   K00157  aldehyde oxidase [EC:1.2.3.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00280  Valine, leucine and isoleucine degradation
+            hsa00350  Tyrosine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00750  Vitamin B6 metabolism
+            hsa00760  Nicotinate and nicotinamide metabolism
+            hsa00830  Retinol metabolism
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04630  Jak-STAT signaling pathway
+DISEASE     H00192  Xanthinuria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                316 (AOX1)
+               00350 Tyrosine metabolism
+                316 (AOX1)
+               00380 Tryptophan metabolism
+                316 (AOX1)
+              Metabolism of cofactors and vitamins
+               00750 Vitamin B6 metabolism
+                316 (AOX1)
+               00760 Nicotinate and nicotinamide metabolism
+                316 (AOX1)
+               00830 Retinol metabolism
+                316 (AOX1)
+              Xenobiotics biodegradation and metabolism
+               00982 Drug metabolism - cytochrome P450
+                316 (AOX1)
+             Environmental Information Processing
+              Signal transduction
+               04630 Jak-STAT signaling pathway
+                316 (AOX1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.3  With oxygen as acceptor
+                1.2.3.1  aldehyde oxidase
+                 316 (AOX1)
+POSITION    2q33.1
+MOTIF       Pfam: Ald_Xan_dh_C2 FAD_binding_5 Ald_Xan_dh_C Fer2_2 CO_deh_flav_C Fer2
+DBLINKS     NCBI-GeneID: 316
+            NCBI-ProteinID: NP_001150
+            OMIM: 602841
+            HGNC: 553
+            Ensembl: ENSG00000138356
+            Vega: OTTHUMG00000154536
+            Pharos: Q06278(Tbio)
+            UniProt: Q06278
+STRUCTURE   PDB: 4UHW 4UHX 5EPG
+AASEQ       1338
+            MDRASELLFYVNGRKVIEKNVDPETMLLPYLRKKLRLTGTKYGCGGGGCGACTVMISRYN
+            PITKRIRHHPANACLIPICSLYGAAVTTVEGIGSTHTRIHPVQERIAKCHGTQCGFCTPG
+            MVMSIYTLLRNHPEPTLDQLTDALGGNLCRCTGYRPIIDACKTFCKTSGCCQSKENGVCC
+            LDQGINGLPEFEEGSKTSPKLFAEEEFLPLDPTQELIFPPELMIMAEKQSQRTRVFGSER
+            MMWFSPVTLKELLEFKFKYPQAPVIMGNTSVGPEVKFKGVFHPVIISPDRIEELSVVNHA
+            YNGLTLGAGLSLAQVKDILADVVQKLPEEKTQMYHALLKHLGTLAGSQIRNMASLGGHII
+            SRHPDSDLNPILAVGNCTLNLLSKEGKRQIPLNEQFLSKCPNADLKPQEILVSVNIPYSR
+            KWEFVSAFRQAQRQENALAIVNSGMRVFFGEGDGIIRELCISYGGVGPATICAKNSCQKL
+            IGRHWNEQMLDIACRLILNEVSLLGSAPGGKVEFKRTLIISFLFKFYLEVSQILKKMDPV
+            HYPSLADKYESALEDLHSKHHCSTLKYQNIGPKQHPEDPIGHPIMHLSGVKHATGEAIYC
+            DDMPLVDQELFLTFVTSSRAHAKIVSIDLSEALSMPGVVDIMTAEHLSDVNSFCFFTEAE
+            KFLATDKVFCVGQLVCAVLADSEVQAKRAAKRVKIVYQDLEPLILTIEESIQHNSSFKPE
+            RKLEYGNVDEAFKVVDQILEGEIHMGGQEHFYMETQSMLVVPKGEDQEMDVYVSTQFPKY
+            IQDIVASTLKLPANKVMCHVRRVGGAFGGKVLKTGIIAAVTAFAANKHGRAVRCVLERGE
+            DMLITGGRHPYLGKYKAGFMNDGRILALDMEHYSNAGASLDESLFVIEMGLLKMDNAYKF
+            PNLRCRGWACRTNLPSNTAFRGFGFPQAALITESCITEVAAKCGLSPEKVRIINMYKEID
+            QTPYKQEINAKNLIQCWRECMAMSSYSLRKVAVEKFNAENYWKKKGLAMVPLKFPVGLGS
+            RAAGQAAALVHIYLDGSVLVTHGGIEMGQGVHTKMIQVVSRELRMPMSNVHLRGTSTETV
+            PNANISGGSVVADLNGLAVKDACQTLLKRLEPIISKNPKGTWKDWAQTAFDESINLSAVG
+            YFRGYESDMNWEKGEGQPFEYFVYGAACSEVEIDCLTGDHKNIRTDIVMDVGCSINPAID
+            IGQIEGAFIQGMGLYTIEELNYSPQGILHTRGPDQYKIPAICDMPTELHIALLPPSQNSN
+            TLYSSKGLGESGVFLGCSVFFAIHDAVSAARQERGLHGPLTLNSPLTPEKIRMACEDKFT
+            KMIPRDEPGSYVPWNVPI
+NTSEQ       4017
+            atggaccgggcgtccgagctgctcttctacgtgaacggccgcaaggtgatagaaaaaaat
+            gtcgatcctgaaacaatgctgttgccttatttgaggaagaagcttcgactcacaggaact
+            aagtatggctgtggaggaggaggctgtggtgcttgtacagtgatgatatcacgatacaac
+            cccatcaccaagaggataaggcatcacccagccaatgcctgtctgattcccatctgttct
+            ctgtatggtgctgccgtcaccacagtagaaggcataggaagcacccacaccagaattcat
+            cctgttcaggagaggattgccaagtgtcatggcacccagtgtggcttctgcacacctggg
+            atggtgatgtccatctacacgctgctcaggaaccacccagagcccactctggatcagtta
+            actgatgcccttggtggtaacctgtgccgttgcactggatacaggcccataattgatgca
+            tgcaagactttctgtaaaacttcgggctgctgtcaaagtaaagaaaatggggtttgctgt
+            ttggatcaaggaatcaatggattgccagaatttgaggaaggaagtaagacaagtccaaaa
+            ctcttcgcagaagaggagtttctgccattggatccaacccaggaactgatatttcctcct
+            gagctaatgataatggctgagaaacagtcgcaaaggaccagggtgtttggcagtgagaga
+            atgatgtggttttcccccgtgaccctgaaggaactgctggaatttaaattcaagtatccc
+            caggctcctgttatcatgggaaacacctctgtggggcctgaagtgaaatttaaaggcgtc
+            tttcacccagttataatttctcctgatagaattgaagaactgagtgttgtaaaccatgca
+            tataatggactcacccttggtgctggtctcagcctagcccaggtgaaggacattttggct
+            gatgtagtccagaagcttccagaggagaagacacagatgtaccatgctctcctgaagcat
+            ttgggaactctggctgggtcccagatcaggaacatggcttctttagggggacacatcatt
+            agcaggcatccagattcagatctgaatcccatcctggctgtgggtaactgtaccctcaac
+            ttgctatcaaaagaaggaaaacgacagattcctttaaatgagcaattcctcagcaagtgc
+            cctaatgcagatcttaagcctcaagaaatcttggtctcagtgaacatcccctactcaagg
+            aagtgggaatttgtgtcagccttccgacaagcccagcgacaggagaatgcgctagcgata
+            gtcaattcaggaatgagagtcttttttggagaaggggatggcattattagagagttatgc
+            atctcatatggaggcgttggtccagccaccatctgtgccaagaattcctgccagaaactc
+            attggaaggcactggaacgaacagatgctggatatagcctgcaggcttattctgaatgaa
+            gtctcccttttgggctcggcgccaggtgggaaagtggagttcaagaggactctcatcatc
+            agcttcctcttcaagttctacctggaagtgtcacagattttgaaaaagatggatccagtt
+            cactatcctagccttgcagacaagtatgaaagtgctttagaagatcttcattccaaacat
+            cactgcagtacattaaagtaccagaatataggcccaaagcagcatcctgaagacccaatt
+            ggccaccccatcatgcatctgtctggtgtgaagcatgccacgggggaggccatctactgt
+            gatgacatgcctctggtggaccaggaacttttcttgacttttgtgactagttcaagagct
+            catgctaagattgtgtctattgatctgtcagaagctctcagcatgcccggtgtggtggac
+            atcatgacagcagaacatcttagtgacgtcaactccttctgcttttttactgaagctgag
+            aaatttctggcgacagataaggtgttctgtgtgggtcagcttgtctgtgctgtgcttgcc
+            gattctgaggttcaggcaaagcgagctgctaagcgagtgaagattgtctatcaagacttg
+            gagccgctgatactaacaattgaggaaagtatacaacacaactcctccttcaagccagaa
+            aggaaactggaatatggaaatgttgacgaagcatttaaagtggttgatcaaattcttgaa
+            ggtgaaatacatatgggaggtcaagaacatttttatatggaaacccaaagcatgcttgtc
+            gttcccaagggagaggatcaagaaatggatgtctacgtgtccacacagtttcccaaatat
+            atacaggacattgttgcctcaaccttgaagctcccagctaacaaggtcatgtgccatgta
+            aggcgtgttggtggagcgtttggagggaaggtgttaaaaaccggaatcattgcagccgtc
+            actgcatttgccgcaaacaaacatggccgtgcagttcgctgtgttctggaacgaggagaa
+            gacatgttaataactggaggccgccatccttaccttggaaagtacaaagctggattcatg
+            aacgatggcagaatcttggccctggacatggagcattacagcaatgcaggcgcctccttg
+            gatgaatcattattcgtgatagaaatgggacttctgaaaatggacaatgcttacaagttt
+            cccaatctccgctgccggggttgggcatgcagaaccaaccttccatccaacacagctttt
+            cgtgggtttggctttcctcaggcagcgctgatcaccgaatcttgtatcacggaagttgca
+            gccaaatgtggactatcccctgagaaggtgcgaatcataaacatgtacaaggaaattgat
+            caaacaccctacaaacaagagatcaatgccaagaacctaatccagtgttggagagaatgt
+            atggccatgtcttcctactccttgaggaaagttgctgtggaaaagttcaatgcagagaat
+            tattggaagaagaaaggactggccatggtccccctgaagtttcctgttggccttggctca
+            cgtgctgctggtcaggctgctgccttggttcacatttatcttgatggctctgtgctggtc
+            actcacggtggaattgaaatggggcagggggtccacactaaaatgattcaggtggtcagc
+            cgtgaattaagaatgccaatgtcgaatgtccacctgcgtggaacaagcacagaaactgtc
+            cctaatgcaaatatctctggaggttctgtggtggcagatctcaacggtttggcagtaaag
+            gatgcctgtcaaactcttctaaaacgcctcgaacccatcatcagcaagaatcctaaagga
+            acttggaaagactgggcacagactgcttttgatgaaagcattaacctttcagctgttgga
+            tacttcagaggttatgagtcagacatgaactgggagaaaggcgaaggccagcccttcgaa
+            tactttgtttatggagctgcctgttccgaggttgaaatagactgcctgacgggggatcat
+            aagaacatcagaacagacattgtcatggatgttggctgcagtataaatccagccattgac
+            ataggccagattgaaggtgcatttattcaaggcatgggactttatacaatagaggaactg
+            aattattctccccagggcattctgcacactcgtggtccagaccaatataaaatccctgcc
+            atctgtgacatgcccacggagttgcacattgctttgttgcctccttctcaaaactcaaat
+            actctttattcatctaagggtctgggagagtcgggggtgttcctggggtgttccgtgttt
+            ttcgctatccatgacgcagtgagtgcagcacgacaggagagaggcctgcatggacccttg
+            acccttaatagtccactgaccccggagaagattaggatggcctgtgaagacaagttcaca
+            aaaatgattccgagagatgaacctggatcctacgttccttggaatgtacccatctga
+///
+ENTRY       8564              CDS       T01001
+NAME        KMO, dJ317G22.1
+DEFINITION  (RefSeq) kynurenine 3-monooxygenase
+ORTHOLOGY   K00486  kynurenine 3-monooxygenase [EC:1.14.13.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                8564 (KMO)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.9  kynurenine 3-monooxygenase
+                 8564 (KMO)
+POSITION    1q43
+MOTIF       Pfam: FAD_binding_3 DAO NAD_binding_8 SE Pyr_redox_2 3HCDH_N Pyr_redox
+DBLINKS     NCBI-GeneID: 8564
+            NCBI-ProteinID: NP_003670
+            OMIM: 603538
+            HGNC: 6381
+            Ensembl: ENSG00000117009
+            Vega: OTTHUMG00000039635
+            Pharos: O15229(Tchem)
+            UniProt: O15229 A8K693
+AASEQ       486
+            MDSSVIQRKKVAVIGGGLVGSLQACFLAKRNFQIDVYEAREDTRVATFTRGRSINLALSH
+            RGRQALKAVGLEDQIVSQGIPMRARMIHSLSGKKSAIPYGTKSQYILSVSRENLNKDLLT
+            AAEKYPNVKMHFNHRLLKCNPEEGMITVLGSDKVPKDVTCDLIVGCDGAYSTVRSHLMKK
+            PRFDYSQQYIPHGYMELTIPPKNGDYAMEPNYLHIWPRNTFMMIALPNMNKSFTCTLFMP
+            FEEFEKLLTSNDVVDFFQKYFPDAIPLIGEKLLVQDFFLLPAQPMISVKCSSFHFKSHCV
+            LLGDAAHAIVPFFGQGMNAGFEDCLVFDELMDKFSNDLSLCLPVFSRLRIPDDHAISDLS
+            MYNYIEMRAHVNSSWFIFQKNMERFLHAIMPSTFIPLYTMVTFSRIRYHEAVQRWHWQKK
+            VINKGLFFLGSLIAISSTYLLIHYMSPRSFLRLRRPWNWIAHFRNTTCFPAKAVDSLEQI
+            SNLISR
+NTSEQ       1461
+            atggactcatctgtcattcaaaggaaaaaagtagctgtcattggtggtggcttggttggc
+            tcattacaagcatgctttcttgcaaagaggaatttccagattgatgtatatgaagctagg
+            gaagatactcgagtggctaccttcacacgtggaagaagcattaacttagccctttctcat
+            agaggacgacaagccttgaaagctgttggcctggaagatcagattgtatcccaaggtatt
+            cccatgagagcaagaatgatccactctctttcaggaaaaaagtctgcaattccctatggg
+            acaaagtctcagtatattctttctgtaagcagagaaaatctaaacaaggatctattgact
+            gctgctgagaaataccccaatgtgaaaatgcactttaaccacaggctgttgaaatgtaat
+            ccagaggaaggaatgatcacagtgcttggatctgacaaagttcccaaagatgtcacttgt
+            gacctcattgtaggatgtgatggagcctattcaactgtcagatctcacctgatgaagaaa
+            cctcgctttgattacagtcagcagtacattcctcatgggtacatggagttgactattcca
+            cctaagaacggagattatgccatggaacctaattatctgcatatttggcctagaaatacc
+            tttatgatgattgcacttcctaacatgaacaaatcattcacatgtactttgttcatgccc
+            tttgaagagtttgaaaaacttctaaccagtaatgatgtggtagatttcttccagaaatac
+            tttccggatgccatccctctaattggagagaaactcctagtgcaagatttcttcctgttg
+            cctgcccagcccatgatatctgtaaagtgctcttcatttcactttaaatctcactgtgta
+            ctgctgggagatgcagctcatgctatagtgccgttttttgggcaaggaatgaatgcgggc
+            tttgaagactgcttggtatttgatgagttaatggataaattcagtaacgaccttagtttg
+            tgtcttcctgtgttctcaagattgagaatcccagatgatcacgcgatttcagacctatcc
+            atgtacaattacatagagatgcgagcacatgtcaactcaagctggttcatttttcagaag
+            aacatggagagatttcttcatgcgattatgccatcgacctttatccctctctatacaatg
+            gtcactttttccagaataagataccatgaggctgtgcagcgttggcattggcaaaaaaag
+            gtgataaacaaaggactctttttcttgggatcactgatagccatcagcagtacctaccta
+            cttatacactacatgtcaccacgatctttcctccgcttgagaagaccatggaactggata
+            gctcacttccggaatacaacatgtttccccgcaaaggccgtggactccctagaacaaatt
+            tccaatctcattagcaggtga
+///
+ENTRY       4967              CDS       T01001
+NAME        OGDH, AKGDH, E1k, OGDC
+DEFINITION  (RefSeq) oxoglutarate dehydrogenase
+ORTHOLOGY   K00164  2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+DISEASE     H01022  Diseases of the tricarboxylic acid cycle
+            H02006  Alpha-ketoglutarate dehydrogenase complex (KGDHC) deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                4967 (OGDH)
+              Amino acid metabolism
+               00310 Lysine degradation
+                4967 (OGDH)
+               00380 Tryptophan metabolism
+                4967 (OGDH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.4  With a disulfide as acceptor
+                1.2.4.2  oxoglutarate dehydrogenase (succinyl-transferring)
+                 4967 (OGDH)
+POSITION    7p13
+MOTIF       Pfam: E1_dh Transket_pyr OxoGdeHyase_C 2-oxogl_dehyd_N
+DBLINKS     NCBI-GeneID: 4967
+            NCBI-ProteinID: NP_002532
+            OMIM: 613022
+            HGNC: 8124
+            Ensembl: ENSG00000105953
+            Vega: OTTHUMG00000155304
+            Pharos: Q02218(Tbio)
+            UniProt: Q02218 B4E3E9
+AASEQ       1023
+            MFHLRTCAAKLRPLTASQTVKTFSQNRPAAARTFQQIRCYSAPVAAEPFLSGTSSNYVEE
+            MYCAWLENPKSVHKSWDIFFRNTNAGAPPGTAYQSPLPLSRGSLAAVAHAQSLVEAQPNV
+            DKLVEDHLAVQSLIRAYQIRGHHVAQLDPLGILDADLDSSVPADIISSTDKLGFYGLDES
+            DLDKVFHLPTTTFIGGQESALPLREIIRRLEMAYCQHIGVEFMFINDLEQCQWIRQKFET
+            PGIMQFTNEEKRTLLARLVRSTRFEEFLQRKWSSEKRFGLEGCEVLIPALKTIIDKSSEN
+            GVDYVIMGMPHRGRLNVLANVIRKELEQIFCQFDSKLEAADEGSGDVKYHLGMYHRRINR
+            VTDRNITLSLVANPSHLEAADPVVMGKTKAEQFYCGDTEGKKVMSILLHGDAAFAGQGIV
+            YETFHLSDLPSYTTHGTVHVVVNNQIGFTTDPRMARSSPYPTDVARVVNAPIFHVNSDDP
+            EAVMYVCKVAAEWRSTFHKDVVVDLVCYRRNGHNEMDEPMFTQPLMYKQIRKQKPVLQKY
+            AELLVSQGVVNQPEYEEEISKYDKICEEAFARSKDEKILHIKHWLDSPWPGFFTLDGQPR
+            SMSCPSTGLTEDILTHIGNVASSVPVENFTIHGGLSRILKTRGEMVKNRTVDWALAEYMA
+            FGSLLKEGIHIRLSGQDVERGTFSHRHHVLHDQNVDKRTCIPMNHLWPNQAPYTVCNSSL
+            SEYGVLGFELGFAMASPNALVLWEAQFGDFHNTAQCIIDQFICPGQAKWVRQNGIVLLLP
+            HGMEGMGPEHSSARPERFLQMCNDDPDVLPDLKEANFDINQLYDCNWVVVNCSTPGNFFH
+            VLRRQILLPFRKPLIIFTPKSLLRHPEARSSFDEMLPGTHFQRVIPEDGPAAQNPENVKR
+            LLFCTGKVYYDLTRERKARDMVGQVAITRIEQLSPFPFDLLLKEVQKYPNAELAWCQEEH
+            KNQGYYDYVKPRLRTTISRAKPVWYAGRDPAAAPATGNKKTHLTELQRLLDTAFDLDVFK
+            NFS
+NTSEQ       3072
+            atgtttcatttaaggacttgtgctgctaagttgaggccattgacggcttcccagactgtt
+            aagacattttcacaaaacagaccagcagcagctaggacatttcaacagattcggtgctat
+            tctgcacctgttgctgctgagccctttctcagtgggactagttcgaactatgtggaggag
+            atgtactgtgcttggctggaaaaccccaaaagtgtacataagtcatgggacatttttttt
+            cgcaacacgaatgccggagccccaccgggcactgcctaccagagtccccttcccctgagc
+            cgaggctccctggctgctgtggcccatgcacagtccctggtagaagcacagcccaacgtg
+            gacaagctcgtggaggaccacctggcagtgcagtcgctcatcagggcatatcagatacga
+            gggcaccatgtagcacagctggaccccctggggattttggatgctgatctggactcctcc
+            gtgcccgctgacattatctcatccacagacaaacttgggttctatggcctggatgagtct
+            gacctcgacaaggtcttccacttgcccaccaccactttcatcgggggacaggaatcagca
+            cttcctctgcgggagatcatccgtcggctggagatggcctactgccagcatattggggtg
+            gagttcatgttcatcaatgacctggagcagtgccagtggatccggcagaagtttgagacc
+            cctgggatcatgcagttcacaaatgaggagaaacggaccctgctggccaggcttgtgcgg
+            tccaccaggtttgaggagttcctacagcggaagtggtcctctgagaagcgctttggtcta
+            gaaggctgcgaggtactgatccctgccctcaagaccatcattgacaagtctagtgagaat
+            ggcgtggactacgtgatcatgggcatgccacacagagggcggctgaacgtgcttgcaaat
+            gtcatcaggaaggagctggaacagatcttctgtcaattcgattcaaagctggaggcagct
+            gatgagggctccggagatgtgaagtaccacctgggcatgtatcaccgcaggatcaatcgt
+            gtcaccgacaggaacattaccttgtccttggtggccaacccttcccaccttgaggccgct
+            gaccccgtggtgatgggcaagaccaaagccgaacagttttactgtggcgacactgaaggg
+            aaaaaggtcatgtccatcctgttgcatggggatgctgcatttgctggccagggcattgtg
+            tacgagaccttccacctcagcgacctgccatcctacacaactcatggcaccgtgcacgtg
+            gtcgtcaacaaccagatcggcttcaccaccgaccctcggatggcccgctcctccccctac
+            cccactgacgtggcccgagtggtgaatgcccccattttccacgtgaactcagatgacccc
+            gaggctgtcatgtacgtgtgcaaagtggcggccgagtggaggagcaccttccacaaggac
+            gtggttgtcgatttggtgtgttaccggcgcaacggccacaacgagatggatgagcccatg
+            ttcacgcagccgctcatgtacaagcagatccgcaagcagaagcctgtgttacagaagtac
+            gctgagctgctggtgtcgcagggtgtggtcaaccagcctgagtatgaggaggaaatttcc
+            aagtatgataagatctgtgaggaagcttttgccagatctaaagatgagaagatcttgcac
+            attaagcactggctggactctccctggcctggcttcttcaccctggacgggcagcccagg
+            agcatgtcctgcccctccacgggtctgacggaggatattctgacacacatcgggaatgtg
+            gctagttctgtgcctgtggaaaactttactattcatggagggctgagccggatcttgaag
+            actcgtggggaaatggtgaagaaccggactgtggactgggctctagcggagtacatggcg
+            tttggctcgctcctgaaggagggcatccacattcggctgagcggccaggacgtggagcgg
+            ggcacattcagccaccgccaccatgtgctccatgaccagaatgtggacaagagaacctgc
+            atccccatgaaccatctctggcccaatcaggccccctatactgtgtgcaacagctcactg
+            tctgagtacggcgtgctgggctttgagctgggcttcgccatggccagtcctaatgccctg
+            gtcctctgggaagcccaatttggtgacttccacaacacggcccagtgtatcatcgaccag
+            ttcatctgcccgggacaagccaagtgggtgcggcagaatggcatcgtgttgctgctgccc
+            catggcatggagggcatgggtccagaacattcctccgcccgcccagagcggttcttgcag
+            atgtgcaacgatgacccagatgtcctgccagaccttaaagaagccaacttcgacatcaat
+            cagctatatgactgcaattgggttgttgtcaactgctccactcctggcaacttcttccac
+            gtgctacgacgccagatcctgctgccattccggaagccgttaattatcttcacccccaaa
+            tccctgttgcgccaccccgaggccagatccagctttgatgagatgcttccaggaacccac
+            ttccagcgggtgatcccagaagatggccctgcagctcagaacccagaaaatgtcaaaagg
+            cttctcttctgcaccggcaaagtgtattatgacctcacccgggagcgcaaagcacgcgac
+            atggtggggcaggtggccatcacaaggattgagcagctgtcgccattcccctttgacctc
+            ctgctgaaggaggtgcagaagtaccccaatgctgagctggcctggtgccaggaggagcac
+            aagaaccaaggctactatgactacgtgaagccaagacttcggaccaccatcagccgcgcc
+            aagcccgtctggtatgccggccgggacccagcggctgctccagccaccggcaacaagaag
+            acccacctgacggagctgcagcgcctcctggacacggccttcgacctggacgtcttcaag
+            aacttctcgtag
+///
+ENTRY       224               CDS       T01001
+NAME        ALDH3A2, ALDH10, FALDH, SLS
+DEFINITION  (RefSeq) aldehyde dehydrogenase 3 family member A2
+ORTHOLOGY   K00128  aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DISEASE     H00162  Sjogren-Larsson syndrome
+DRUG_TARGET Cyanamide: D00123
+            Disulfiram: D00131
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                224 (ALDH3A2)
+               00053 Ascorbate and aldarate metabolism
+                224 (ALDH3A2)
+               00620 Pyruvate metabolism
+                224 (ALDH3A2)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                224 (ALDH3A2)
+               00561 Glycerolipid metabolism
+                224 (ALDH3A2)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                224 (ALDH3A2)
+               00310 Lysine degradation
+                224 (ALDH3A2)
+               00330 Arginine and proline metabolism
+                224 (ALDH3A2)
+               00340 Histidine metabolism
+                224 (ALDH3A2)
+               00380 Tryptophan metabolism
+                224 (ALDH3A2)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                224 (ALDH3A2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 224 (ALDH3A2)
+POSITION    17p11.2
+MOTIF       Pfam: Aldedh LuxC PT-HINT
+DBLINKS     NCBI-GeneID: 224
+            NCBI-ProteinID: NP_000373
+            OMIM: 609523
+            HGNC: 403
+            Ensembl: ENSG00000072210
+            Vega: OTTHUMG00000059471
+            Pharos: P51648(Tbio)
+            UniProt: P51648
+STRUCTURE   PDB: 4QGK
+AASEQ       485
+            MELEVRRVRQAFLSGRSRPLRFRLQQLEALRRMVQEREKDILTAIAADLCKSEFNVYSQE
+            VITVLGEIDFMLENLPEWVTAKPVKKNVLTMLDEAYIQPQPLGVVLIIGAWNYPFVLTIQ
+            PLIGAIAAGNAVIIKPSELSENTAKILAKLLPQYLDQDLYIVINGGVEETTELLKQRFDH
+            IFYTGNTAVGKIVMEAAAKHLTPVTLELGGKSPCYIDKDCDLDIVCRRITWGKYMNCGQT
+            CIAPDYILCEASLQNQIVWKIKETVKEFYGENIKESPDYERIINLRHFKRILSLLEGQKI
+            AFGGETDEATRYIAPTVLTDVDPKTKVMQEEIFGPILPIVPVKNVDEAINFINEREKPLA
+            LYVFSHNHKLIKRMIDETSSGGVTGNDVIMHFTLNSFPFGGVGSSGMGAYHGKHSFDTFS
+            HQRPCLLKSLKREGANKLRYPPNSQSKVDWGKFFLLKRFNKEKLGLLLLTFLGIVAAVLV
+            KAEYY
+NTSEQ       1458
+            atggagctcgaagtccggcgggtccgacaggcgttcctgtccggccggtcgcgacctctg
+            cggtttcggctgcagcagctggaggccctgcggaggatggtgcaggagcgcgagaaggat
+            atcctgacggccatcgccgccgacctgtgcaagagtgaattcaatgtgtacagtcaggaa
+            gtcattactgtccttggggaaattgattttatgcttgagaatcttcctgaatgggttact
+            gctaaaccagttaagaagaacgtgctcaccatgctggatgaggcctatattcagccacag
+            cctctgggagtggtgctgataatcggagcttggaattaccccttcgttctcaccattcag
+            ccactgataggagccatcgctgcaggaaatgctgtgattataaagccttctgaactgagt
+            gaaaatacagccaagatcttggcaaagcttctccctcagtatttagaccaggatctctat
+            attgttattaatggtggtgttgaggaaaccacggagctcctgaagcagcgatttgaccac
+            attttctatacgggaaacactgcggttggcaaaattgtcatggaagctgctgccaagcat
+            ctgacccctgtgactcttgaactgggagggaaaagtccatgttatattgataaagattgt
+            gacctggacattgtttgcagacgcataacctggggaaaatacatgaattgtggccaaacc
+            tgcattgcacccgactatattctctgtgaagcatccctccaaaatcaaattgtatggaag
+            attaaggaaacagtgaaggaattttatggagaaaatataaaagagtctcctgattatgaa
+            aggatcatcaatcttcgtcattttaagaggatactaagtttgcttgaaggacaaaagata
+            gcttttggtggggagactgatgaggccacacgctacatagccccaacagtacttaccgat
+            gttgatcctaaaaccaaggtgatgcaagaagaaatttttggaccaattcttccaatagtg
+            cctgtgaaaaatgtagatgaggccataaatttcataaatgaacgtgaaaagcctctggct
+            ctttatgtattttcgcataaccataagctcatcaaacggatgattgatgagacatccagt
+            ggaggtgtcacaggcaatgacgtcattatgcacttcacgctcaactctttcccatttgga
+            ggagtgggttccagtgggatgggagcttatcacggaaaacatagttttgatactttttct
+            catcagcgtccctgtttattaaaaagtttaaagagagaaggtgctaacaaactcagatat
+            cctcccaacagccagtcaaaggtggattggggaaaattttttctcttgaaacggttcaac
+            aaagaaaaactcggtctcctgttgctcactttcctgggtattgtagccgctgtgcttgtc
+            aaggcagaatattactga
+///
+ENTRY       438               CDS       T01001
+NAME        ASMT, ASMTY, HIOMT, HIOMTY
+DEFINITION  (RefSeq) acetylserotonin O-methyltransferase
+ORTHOLOGY   K00543  acetylserotonin N-methyltransferase [EC:2.1.1.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                438 (ASMT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.4  acetylserotonin O-methyltransferase
+                 438 (ASMT)
+POSITION    Xp22.33 and Yp11.2
+MOTIF       Pfam: Methyltransf_2 Dimerisation2 Methyltransf_12 Methyltransf_25 Methyltransf_11 Methyltransf_23 Methyltransf_31 DUF1725 Dimerisation
+DBLINKS     NCBI-GeneID: 438
+            NCBI-ProteinID: NP_001164509
+            OMIM: 300015 402500
+            HGNC: 750
+            Ensembl: ENSG00000196433
+            Vega: OTTHUMG00000021065
+            Pharos: P46597(Tbio)
+            UniProt: P46597 A0A024RBT9
+STRUCTURE   PDB: 4A6D 4A6E
+AASEQ       373
+            MGSSEDQAYRLLNDYANGFMVSQVLFAACELGVFDLLAEAPGPLDVAAVAAGVRASAHGT
+            ELLLDICVSLKLLKVETRGGKAFYRNTELSSDYLTTVSPTSQCSMLKYMGRTSYRCWGHL
+            ADAVREGRNQYLETFGVPAEELFTAIYRSEGERLQFMQALQEVWSVNGRSVLTAFDLSVF
+            PLMCDLGGTWIKLETIILSKLSQGQKTKHRVFSLIGGAGALAKECMSLYPGCKITVFDIP
+            EVVWTAKQHFSFQEEEQIDFQEGDFFKDPLPEADLYILARVLHDWADGKCSHLLERIYHT
+            CKPGGGILVIESLLDEDRRGPLLTQLYSLNMLVQTEGQERTPTHYHMLLSSAGFRDFQFK
+            KTGAIYDAILARK
+NTSEQ       1122
+            atgggatcctcagaggaccaggcctatcgcctccttaatgactacgccaacggcttcatg
+            gtgtcccaggttctcttcgccgcctgcgagctgggcgtgtttgaccttctcgccgaggcc
+            ccagggcccctggacgtggcggcagtggctgcaggtgtgagggccagcgcccatgggaca
+            gagctcctgctggacatctgtgtgtccctgaagctgctgaaagtggagacgaggggagga
+            aaagctttctatcgaaacacagagctgtccagcgactacctgaccacggtcagcccgacg
+            tcacaatgcagcatgctgaagtacatgggcaggaccagctaccggtgctggggccacctg
+            gcagacgccgtgagagaaggaaggaaccagtacctggagacgtttggcgttcccgctgaa
+            gagctttttacggccatctacaggtccgagggcgagcggctacagttcatgcaagctctg
+            caggaggtctggagcgtcaacgggagaagcgtgctgaccgcctttgacctgtcagtgttc
+            ccacttatgtgtgaccttggtgggacatggataaagctggaaaccatcattctcagcaaa
+            ctatcgcaaggacagaaaaccaaacaccgcgtgttctcactcataggtggggctggagct
+            ctggctaaggaatgcatgtctctgtaccctggatgtaagatcaccgtttttgacatccca
+            gaagtggtgtggacggcaaagcagcacttctcattccaggaggaagaacagattgacttc
+            caggaaggggatttcttcaaagaccctcttccggaagctgatctgtacatcctggccagg
+            gtcctccatgactgggcagacggaaagtgctcacacctgctggagaggatctaccacact
+            tgcaagccaggtggtggcattctggtaattgaaagcctcctggatgaagacaggcgaggt
+            cctctgctcacgcagctctactctctgaacatgcttgtgcagacggaagggcaggagagg
+            acccccacccactaccacatgctcctctcttctgctggcttcagagacttccagtttaag
+            aaaacaggagccatttatgatgccattttagccaggaaataa
+///
+ENTRY       11185             CDS       T01001
+NAME        INMT, TEMT
+DEFINITION  (RefSeq) indolethylamine N-methyltransferase
+ORTHOLOGY   K00562  methyltransferase [EC:2.1.1.49 2.1.1.96]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00450  Selenocompound metabolism
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                11185 (INMT)
+              Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                11185 (INMT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.49  amine N-methyltransferase
+                 11185 (INMT)
+                2.1.1.96  thioether S-methyltransferase
+                 11185 (INMT)
+POSITION    7p14.3
+MOTIF       Pfam: NNMT_PNMT_TEMT Methyltransf_23 Methyltransf_11
+DBLINKS     NCBI-GeneID: 11185
+            NCBI-ProteinID: NP_006765
+            OMIM: 604854
+            HGNC: 6069
+            Ensembl: ENSG00000241644
+            Vega: OTTHUMG00000167163
+            Pharos: O95050(Tchem)
+            UniProt: O95050
+STRUCTURE   PDB: 2A14
+AASEQ       263
+            MKGGFTGGDEYQKHFLPRDYLATYYSFDGSPSPEAEMLKFNLECLHKTFGPGGLQGDTLI
+            DIGSGPTIYQVLAACDSFQDITLSDFTDRNREELEKWLKKEPGAYDWTPAVKFACELEGN
+            SGRWEEKEEKLRAAVKRVLKCDVHLGNPLAPAVLPLADCVLTLLAMECACCSLDAYRAAL
+            CNLASLLKPGGHLVTTVTLRLPSYMVGKREFSCVALEKEEVEQAVLDAGFDIEQLLHSPQ
+            SYSVTNAANNGVCFIVARKKPGP
+NTSEQ       792
+            atgaagggtggcttcactgggggtgatgagtaccagaagcacttcctgcccagggactac
+            ttggctacttactacagcttcgatggcagcccctcacccgaggccgagatgctgaagttt
+            aacttggaatgtctccacaagaccttcggccctggaggcctccaaggggacacgctgatt
+            gacattggctcaggtcctaccatctaccaagttcttgctgcctgtgattccttccaagac
+            atcactctctccgactttaccgaccgcaaccgggaggagctggaaaagtggctgaagaag
+            gagccgggggcctatgactggaccccagcggtgaaattcgcctgtgagctggaaggaaac
+            agcggccgatgggaggagaaggaggagaagctgcgggcagcggtgaagcgggtgctcaag
+            tgcgatgtccacctgggcaacccgctggccccggctgtgttgcctctcgccgactgtgtg
+            ctcaccctgctggccatggagtgtgcctgctgtagccttgatgcctaccgcgctgccctg
+            tgcaaccttgcctcactgctcaagccgggtggccacctggtgaccactgtcacgcttcgg
+            ctcccgtcctacatggtggggaagcgtgaattttcctgcgtggccctggagaaagaggag
+            gtggagcaggctgtcctggatgctggctttgacattgaacagctcctacacagtccccag
+            agctactctgtcaccaatgctgccaacaatggggtctgcttcattgtggctcgcaagaag
+            cctgggccctga
+///
+ENTRY       3620              CDS       T01001
+NAME        IDO1, IDO, IDO-1, INDO
+DEFINITION  (RefSeq) indoleamine 2,3-dioxygenase 1
+ORTHOLOGY   K00463  indoleamine 2,3-dioxygenase [EC:1.13.11.52]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa05143  African trypanosomiasis
+DRUG_TARGET Indoximod: D10640
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                3620 (IDO1)
+             Human Diseases
+              Infectious diseases
+               05143 African trypanosomiasis
+                3620 (IDO1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.13  Acting on single donors with incorporation of molecular oxygen (oxygenases)
+               1.13.11  With incorporation of two atoms of oxygen
+                1.13.11.52  indoleamine 2,3-dioxygenase
+                 3620 (IDO1)
+POSITION    8p11.21
+MOTIF       Pfam: IDO DUF1864 Meckelin
+DBLINKS     NCBI-GeneID: 3620
+            NCBI-ProteinID: NP_002155
+            OMIM: 147435
+            HGNC: 6059
+            Ensembl: ENSG00000131203
+            Vega: OTTHUMG00000164057
+            Pharos: P14902(Tchem)
+            UniProt: P14902
+STRUCTURE   PDB: 4U72 5EK3 6F0A 5WHR 2D0T 4U74 5WMU 5WN8 5WMV 5EK4 5EK2
+                 5WMX 5ETW 4PK5 5WMW 5XE1 2D0U 4PK6
+AASEQ       403
+            MAHAMENSWTISKEYHIDEEVGFALPNPQENLPDFYNDWMFIAKHLPDLIESGQLRERVE
+            KLNMLSIDHLTDHKSQRLARLVLGCITMAYVWGKGHGDVRKVLPRNIAVPYCQLSKKLEL
+            PPILVYADCVLANWKKKDPNKPLTYENMDVLFSFRDGDCSKGFFLVSLLVEIAAASAIKV
+            IPTVFKAMQMQERDTLLKALLEIASCLEKALQVFHQIHDHVNPKAFFSVLRIYLSGWKGN
+            PQLSDGLVYEGFWEDPKEFAGGSAGQSSVFQCFDVLLGIQQTAGGGHAAQFLQDMRRYMP
+            PAHRNFLCSLESNPSVREFVLSKGDAGLREAYDACVKALVSLRSYHLQIVTKYILIPASQ
+            QPKENKTSEDPSKLEAKGTGGTDLMNFLKTVRSTTEKSLLKEG
+NTSEQ       1212
+            atggcacacgctatggaaaactcctggacaatcagtaaagagtaccatattgatgaagaa
+            gtgggctttgctctgccaaatccacaggaaaatctacctgatttttataatgactggatg
+            ttcattgctaaacatctgcctgatctcatagagtctggccagcttcgagaaagagttgag
+            aagttaaacatgctcagcattgatcatctcacagaccacaagtcacagcgccttgcacgt
+            ctagttctgggatgcatcaccatggcatatgtgtggggcaaaggtcatggagatgtccgt
+            aaggtcttgccaagaaatattgctgttccttactgccaactctccaagaaactggaactg
+            cctcctattttggtttatgcagactgtgtcttggcaaactggaagaaaaaggatcctaat
+            aagcccctgacttatgagaacatggacgttttgttctcatttcgtgatggagactgcagt
+            aaaggattcttcctggtctctctattggtggaaatagcagctgcttctgcaatcaaagta
+            attcctactgtattcaaggcaatgcaaatgcaagaacgggacactttgctaaaggcgctg
+            ttggaaatagcttcttgcttggagaaagcccttcaagtgtttcaccaaatccacgatcat
+            gtgaacccaaaagcatttttcagtgttcttcgcatatatttgtctggctggaaaggcaac
+            ccccagctatcagacggtctggtgtatgaagggttctgggaagacccaaaggagtttgca
+            gggggcagtgcaggccaaagcagcgtctttcagtgctttgacgtcctgctgggcatccag
+            cagactgctggtggaggacatgctgctcagttcctccaggacatgagaagatatatgcca
+            ccagctcacaggaacttcctgtgctcattagagtcaaatccctcagtccgtgagtttgtc
+            ctttcaaaaggtgatgctggcctgcgggaagcttatgacgcctgtgtgaaagctctggtc
+            tccctgaggagctaccatctgcaaatcgtgactaagtacatcctgattcctgcaagccag
+            cagccaaaggagaataagacctctgaagacccttcaaaactggaagccaaaggaactgga
+            ggcactgatttaatgaatttcctgaagactgtaagaagtacaactgagaaatcccttttg
+            aaggaaggttaa
+///
+ENTRY       2639              CDS       T01001
+NAME        GCDH, ACAD5, GCD
+DEFINITION  (RefSeq) glutaryl-CoA dehydrogenase
+ORTHOLOGY   K00252  glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+DISEASE     H00178  Glutaric acidemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00071 Fatty acid degradation
+                2639 (GCDH)
+              Amino acid metabolism
+               00310 Lysine degradation
+                2639 (GCDH)
+               00380 Tryptophan metabolism
+                2639 (GCDH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.8  With a flavin as acceptor
+                1.3.8.6  glutaryl-CoA dehydrogenase (ETF)
+                 2639 (GCDH)
+POSITION    19p13.13
+MOTIF       Pfam: Acyl-CoA_dh_N Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_2
+DBLINKS     NCBI-GeneID: 2639
+            NCBI-ProteinID: NP_000150
+            OMIM: 608801
+            HGNC: 4189
+            Ensembl: ENSG00000105607
+            Vega: OTTHUMG00000180561
+            Pharos: Q92947(Tbio)
+            UniProt: Q92947 A0A024R7F9
+STRUCTURE   PDB: 1SIQ 2R0N 1SIR 2R0M
+AASEQ       438
+            MALRGVSVRLLSRGPGLHVLRTWVSSAAQTEKGGRTQSQLAKSSRPEFDWQDPLVLEEQL
+            TTDEILIRDTFRTYCQERLMPRILLANRNEVFHREIISEMGELGVLGPTIKGYGCAGVSS
+            VAYGLLARELERVDSGYRSAMSVQSSLVMHPIYAYGSEEQRQKYLPQLAKGELLGCFGLT
+            EPNSGSDPSSMETRAHYNSSNKSYTLNGTKTWITNSPMADLFVVWARCEDGCIRGFLLEK
+            GMRGLSAPRIQGKFSLRASATGMIIMDGVEVPEENVLPGASSLGGPFGCLNNARYGIAWG
+            VLGASEFCLHTARQYALDRMQFGVPLARNQLIQKKLADMLTEITLGLHACLQLGRLKDQD
+            KAAPEMVSLLKRNNCGKALDIARQARDMLGGNGISDEYHVIRHAMNLEAVNTYEGTHDIH
+            ALILGRAITGIQAFTASK
+NTSEQ       1317
+            atggccctgagaggcgtctccgtgcggctgctgagccgcggacccggcctgcacgtcctt
+            cgcacgtgggtctcgtcggcggcgcagaccgagaaaggcgggagaacacagagccaactg
+            gctaagtcctcgcgtcccgagtttgactggcaggacccgctggtgctggaggagcagctg
+            accacagatgagatcctcatcagggacaccttccgcacctactgccaggagagactcatg
+            cctcgcatcctgttggccaatcgcaacgaagtttttcatcgggagatcatttcggagatg
+            ggggagttgggtgtgctgggccccaccatcaaaggatatggctgtgctggggtttcgtct
+            gtggcctatgggctcctggcccgagagctggagcgggtggacagtggctacaggtcggcg
+            atgagtgtccagtcctccctcgtcatgcaccctatctatgcctatggcagcgaggaacag
+            cggcagaagtacctgccccagctggccaagggggagctcctgggctgcttcgggctcaca
+            gagcccaacagcggaagtgaccccagcagcatggagaccagagcccactacaactcatcc
+            aacaagagctacaccctcaatgggaccaagacctggatcacgaactcgcctatggccgat
+            ctgtttgtagtgtgggctcggtgtgaagatggctgcattcggggcttcctgctggagaag
+            gggatgcggggtctctcggcccccaggatccagggcaagttctcgctgcgggcctcagcc
+            acaggcatgatcatcatggacggtgtggaggtgccagaggagaatgtgctccctggtgca
+            tccagcctggggggtcccttcggctgcctgaacaacgcccggtacggcatcgcgtggggc
+            gtgcttggagcttcggagttctgcttgcacacagcccggcagtacgccctcgacaggatg
+            cagtttggtgtcccactggccaggaaccagctgattcagaagaagctggcagacatgctc
+            actgagattaccctgggccttcacgcctgcctgcagctcggccgcttgaaggaccaggac
+            aaggctgcccccgagatggtttctctgctgaagaggaataactgtgggaaagccctggac
+            atcgcccgccaggcccgagacatgctgggggggaatgggatttctgacgagtatcacgtg
+            atccggcacgccatgaacctggaggccgtgaacacctacgaaggtacacatgacattcac
+            gccctgatccttgggagagctatcacgggaatccaggcgttcacggccagcaagtga
+///
+ENTRY       6999              CDS       T01001
+NAME        TDO2, HYPTRP, TDO, TO, TPH2, TRPO
+DEFINITION  (RefSeq) tryptophan 2,3-dioxygenase
+ORTHOLOGY   K00453  tryptophan 2,3-dioxygenase [EC:1.13.11.11]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                6999 (TDO2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.13  Acting on single donors with incorporation of molecular oxygen (oxygenases)
+               1.13.11  With incorporation of two atoms of oxygen
+                1.13.11.11  tryptophan 2,3-dioxygenase
+                 6999 (TDO2)
+POSITION    4q32.1
+MOTIF       Pfam: Trp_dioxygenase DUF3107
+DBLINKS     NCBI-GeneID: 6999
+            NCBI-ProteinID: NP_005642
+            OMIM: 191070
+            HGNC: 11708
+            Ensembl: ENSG00000151790
+            Vega: OTTHUMG00000161838
+            Pharos: P48775(Tchem)
+            UniProt: P48775
+STRUCTURE   PDB: 5TIA 5TI9 4PW8
+AASEQ       406
+            MSGCPFLGNNFGYTFKKLPVEGSEEDKSQTGVNRASKGGLIYGNYLHLEKVLNAQELQSE
+            TKGNKIHDEHLFIITHQAYELWFKQILWELDSVREIFQNGHVRDERNMLKVVSRMHRVSV
+            ILKLLVQQFSILETMTALDFNDFREYLSPASGFQSLQFRLLENKIGVLQNMRVPYNRRHY
+            RDNFKGEENELLLKSEQEKTLLELVEAWLERTPGLEPHGFNFWGKLEKNITRGLEEEFIR
+            IQAKEESEEKEEQVAEFQKQKEVLLSLFDEKRHEHLLSKGERRLSYRALQGALMIYFYRE
+            EPRFQVPFQLLTSLMDIDSLMTKWRYNHVCMVHRMLGSKAGTGGSSGYHYLRSTVSDRYK
+            VFVDLFNLSTYLIPRHWIPKMNPTIHKFLYTAEYCDSSYFSSDESD
+NTSEQ       1221
+            atgagtgggtgcccatttttaggaaacaactttggatatacttttaaaaaactccccgta
+            gaaggcagcgaagaagacaaatcacaaactggtgtgaatagagccagcaaaggaggtctt
+            atctatgggaactacctgcatttggaaaaagttttgaatgcacaagaactgcaaagtgaa
+            acaaaaggaaataaaatccatgatgaacatctttttatcataactcatcaagcttatgaa
+            ctctggtttaagcaaatcctctgggagttggattctgttcgagagatctttcagaatggc
+            catgtcagagatgaaaggaacatgcttaaggttgtttctcggatgcaccgagtgtcagtg
+            atcctgaaactgctggtgcagcagttttccattctggagacgatgacagccttggacttc
+            aatgacttcagagagtacttatctccagcatcaggcttccagagtttgcaattccgacta
+            ttagaaaacaagataggtgttcttcagaacatgagagtcccttataacagaagacattat
+            cgtgataacttcaaaggagaagaaaatgaactgctacttaaatctgagcaggaaaagaca
+            cttctggaattagtggaggcatggctggaaagaactccaggtttagagccacatggattt
+            aacttctggggaaagcttgaaaaaaatatcaccagaggcctggaagaggaattcataagg
+            attcaggctaaagaagagtctgaagaaaaagaggaacaggtggctgaatttcagaagcaa
+            aaagaggtgctactgtccttatttgatgagaaacgtcatgaacatctccttagtaaaggt
+            gaaagacggctgtcatacagagcacttcagggagcattgatgatatatttttacagggaa
+            gagcctaggttccaggtgccttttcagttgctgacttctcttatggacatagattcactg
+            atgaccaaatggagatataaccatgtgtgcatggtgcacagaatgctgggcagcaaagct
+            ggcaccggtggttcctcaggctatcactacctgcgatcaactgtgagtgataggtacaag
+            gtatttgtagatttatttaatctttcaacatacctgattccccgacactggataccgaag
+            atgaacccaaccattcacaaatttctatatacagcagaatactgtgatagctcctacttc
+            agcagtgatgaatcagattaa
+///
+ENTRY       130013            CDS       T01001
+NAME        ACMSD
+DEFINITION  (RefSeq) aminocarboxymuconate semialdehyde decarboxylase
+ORTHOLOGY   K03392  aminocarboxymuconate-semialdehyde decarboxylase [EC:4.1.1.45]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                130013 (ACMSD)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.45  aminocarboxymuconate-semialdehyde decarboxylase
+                 130013 (ACMSD)
+POSITION    2q21.3
+MOTIF       Pfam: Amidohydro_2 DUF2963
+DBLINKS     NCBI-GeneID: 130013
+            NCBI-ProteinID: NP_612199
+            OMIM: 608889
+            HGNC: 19288
+            Ensembl: ENSG00000153086
+            Vega: OTTHUMG00000131711
+            Pharos: Q8TDX5(Tbio)
+            UniProt: Q8TDX5
+STRUCTURE   PDB: 4OFC 2WM1 4IGN 4IGM 4IH3
+AASEQ       336
+            MKIDIHSHILPKEWPDLKKRFGYGGWVQLQHHSKGEAKLLKDGKVFRVVRENCWDPEVRI
+            REMDQKGVTVQALSTVPVMFSYWAKPEDTLNLCQLLNNDLASTVVSYPRRFVGLGTLPMQ
+            APELAVKEMERCVKELGFPGVQIGTHVNEWDLNAQELFPVYAAAERLKCSLFVHPWDMQM
+            DGRMAKYWLPWLVGMPAETTIAICSMIMGGVFEKFPKLKVCFAHGGGAFPFTVGRISHGF
+            SMRPDLCAQDNPMNPKKYLGSFYTDALVHDPLSLKLLTDVIGKDKVILGTDYPFPLGELE
+            PGKLIESMEEFDEETKNKLKAGNALAFLGLERKQFE
+NTSEQ       1011
+            atgaaaattgacatccatagtcatattctaccaaaagaatggccagatctaaaaaagagg
+            tttggctacggaggctgggtgcagctccaacaccacagcaagggagaagcaaagttgttg
+            aaagatgggaaagtcttcagagtggtgcgagagaattgctgggatccagaagttcgtatt
+            agagaaatggaccaaaaaggagtaacagtgcaagccctttccacagttcctgtcatgttt
+            agctactgggccaaacctgaggacactttaaacctgtgccagcttttaaacaacgacctt
+            gccagcaccgttgtgagctaccccaggaggttcgtgggtctggggacgttgcccatgcag
+            gcccctgagctggcggtcaaggagatggagcgctgtgtgaaagagctgggctttcccggg
+            gtccaaattggcacccacgtcaacgagtgggacctgaacgcgcaggagctctttcctgtc
+            tatgcggcagccgaaaggctgaagtgttccctgttcgtgcatccctgggacatgcagatg
+            gatggacgaatggccaaatactggctcccttggcttgtaggaatgccagcagagaccacc
+            atagccatttgctccatgatcatgggtggagtatttgagaagtttcccaaactgaaagtg
+            tgtttcgcacatggtggtggtgccttccccttcacagtgggaagaatctcccatggattc
+            agcatgcgcccagatctgtgtgcccaggacaaccccatgaacccgaagaaataccttggt
+            tccttttacacagatgctttggttcatgatcctctgtccctcaagctgttaacagatgtc
+            ataggaaaggataaagtcattttgggaaccgattacccctttccactaggtgagctggaa
+            cctgggaaactaatagagtccatggaagaatttgatgaagaaacaaagaataaactcaaa
+            gccggcaatgccctggcatttttgggtcttgagagaaaacaatttgaatga
+///
+ENTRY       847               CDS       T01001
+NAME        CAT
+DEFINITION  (RefSeq) catalase
+ORTHOLOGY   K03781  catalase [EC:1.11.1.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa01200  Carbon metabolism
+            hsa04068  FoxO signaling pathway
+            hsa04146  Peroxisome
+            hsa04211  Longevity regulating pathway
+            hsa04213  Longevity regulating pathway - multiple species
+            hsa05014  Amyotrophic lateral sclerosis (ALS)
+DISEASE     H00203  Acatalasemia
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                847 (CAT)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                847 (CAT)
+             Environmental Information Processing
+              Signal transduction
+               04068 FoxO signaling pathway
+                847 (CAT)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                847 (CAT)
+             Organismal Systems
+              Aging
+               04211 Longevity regulating pathway - mammal
+                847 (CAT)
+               04213 Longevity regulating pathway - multiple species
+                847 (CAT)
+             Human Diseases
+              Neurodegenerative diseases
+               05014 Amyotrophic lateral sclerosis (ALS)
+                847 (CAT)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.6  catalase
+                 847 (CAT)
+POSITION    11p13
+MOTIF       Pfam: Catalase Catalase-rel
+DBLINKS     NCBI-GeneID: 847
+            NCBI-ProteinID: NP_001743
+            OMIM: 115500
+            HGNC: 1516
+            Ensembl: ENSG00000121691
+            Vega: OTTHUMG00000044353
+            Pharos: P04040(Tbio)
+            UniProt: P04040
+STRUCTURE   PDB: 1DGF 1DGG 1DGH 1DGB 1F4J 1QQW
+AASEQ       527
+            MADSRDPASDQMQHWKEQRAAQKADVLTTGAGNPVGDKLNVITVGPRGPLLVQDVVFTDE
+            MAHFDRERIPERVVHAKGAGAFGYFEVTHDITKYSKAKVFEHIGKKTPIAVRFSTVAGES
+            GSADTVRDPRGFAVKFYTEDGNWDLVGNNTPIFFIRDPILFPSFIHSQKRNPQTHLKDPD
+            MVWDFWSLRPESLHQVSFLFSDRGIPDGHRHMNGYGSHTFKLVNANGEAVYCKFHYKTDQ
+            GIKNLSVEDAARLSQEDPDYGIRDLFNAIATGKYPSWTFYIQVMTFNQAETFPFNPFDLT
+            KVWPHKDYPLIPVGKLVLNRNPVNYFAEVEQIAFDPSNMPPGIEASPDKMLQGRLFAYPD
+            THRHRLGPNYLHIPVNCPYRARVANYQRDGPMCMQDNQGGAPNYYPNSFGAPEQQPSALE
+            HSIQYSGEVRRFNTANDDNVTQVRAFYVNVLNEEQRKRLCENIAGHLKDAQIFIQKKAVK
+            NFTEVHPDYGSHIQALLDKYNAEKPKNAIHTFVQSGSHLAAREKANL
+NTSEQ       1584
+            atggctgacagccgggatcccgccagcgaccagatgcagcactggaaggagcagcgggcc
+            gcgcagaaagctgatgtcctgaccactggagctggtaacccagtaggagacaaacttaat
+            gttattacagtagggccccgtgggccccttcttgttcaggatgtggttttcactgatgaa
+            atggctcattttgaccgagagagaattcctgagagagttgtgcatgctaaaggagcaggg
+            gcctttggctactttgaggtcacacatgacattaccaaatactccaaggcaaaggtattt
+            gagcatattggaaagaagactcccatcgcagttcggttctccactgttgctggagaatcg
+            ggttcagctgacacagttcgggaccctcgtgggtttgcagtgaaattttacacagaagat
+            ggtaactgggatctcgttggaaataacacccccattttcttcatcagggatcccatattg
+            tttccatcttttatccacagccaaaagagaaatcctcagacacatctgaaggatccggac
+            atggtctgggacttctggagcctacgtcctgagtctctgcatcaggtttctttcttgttc
+            agtgatcgggggattccagatggacatcgccacatgaatggatatggatcacatactttc
+            aagctggttaatgcaaatggggaggcagtttattgcaaattccattataagactgaccag
+            ggcatcaaaaacctttctgttgaagatgcggcgagactttcccaggaagatcctgactat
+            ggcatccgggatctttttaacgccattgccacaggaaagtacccctcctggactttttac
+            atccaggtcatgacatttaatcaggcagaaacttttccatttaatccattcgatctcacc
+            aaggtttggcctcacaaggactaccctctcatcccagttggtaaactggtcttaaaccgg
+            aatccagttaattactttgctgaggttgaacagatagccttcgacccaagcaacatgcca
+            cctggcattgaggccagtcctgacaaaatgcttcagggccgcctttttgcctatcctgac
+            actcaccgccatcgcctgggacccaattatcttcatatacctgtgaactgtccctaccgt
+            gctcgagtggccaactaccagcgtgacggcccgatgtgcatgcaggacaatcagggtggt
+            gctccaaattactaccccaacagctttggtgctccggaacaacagccttctgccctggag
+            cacagcatccaatattctggagaagtgcggagattcaacactgccaatgatgataacgtt
+            actcaggtgcgggcattctatgtgaacgtgctgaatgaggaacagaggaaacgtctgtgt
+            gagaacattgccggccacctgaaggatgcacaaattttcatccagaagaaagcggtcaag
+            aacttcactgaggtccaccctgactacgggagccacatccaggctcttctggacaagtac
+            aatgctgagaagcctaagaatgcgattcacacctttgtgcagtccggatctcacttggcg
+            gcaagggagaaggcaaatctgtga
+///
+ENTRY       169355            CDS       T01001
+NAME        IDO2, INDOL1
+DEFINITION  (RefSeq) indoleamine 2,3-dioxygenase 2
+ORTHOLOGY   K00463  indoleamine 2,3-dioxygenase [EC:1.13.11.52]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa05143  African trypanosomiasis
+DRUG_TARGET Indoximod: D10640
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                169355 (IDO2)
+             Human Diseases
+              Infectious diseases
+               05143 African trypanosomiasis
+                169355 (IDO2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.13  Acting on single donors with incorporation of molecular oxygen (oxygenases)
+               1.13.11  With incorporation of two atoms of oxygen
+                1.13.11.52  indoleamine 2,3-dioxygenase
+                 169355 (IDO2)
+POSITION    8p11.21
+MOTIF       Pfam: IDO DUF1864
+DBLINKS     NCBI-GeneID: 169355
+            NCBI-ProteinID: NP_919270
+            OMIM: 612129
+            HGNC: 27269
+            Ensembl: ENSG00000188676
+            Vega: OTTHUMG00000141271
+            Pharos: Q6ZQW0(Tbio)
+            UniProt: Q6ZQW0
+AASEQ       420
+            MLHFHYYDTSNKIMEPHRPNVKTAVPLSLESYHISEEYGFLLPDSLKELPDHYRPWMEIA
+            NKLPQLIDAHQLQAHVDKMPLLSCQFLKGHREQRLAHLVLSFLTMGYVWQEGEAQPAEVL
+            PRNLALPFVEVSRNLGLPPILVHSDLVLTNWTKKDPDGFLEIGNLETIISFPGGESLHGF
+            ILVTALVEKEAVPGIKALVQATNAILQPNQEALLQALQRLRLSIQDITKTLGQMHDYVDP
+            DIFYAGIRIFLSGWKDNPAMPAGLMYEGVSQEPLKYSGGSAAQSTVLHAFDEFLGIRHSK
+            ESGDFLYRMRDYMPPSHKAFIEDIHSAPSLRDYILSSGQDHLLTAYNQCVQALAELRSYH
+            ITMVTKYLITAAAKAKHGKPNHLPGPPQALKDRGTGGTAVMSFLKSVRDKTLESILHPRG
+NTSEQ       1263
+            atgttgcattttcattattatgatacttcaaacaaaataatggagccccacagaccgaat
+            gtgaagacagcagtgccattgtctttggaaagctatcacatatctgaagagtatggcttt
+            cttcttccagattctctgaaagaacttccagatcattataggccttggatggaaattgcc
+            aacaaacttcctcaattgattgatgctcaccagcttcaagctcatgtggacaagatgccc
+            ctgctgagctgccagttcctgaagggtcaccgggagcagcgcctggcccacctggtcctg
+            agcttcctcaccatgggttatgtctggcaggaaggagaggcgcagcctgcagaggtcctg
+            ccaaggaatcttgcccttccatttgtcgaagtctccaggaacttggggctccctcctatc
+            ctggtccactcagacttggtgctgacgaactggaccaaaaaagatccagacggattcctg
+            gaaattgggaacctggagaccatcatctcatttcctgggggagagagcctgcatggtttt
+            atactggtgactgctttggtagagaaagaagcagtgcctgggataaaggctcttgttcag
+            gccacgaatgctatcttgcagcccaaccaggaggccctgctccaagccctgcagcgactg
+            agactgtctattcaggacatcaccaaaaccttaggacagatgcatgattatgtagatcca
+            gacatattttatgcaggcatccggatctttctctctggatggaaagacaacccagcaatg
+            cctgcagggctgatgtatgaaggagtttcccaagagcccctgaaatactccggcgggagt
+            gcagctcagagcacagtgcttcatgcctttgatgagttcttaggcattcgtcatagcaag
+            gaaagtggtgactttctgtacagaatgagggattacatgcctccttcccataaggccttc
+            atagaagacatccactcagcaccttccctgagggactacatcctgtcatctggacaggac
+            cacttgctgacagcttataaccagtgtgtgcaggccctggcagagctgcggagctatcac
+            atcaccatggtcaccaaatacctcatcacagctgcagccaaggcaaagcatgggaagcca
+            aaccatctcccagggcctcctcaggctttaaaagacaggggcacaggtggaaccgcagtt
+            atgagctttcttaagagtgtcagggataagaccttggagtcaatccttcacccacgtggt
+            tag
+///
+ENTRY       501               CDS       T01001
+NAME        ALDH7A1, ATQ1, EPD, PDE
+DEFINITION  (RefSeq) aldehyde dehydrogenase 7 family member A1
+ORTHOLOGY   K14085  aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DISEASE     H01247  Pyridoxine-dependent epilepsy (PDE)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                501 (ALDH7A1)
+               00053 Ascorbate and aldarate metabolism
+                501 (ALDH7A1)
+               00620 Pyruvate metabolism
+                501 (ALDH7A1)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                501 (ALDH7A1)
+               00561 Glycerolipid metabolism
+                501 (ALDH7A1)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                501 (ALDH7A1)
+               00280 Valine, leucine and isoleucine degradation
+                501 (ALDH7A1)
+               00310 Lysine degradation
+                501 (ALDH7A1)
+               00330 Arginine and proline metabolism
+                501 (ALDH7A1)
+               00340 Histidine metabolism
+                501 (ALDH7A1)
+               00380 Tryptophan metabolism
+                501 (ALDH7A1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                501 (ALDH7A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 501 (ALDH7A1)
+                1.2.1.8  betaine-aldehyde dehydrogenase
+                 501 (ALDH7A1)
+                1.2.1.31  L-aminoadipate-semialdehyde dehydrogenase
+                 501 (ALDH7A1)
+POSITION    5q23.2
+MOTIF       Pfam: Aldedh
+DBLINKS     NCBI-GeneID: 501
+            NCBI-ProteinID: NP_001173
+            OMIM: 107323
+            HGNC: 877
+            Ensembl: ENSG00000164904
+            Vega: OTTHUMG00000128942
+            Pharos: P49419(Tbio)
+            UniProt: P49419
+STRUCTURE   PDB: 4ZUL 4ZVX 4ZVY 4X0U 4ZUK 4ZVW 4X0T 2J6L
+AASEQ       539
+            MWRLPRALCVHAAKTSKLSGPWSRPAAFMSTLLINQPQYAWLKELGLREENEGVYNGSWG
+            GRGEVITTYCPANNEPIARVRQASVADYEETVKKAREAWKIWADIPAPKRGEIVRQIGDA
+            LREKIQVLGSLVSLEMGKILVEGVGEVQEYVDICDYAVGLSRMIGGPILPSERSGHALIE
+            QWNPVGLVGIITAFNFPVAVYGWNNAIAMICGNVCLWKGAPTTSLISVAVTKIIAKVLED
+            NKLPGAICSLTCGGADIGTAMAKDERVNLLSFTGSTQVGKQVGLMVQERFGRSLLELGGN
+            NAIIAFEDADLSLVVPSALFAAVGTAGQRCTTARRLFIHESIHDEVVNRLKKAYAQIRVG
+            NPWDPNVLYGPLHTKQAVSMFLGAVEEAKKEGGTVVYGGKVMDRPGNYVEPTIVTGLGHD
+            ASIAHTETFAPILYVFKFKNEEEVFAWNNEVKQGLSSSIFTKDLGRIFRWLGPKGSDCGI
+            VNVNIPTSGAEIGGAFGGEKHTGGGRESGSDAWKQYMRRSTCTINYSKDLPLAQGIKFQ
+NTSEQ       1620
+            atgtggcgccttcctcgcgcgctgtgtgtgcacgctgcaaagaccagcaagctctctgga
+            ccttggagcaggcctgccgccttcatgtccactctcctcatcaatcagccccagtatgcg
+            tggctgaaagagctggggctccgcgaggaaaacgagggcgtgtataatggaagctgggga
+            ggccggggagaggttattacgacctattgccctgctaacaacgagccaatagcaagagtc
+            cgacaggccagtgtggcagactatgaagaaactgtaaagaaagcaagagaagcatggaaa
+            atctgggcagatattcctgctccaaaacgaggagaaatagtaagacagattggcgatgcc
+            ttgcgggagaagatccaagtactaggaagcttggtgtctttggagatggggaaaatctta
+            gtggaaggtgtgggtgaagttcaggagtatgtggatatctgtgactatgctgttggttta
+            tcaaggatgattggaggacctatcttgccttctgaaagatctggccatgcactgattgag
+            cagtggaatcccgtaggcctggttggaatcatcacggcattcaatttccctgtggcagtg
+            tatggttggaacaacgccatcgccatgatctgtggaaatgtctgcctctggaaaggagct
+            ccaaccacttccctcattagtgtggctgtcacaaagataatagccaaggttctggaggac
+            aacaagctgcctggtgcaatttgttccttgacttgtggtggagcagatattggcacagca
+            atggccaaagatgaacgagtgaacctgctgtccttcactgggagcactcaggtgggaaaa
+            caggtgggcctgatggtgcaggagaggtttgggagaagtctgttggaacttggaggaaac
+            aatgccattattgcctttgaagatgcagacctcagcttagttgttccatcagctctcttc
+            gctgctgtgggaacagctggccagaggtgtaccactgcgaggcgactgtttatacatgaa
+            agcatccatgatgaggttgtaaacagacttaaaaaggcctatgcacagatccgagttggg
+            aacccatgggaccctaatgttctctatgggccactccacaccaagcaggcagtgagcatg
+            tttcttggagcagtggaagaagcaaagaaagaaggtggcacagtggtctatgggggcaag
+            gttatggatcgccctggaaattatgtagaaccgacaattgtgacaggtcttggccacgat
+            gcgtccattgcacacacagagacttttgctccgattctctatgtctttaaattcaagaat
+            gaagaagaggtctttgcatggaataatgaagtaaaacagggactttcaagtagcatcttt
+            accaaagatctgggcagaatctttcgctggcttggacctaaaggatcagactgtggcatt
+            gtaaatgtcaacattccaacaagtggggctgagattggaggtgcctttggaggagaaaag
+            cacactggtggtggcagggagtctggcagtgatgcctggaaacagtacatgagaaggtct
+            acttgtactatcaactacagtaaagaccttcctctggcccaaggaatcaagtttcagtaa
+///
+ENTRY       55753             CDS       T01001
+NAME        OGDHL
+DEFINITION  (RefSeq) oxoglutarate dehydrogenase like
+ORTHOLOGY   K00164  2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00020  Citrate cycle (TCA cycle)
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+MODULE      hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                55753 (OGDHL)
+              Amino acid metabolism
+               00310 Lysine degradation
+                55753 (OGDHL)
+               00380 Tryptophan metabolism
+                55753 (OGDHL)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.4  With a disulfide as acceptor
+                1.2.4.2  oxoglutarate dehydrogenase (succinyl-transferring)
+                 55753 (OGDHL)
+POSITION    10q11.23
+MOTIF       Pfam: E1_dh Transket_pyr OxoGdeHyase_C 2-oxogl_dehyd_N
+DBLINKS     NCBI-GeneID: 55753
+            NCBI-ProteinID: NP_001334748
+            OMIM: 617513
+            HGNC: 25590
+            Ensembl: ENSG00000197444
+            Vega: OTTHUMG00000018200
+            Pharos: Q9ULD0(Tdark)
+            UniProt: Q9ULD0
+AASEQ       1010
+            MSQLRLLPSRLGVQAARLLAAHDVPVFGWRSRSSGPPATFPSSKGGGGSSYMEEMYFAWL
+            ENPQSVHKSWDSFFREASEEAFSGSAQPRPPSVVHESRSAVSSRTKTSKLVEDHLAVQSL
+            IRAYQIRGHHVAQLDPLGILDADLDSFVPSDLITTIDKLAFYDLQEADLDKEFQLPTTTF
+            IGGSENTLSLREIIRRLENTYCQHIGLEFMFINDVEQCQWIRQKFETPGVMQFSSEEKRT
+            LLARLVRSMRFEDFLARKWSSEKRFGLEGCEVMIPALKTIIDKSSEMGIENVILGMPHRG
+            RLNVLANVIRKDLEQIFCQFDPKLEAADEGSGDVKYHLGMYHERINRVTNRNITLSLVAN
+            PSHLEAVDPVVQGKTKAEQFYRGDAQGKKVMSILVHGDAAFAGQGVVYETFHLSDLPSYT
+            TNGTVHVVVNNQIGFTTDPRMARSSPYPTDVARVVNAPIFHVNADDPEAVIYVCSVAAEW
+            RNTFNKDVVVDLVCYRRRGHNEMDEPMFTQPLMYKQIHRQVPVLKKYADKLIAEGTVTLQ
+            EFEEEIAKYDRICEEAYGRSKDKKILHIKHWLDSPWPGFFNVDGEPKSMTCPATGIPEDM
+            LTHIGSVASSVPLEDFKIHTGLSRILRGRADMTKNRTVDWALAEYMAFGSLLKEGIHVRL
+            SGQDVERGTFSHRHHVLHDQEVDRRTCVPMNHLWPDQAPYTVCNSSLSEYGVLGFELGYA
+            MASPNALVLWEAQFGDFHNTAQCIIDQFISTGQAKWVRHNGIVLLLPHGMEGMGPEHSSA
+            RPERFLQMSNDDSDAYPAFTKDFEVSQLYDCNWIVVNCSTPANYFHVLRRQILLPFRKPL
+            IIFTPKSLLRHPEAKSSFDQMVSGTSFQRVIPEDGAAARAPEQVQRLIFCTGKVYYDLVK
+            ERSSQDLEEKVAITRLEQISPFPFDLIKQEAEKYPGAELAWCQEEHKNMGYYDYISPRFM
+            TILRRARPIWYVGRDPAAAPATGNRNTHLVSLKKFLDTAFNLQAFEGKTF
+NTSEQ       3033
+            atgagtcagctgaggctgctgccgtcccgtcttggggtacaggctgcgaggctcctggct
+            gcacatgacgtcccggtgtttggctggcgcagcaggtcctccgggccaccggccaccttc
+            ccaagcagcaaaggtggaggcggctccagttacatggaggagatgtacttcgcctggttg
+            gaaaacccccagagtgtccacaagtcctgggacagcttcttcagggaagccagcgaggaa
+            gccttttctggctctgctcagccacggcccccttctgttgtccatgagagcaggtctgca
+            gtctcaagtcggaccaagaccagcaaattggtggaggaccacctggctgtgcagtccctg
+            atccgggcctaccagatccggggtcaccatgtggcccagctggaccccctgggcattctg
+            gatgcagacctggactcctttgtgccctcagacttgatcacaaccattgataaactggcc
+            ttctatgaccttcaggaggctgaccttgataaggagttccagctgccgacaaccaccttc
+            attgggggctctgaaaacaccctctctctgcgggagatcattcggcgcctggagaacacc
+            tactgccagcacattggcctggagttcatgttcatcaacgatgtggagcagtgccagtgg
+            atccggcagaagtttgagacccctggtgtgatgcagttctccagcgaggagaagcggacc
+            ctgctggcccggctagtgcgctccatgaggtttgaagacttcctggcccggaaatggtcc
+            tcagagaagcggtttggcctggagggctgtgaagtgatgattcctgccctcaagaccatc
+            atcgacaaatccagcgagatggggattgagaatgtcatcttggggatgccacacagggga
+            aggctgaacgtgctggccaacgtgatccgcaaggacctggagcagatcttctgccagttt
+            gaccccaagctggaggcggcggacgagggctccggggatgtcaagtaccacctgggcatg
+            taccatgagaggatcaaccgcgtcaccaaccggaacatcactctgtcgctggttgccaac
+            ccctcccacctggaggcagtggaccctgtggtgcaggggaagacaaaggcagagcagttc
+            taccgtggagatgcccagggcaagaaggtcatgtccatcctggttcatggggacgccgcc
+            tttgctggccagggcgtggtatatgagaccttccacctgagcgacctgccctcctacacg
+            accaatggtaccgtgcacgtcgtcgtcaacaaccagattggattcaccacagacccccga
+            atggcccgctcctcaccatacccgaccgacgtggcccgggtggtcaatgcgcctatcttc
+            catgtgaatgccgatgacccagaggctgtgatatatgtgtgcagtgtggcagccgaatgg
+            agaaacactttcaacaaagatgttgtcgtggacctggtctgttaccgccggcgtggccac
+            aatgagatggacgagcccatgttcacccagccgctcatgtacaagcagatccacagacag
+            gtgcctgtgctgaagaagtacgcagacaagctgattgccgagggcacagtcaccctgcag
+            gagtttgaggaagaaattgccaaatacgaccggatctgtgaggaggcttatggcaggtcc
+            aaggataaaaagattctgcatataaagcactggttggactccccctggcctggcttcttc
+            aacgtagatggggagcccaagagcatgacatgcccagccacggggatccctgaggacatg
+            ctcacccacatcggcagtgtggccagctctgtgcccctggaggactttaagatccacact
+            ggcctctctcgcattctgcggggccgtgcggacatgaccaagaaccggacggtggactgg
+            gcgttggcagagtacatggcctttggctccctgctgaaggaaggcatccacgtgcggctc
+            agcgggcaggatgtggagaggggcacattcagtcaccggcaccatgttctccatgaccag
+            gaggttgaccgcaggacgtgtgtgcctatgaatcatctctggcctgaccaggccccgtac
+            accgtgtgcaacagctccctctcggagtacggagtcctgggctttgagctgggctatgcc
+            atggccagccccaatgccctggtcctctgggaggcccagtttggggacttccacaacacg
+            gcccagtgcatcatcgaccagttcatcagcaccggccaggccaagtgggtgcggcataat
+            ggcattgtgctgctgctgccccatggcatggaaggcatgggcccagagcactcgtcagcg
+            aggcccgaaaggttcctgcagatgagcaatgatgactcggatgcctaccctgcattcacc
+            aaggacttcgaggtgagccagctctatgactgcaactggatcgtggtcaactgctccaca
+            ccggccaactacttccacgtgctgcgccggcagatcctgctgcccttccgcaagccgctg
+            attatcttcacacctaaatctctgctgaggcacccagaggccaagtccagctttgaccaa
+            atggtatccgggaccagcttccagcgggtgattcctgaagatggggccgcagcacgggcc
+            cctgagcaggtgcagcggctcatcttctgcacgggaaaggtgtactatgacctggtgaag
+            gagcggagcagccaggacctggaggagaaagtggccatcacgcgcctggagcagatctct
+            ccattccccttcgacctgatcaagcaggaggcagagaagtacccaggtgcggagctggcc
+            tggtgtcaggaggagcacaagaacatgggctactatgactacatcagcccacgcttcatg
+            accatcctgaggcgcgcacggcccatatggtatgttggccgggacccagcggctgcacca
+            gccacaggaaacaggaacactcacctggtgtcactgaagaagtttctggatactgccttc
+            aatctccaggcctttgagggcaagacattttag
+///
+ENTRY       56267             CDS       T01001
+NAME        KYAT3, CCBL2, KAT3, KATIII
+DEFINITION  (RefSeq) kynurenine aminotransferase 3
+ORTHOLOGY   K00816  kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.7 4.4.1.13 2.6.1.64]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00450  Selenocompound metabolism
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                56267 (KYAT3)
+              Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                56267 (KYAT3)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                56267 (KYAT3)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.7  kynurenine---oxoglutarate transaminase
+                 56267 (KYAT3)
+                2.6.1.64  glutamine---phenylpyruvate transaminase
+                 56267 (KYAT3)
+             4. Lyases
+              4.4  Carbon-sulfur lyases
+               4.4.1  Carbon-sulfur lyases (only sub-subclass identified to date)
+                4.4.1.13  cysteine-S-conjugate beta-lyase
+                 56267 (KYAT3)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class I
+               56267 (KYAT3)
+POSITION    1p22.2
+MOTIF       Pfam: Aminotran_1_2 Cys_Met_Meta_PP DegT_DnrJ_EryC1 Luciferase_N
+DBLINKS     NCBI-GeneID: 56267
+            NCBI-ProteinID: NP_001008661
+            OMIM: 610656
+            HGNC: 33238
+            Ensembl: ENSG00000137944
+            Vega: OTTHUMG00000010617
+            Pharos: Q6YP21(Tdark)
+            UniProt: Q6YP21 B4DW13
+AASEQ       454
+            MFLAQRSLCSLSGRAKFLKTISSSKILGFSTSAKMSLKFTNAKRIEGLDSNVWIEFTKLA
+            ADPSVVNLGQGFPDISPPTYVKEELSKIAAIDSLNQYTRGFGHPSLVKALSYLYEKLYQK
+            QIDSNKEILVTVGAYGSLFNTIQALIDEGDEVILIVPFYDCYEPMVRMAGATPVFIPLRS
+            KPVYGKRWSSSDWTLDPQELESKFNSKTKAIILNTPHNPLGKVYNREELQVIADLCIKYD
+            TLCISDEVYEWLVYSGNKHLKIATFPGMWERTITIGSAGKTFSVTGWKLGWSIGPNHLIK
+            HLQTVQQNTIYTCATPLQEALAQAFWIDIKRMDDPECYFNSLPKELEVKRDRMVRLLESV
+            GLKPIVPDGGYFIIADVSLLDPDLSDMKNNEPYDYKFVKWMTKHKKLSAIPVSAFCNSET
+            KSQFEKFVRFCFIKKDSTLDAAEEIIKAWSVQKS
+NTSEQ       1365
+            atgtttttggcccagaggagcctctgctctcttagcggtagagcaaaattcctgaagaca
+            atttcttcttccaaaatcctcggattctctacttctgctaaaatgtcactgaaattcaca
+            aatgcaaaacggattgaaggacttgatagtaatgtgtggattgaatttaccaaattggct
+            gcagacccttctgttgtgaatcttggccaaggctttccagatatatcccctcctacatat
+            gtaaaagaagaattatcaaagattgcagcaatcgatagcctgaatcagtatacacgaggc
+            tttggccatccatcacttgtgaaagctctgtcctatctgtatgaaaagctttatcaaaag
+            caaattgattcaaataaagaaatccttgtgacagtaggagcatatggatctctttttaac
+            accattcaagcattaattgatgagggagatgaagtcatactaatagtgcctttctatgac
+            tgctatgagcccatggtgagaatggctggagcaacacctgtttttattcccctgagatct
+            aaacctgtttatggaaaaagatggtctagttctgactggacattagatcctcaagaactg
+            gaaagtaaatttaattccaaaaccaaagctattatactaaatactccacataacccactt
+            ggcaaggtgtataacagagaggaactgcaagtaattgctgacctttgcatcaaatatgac
+            acactctgcatcagcgatgaggtttatgaatggcttgtatattctggaaataagcactta
+            aaaatagctacttttccaggtatgtgggagagaacaataacaataggaagtgctggaaag
+            actttcagtgtaactggctggaagcttggctggtccattggtccaaatcatttgataaaa
+            catttacagacagttcaacaaaacacgatttatacttgtgcaactcctttacaggaagcc
+            ttggctcaagctttctggattgacatcaagcgcatggatgacccagaatgttactttaat
+            tctttgccaaaagagttagaagtaaaaagagatcggatggtacgtttacttgaaagtgtt
+            ggcctaaaacccatagttcctgatggaggatacttcatcatcgctgatgtgtctttgcta
+            gatccagacctctctgatatgaagaataatgagccttatgactataagtttgtgaaatgg
+            atgactaaacataagaaactatcagccatccccgtttcagcattctgtaactcagagact
+            aaatcacagtttgagaagtttgtgcgtttttgcttcattaaaaaagacagcacactggat
+            gctgctgaagaaatcatcaaggcatggagtgtacagaagtcttga
+///
+ENTRY       1544              CDS       T01001
+NAME        CYP1A2, CP12, CYPIA2, P3-450, P450(PA)
+DEFINITION  (RefSeq) cytochrome P450 family 1 subfamily A member 2
+ORTHOLOGY   K07409  cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa00232  Caffeine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00830  Retinol metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1544 (CYP1A2)
+               00591 Linoleic acid metabolism
+                1544 (CYP1A2)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                1544 (CYP1A2)
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                1544 (CYP1A2)
+              Biosynthesis of other secondary metabolites
+               00232 Caffeine metabolism
+                1544 (CYP1A2)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                1544 (CYP1A2)
+               00982 Drug metabolism - cytochrome P450
+                1544 (CYP1A2)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1544 (CYP1A2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 1544 (CYP1A2)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP1 family
+               1544 (CYP1A2)
+POSITION    15q24.1
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1544
+            NCBI-ProteinID: NP_000752
+            OMIM: 124060
+            HGNC: 2596
+            Ensembl: ENSG00000140505
+            Vega: OTTHUMG00000172901
+            Pharos: P05177(Tchem)
+            UniProt: P05177
+STRUCTURE   PDB: 2HI4
+AASEQ       516
+            MALSQSVPFSATELLLASAIFCLVFWVLKGLRPRVPKGLKSPPEPWGWPLLGHVLTLGKN
+            PHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQGDDFKGRPDLYTSTLITDG
+            QSLTFSTDSGPVWAARRRLAQNALNTFSIASDPASSSSCYLEEHVSKEAKALISRLQELM
+            AGPGHFDPYNQVVVSVANVIGAMCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFP
+            ILRYLPNPALQRFKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHSKKGPRASGN
+            LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTVIGRERRPRLS
+            DRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFYIPKKCCVFVNQWQVNHDPEL
+            WEDPSEFRPERFLTADGTAINKPLSEKMMLFGMGKRRCIGEVLAKWEIFLFLAILLQQLE
+            FSVPPGVKVDLTPIYGLTMKHARCEHVQARLRFSIN
+NTSEQ       1551
+            atggcattgtcccagtctgttcccttctcggccacagagcttctcctggcctctgccatc
+            ttctgcctggtattctgggtgctcaagggtttgaggcctcgggtccccaaaggcctgaaa
+            agtccaccagagccatggggctggcccttgctcgggcatgtgctgaccctggggaagaac
+            ccgcacctggcactgtcaaggatgagccagcgctacggggacgtcctgcagatccgcatt
+            ggctccacgcccgtgctggtgctgagccgcctggacaccatccggcaggccctggtgcgg
+            cagggcgacgatttcaagggccggcctgacctctacacctccaccctcatcactgatggc
+            cagagcttgaccttcagcacagactctggaccggtgtgggctgcccgccggcgcctggcc
+            cagaatgccctcaacaccttctccatcgcctctgacccagcttcctcatcctcctgctac
+            ctggaggagcatgtgagcaaggaggctaaggccctgatcagcaggttgcaggagctgatg
+            gcagggcctgggcacttcgacccttacaatcaggtggtggtgtcagtggccaacgtcatt
+            ggtgccatgtgcttcggacagcacttccctgagagtagcgatgagatgctcagcctcgtg
+            aagaacactcatgagttcgtggagactgcctcctccgggaaccccctggacttcttcccc
+            atccttcgctacctgcctaaccctgccctgcagaggttcaaggccttcaaccagaggttc
+            ctgtggttcctgcagaaaacagtccaggagcactatcaggactttgacaagaacagtgtc
+            cgggacatcacgggtgccctgttcaagcacagcaagaaggggcctagagccagcggcaac
+            ctcatcccacaggagaagattgtcaaccttgtcaatgacatctttggagcaggatttgac
+            acagtcaccacagccatctcctggagcctcatgtaccttgtgaccaagcctgagatacag
+            aggaagatccagaaggagctggacactgtgattggcagggagcggcggccccggctctct
+            gacagaccccagctgccctacttggaggccttcatcctggagaccttccgacactcctcc
+            ttcttgcccttcaccatcccccacagcacaacaagggacacaacgctgaatggcttctac
+            atccccaagaaatgctgtgtcttcgtaaaccagtggcaggtcaaccatgacccagagctg
+            tgggaggacccctctgagttccggcctgagcggttcctcaccgccgatggcactgccatt
+            aacaagcccttgagtgagaagatgatgctgtttggcatgggcaagcgccggtgtatcggg
+            gaagtcctggccaagtgggagatcttcctcttcctggccatcctgctacagcaactggag
+            ttcagcgtgccgccgggcgtgaaagtcgacctgacccccatctacgggctgaccatgaag
+            cacgcccgctgtgaacatgtccaggcgcggctgcgcttctccatcaattga
+///
+ENTRY       1545              CDS       T01001
+NAME        CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1
+DEFINITION  (RefSeq) cytochrome P450 family 1 subfamily B member 1
+ORTHOLOGY   K07410  cytochrome P450 family 1 subfamily B polypeptide 1 [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa00380  Tryptophan metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa04913  Ovarian steroidogenesis
+            hsa05204  Chemical carcinogenesis
+            hsa05206  MicroRNAs in cancer
+DISEASE     H00612  Primary open angle glaucoma
+            H01075  Peters anomaly
+            H01159  Anterior segment dysgenesis (ASD)
+            H01203  Primary congenital glaucoma (PCG)
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1545 (CYP1B1)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                1545 (CYP1B1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                1545 (CYP1B1)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                1545 (CYP1B1)
+             Human Diseases
+              Cancers
+               05206 MicroRNAs in cancer
+                1545 (CYP1B1)
+               05204 Chemical carcinogenesis
+                1545 (CYP1B1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 1545 (CYP1B1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP1 family
+               1545 (CYP1B1)
+POSITION    2p22.2
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1545
+            NCBI-ProteinID: NP_000095
+            OMIM: 601771
+            HGNC: 2597
+            Ensembl: ENSG00000138061
+            Vega: OTTHUMG00000100970
+            Pharos: Q16678(Tchem)
+            UniProt: Q16678 Q53TK1
+STRUCTURE   PDB: 3PM0
+AASEQ       543
+            MGTSLSPNDPWPLNPLSIQQTTLLLLLSVLATVHVGQRLLRQRRRQLRSAPPGPFAWPLI
+            GNAAAVGQAAHLSFARLARRYGDVFQIRLGSCPIVVLNGERAIHQALVQQGSAFADRPAF
+            ASFRVVSGGRSMAFGHYSEHWKVQRRAAHSMMRNFFTRQPRSRQVLEGHVLSEARELVAL
+            LVRGSADGAFLDPRPLTVVAVANVMSAVCFGCRYSHDDPEFRELLSHNEEFGRTVGAGSL
+            VDVMPWLQYFPNPVRTVFREFEQLNRNFSNFILDKFLRHCESLRPGAAPRDMMDAFILSA
+            EKKAAGDSHGGGARLDLENVPATITDIFGASQDTLSTALQWLLLLFTRYPDVQTRVQAEL
+            DQVVGRDRLPCMGDQPNLPYVLAFLYEAMRFSSFVPVTIPHATTANTSVLGYHIPKDTVV
+            FVNQWSVNHDPLKWPNPENFDPARFLDKDGLINKDLTSRVMIFSVGKRRCIGEELSKMQL
+            FLFISILAHQCDFRANPNEPAKMNFSYGLTIKPKSFKVNVTLRESMELLDSAVQNLQAKE
+            TCQ
+NTSEQ       1632
+            atgggcaccagcctcagcccgaacgacccttggccgctaaacccgctgtccatccagcag
+            accacgctcctgctactcctgtcggtgctggccactgtgcatgtgggccagcggctgctg
+            aggcaacggaggcggcagctccggtccgcgcccccgggcccgtttgcgtggccactgatc
+            ggaaacgcggcggcggtgggccaggcggctcacctctcgttcgctcgcctggcgcggcgc
+            tacggcgacgttttccagatccgcctgggcagctgccccatagtggtgctgaatggcgag
+            cgcgccatccaccaggccctggtgcagcagggctcggccttcgccgaccggccggccttc
+            gcctccttccgtgtggtgtccggcggccgcagcatggctttcggccactactcggagcac
+            tggaaggtgcagcggcgcgcagcccacagcatgatgcgcaacttcttcacgcgccagccg
+            cgcagccgccaagtcctcgagggccacgtgctgagcgaggcgcgcgagctggtggcgctg
+            ctggtgcgcggcagcgcggacggcgccttcctcgacccgaggccgctgaccgtcgtggcc
+            gtggccaacgtcatgagtgccgtgtgtttcggctgccgctacagccacgacgaccccgag
+            ttccgtgagctgctcagccacaacgaagagttcgggcgcacggtgggcgcgggcagcctg
+            gtggacgtgatgccctggctgcagtacttccccaacccggtgcgcaccgttttccgcgaa
+            ttcgagcagctcaaccgcaacttcagcaacttcatcctggacaagttcttgaggcactgc
+            gaaagccttcggcccggggccgccccccgcgacatgatggacgcctttatcctctctgcg
+            gaaaagaaggcggccggggactcgcacggtggtggcgcgcggctggatttggagaacgta
+            ccggccactatcactgacatcttcggcgccagccaggacaccctgtccaccgcgctgcag
+            tggctgctcctcctcttcaccaggtatcctgatgtgcagactcgagtgcaggcagaattg
+            gatcaggtcgtggggagggaccgtctgccttgtatgggtgaccagcccaacctgccctat
+            gtcctggccttcctttatgaagccatgcgcttctccagctttgtgcctgtcactattcct
+            catgccaccactgccaacacctctgtcttgggctaccacattcccaaggacactgtggtt
+            tttgtcaaccagtggtctgtgaatcatgacccactgaagtggcctaacccggagaacttt
+            gatccagctcgattcttggacaaggatggcctcatcaacaaggacctgaccagcagagtg
+            atgattttttcagtgggcaaaaggcggtgcattggcgaagaactttctaagatgcagctt
+            tttctcttcatctccatcctggctcaccagtgcgatttcagggccaacccaaatgagcct
+            gcgaaaatgaatttcagttatggtctaaccattaaacccaagtcatttaaagtcaatgtc
+            actctcagagagtccatggagctccttgatagtgctgtccaaaatttacaagccaaggaa
+            acttgccaataa
+///
+ENTRY       883               CDS       T01001
+NAME        KYAT1, CCBL1, GTK, KAT1, KATI
+DEFINITION  (RefSeq) kynurenine aminotransferase 1
+ORTHOLOGY   K00816  kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.7 4.4.1.13 2.6.1.64]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00450  Selenocompound metabolism
+            hsa01100  Metabolic pathways
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                883 (KYAT1)
+              Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                883 (KYAT1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                883 (KYAT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.7  kynurenine---oxoglutarate transaminase
+                 883 (KYAT1)
+                2.6.1.64  glutamine---phenylpyruvate transaminase
+                 883 (KYAT1)
+             4. Lyases
+              4.4  Carbon-sulfur lyases
+               4.4.1  Carbon-sulfur lyases (only sub-subclass identified to date)
+                4.4.1.13  cysteine-S-conjugate beta-lyase
+                 883 (KYAT1)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class I
+               883 (KYAT1)
+POSITION    9q34.11
+MOTIF       Pfam: Aminotran_1_2 Cys_Met_Meta_PP DegT_DnrJ_EryC1 Beta_elim_lyase
+DBLINKS     NCBI-GeneID: 883
+            NCBI-ProteinID: NP_001116143
+            OMIM: 600547
+            HGNC: 1564
+            Ensembl: ENSG00000171097
+            Vega: OTTHUMG00000020767
+            Pharos: Q16773(Tbio)
+            UniProt: Q16773 A8K563
+STRUCTURE   PDB: 4WLH 3FVS 3FVX 4WLJ 3FVU 4WP0 1W7L 1W7M 1W7N
+AASEQ       422
+            MAKQLQARRLDGIDYNPWVEFVKLASEHDVVNLGQGFPDFPPPDFAVEAFQHAVSGDFML
+            NQYTKTFGYPPLTKILASFFGELLGQEIDPLRNVLVTVGGYGALFTAFQALVDEGDEVII
+            IEPFFDCYEPMTMMAGGRPVFVSLKPGPIQNGELGSSSNWQLDPMELAGKFTSRTKALVL
+            NTPNNPLGKVFSREELELVASLCQQHDVVCITDEVYQWMVYDGHQHISIASLPGMWERTL
+            TIGSAGKTFSATGWKVGWVLGPDHIMKHLRTVHQNSVFHCPTQSQAAVAESFEREQLLFR
+            QPSSYFVQFPQAMQRCRDHMIRSLQSVGLKPIIPQGSYFLITDISDFKRKMPDLPGAVDE
+            PYDRRFVKWMIKNKGLVAIPVSIFYSVPHQKHFDHYIRFCFVKDEATLQAMDEKLRKWKV
+            EL
+NTSEQ       1269
+            atggccaaacagctgcaggcccgaaggctagacgggatcgactacaacccctgggtggag
+            tttgtgaaactggccagtgagcatgacgtcgtgaacttgggccagggcttcccggatttc
+            ccaccaccagactttgccgtggaagcctttcagcacgctgtcagtggagacttcatgctt
+            aaccagtacaccaagacatttggttacccaccactgacgaagatcctggcaagtttcttt
+            ggggagctgctgggtcaggagatagacccgctcaggaatgtgctggtgactgttggtggc
+            tatggggccctgttcacagccttccaggccctggtggacgaaggagacgaggtcatcatc
+            atcgaacccttttttgactgctacgagcccatgacaatgatggcagggggtcgtcctgtg
+            tttgtgtccctgaagccgggtcccatccagaatggagaactgggttccagcagcaactgg
+            cagctggaccccatggagctggccggcaaattcacatcacgcaccaaagccctggtcctc
+            aacacccccaacaaccccctgggcaaggtgttctccagggaagagctggagctggtggcc
+            agcctttgccagcagcatgacgtggtgtgtatcactgatgaagtctaccagtggatggtc
+            tacgacgggcaccagcacatcagcattgccagcctccctggcatgtgggaacggaccctg
+            accatcggcagcgccggcaagaccttcagcgccactggctggaaggtgggctgggtcctg
+            ggtccagatcacatcatgaagcacctgcggaccgtgcaccagaactccgtcttccactgc
+            cccacgcagagccaggctgcagtagccgagagctttgaacgggagcagctgctcttccgc
+            caacccagcagctactttgtgcagttcccgcaggccatgcagcgctgccgtgaccacatg
+            atacgtagcctacagtcagtgggcctgaagcccatcatccctcagggcagctacttcctc
+            atcacagacatctcagacttcaagaggaagatgcctgacttgcctggagctgtggatgag
+            ccctatgacagacgcttcgtcaagtggatgatcaagaacaagggcttggtggccatccct
+            gtctccatcttctatagtgtgccacatcagaagcactttgaccactatatccgcttctgt
+            tttgtgaaggatgaagccacgctccaggccatggacgagaagctgcggaagtggaaggtg
+            gaactctag
+///
+ENTRY       4129              CDS       T01001
+NAME        MAOB
+DEFINITION  (RefSeq) monoamine oxidase B
+ORTHOLOGY   K00274  monoamine oxidase [EC:1.4.3.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DRUG_TARGET Caroxazone (DG02789): D03409
+            Etryptamine (DG02790): D04092
+            Iproclozide: D07338
+            Iproniazide (DG00950): D02579 D08085
+            Isocarboxazid: D02580
+            Ladostigil (DG02791): D03239
+            Lazabemide (DG01259): D01097 D04681
+            Milacemide (DG02783): D05033
+            Mofegiline (DG02784): D03733
+            Nialamide: D07337
+            Pargyline (DG00264): D02564 D08453
+            Phenelzine (DG00948): D00505 D08349
+            Rasagiline (DG00865): D02562 D08469 D10829
+            Safinamide (DG01260): D10158 D10191
+            Safrazine (DG02792): D01888
+            Selegiline (DG00864): D00785 D03731
+            Tranylcypromine (DG00949): D00826 D08625
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                4129 (MAOB)
+               00330 Arginine and proline metabolism
+                4129 (MAOB)
+               00340 Histidine metabolism
+                4129 (MAOB)
+               00350 Tyrosine metabolism
+                4129 (MAOB)
+               00360 Phenylalanine metabolism
+                4129 (MAOB)
+               00380 Tryptophan metabolism
+                4129 (MAOB)
+              Xenobiotics biodegradation and metabolism
+               00982 Drug metabolism - cytochrome P450
+                4129 (MAOB)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                4129 (MAOB)
+               04726 Serotonergic synapse
+                4129 (MAOB)
+             Human Diseases
+              Substance dependence
+               05030 Cocaine addiction
+                4129 (MAOB)
+               05031 Amphetamine addiction
+                4129 (MAOB)
+               05034 Alcoholism
+                4129 (MAOB)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.3  With oxygen as acceptor
+                1.4.3.4  monoamine oxidase
+                 4129 (MAOB)
+POSITION    Xp11.3
+MOTIF       Pfam: Amino_oxidase NAD_binding_8 DAO FAD_oxidored FAD_binding_2 FAD_binding_3 Pyr_redox_2 Thi4 Pyr_redox HI0933_like AlaDh_PNT_C GIDA Pyr_redox_3 IlvN Lycopene_cycl MCRA Trp_halogenase
+DBLINKS     NCBI-GeneID: 4129
+            NCBI-ProteinID: NP_000889
+            OMIM: 309860
+            HGNC: 6834
+            Ensembl: ENSG00000069535
+            Vega: OTTHUMG00000021388
+            Pharos: P27338(Tclin)
+            UniProt: P27338
+STRUCTURE   PDB: 2XFN 1S3E 1S3B 2XFP 4A7A 4CRT 3PO7 2BK5 4A79 2XCG 2C70
+                 1S2Q 2XFO 1S2Y 3ZYX 2XFQ 2XFU 2C64 2VZ2 5MRL 2VRL 2VRM
+                 2V61 2V5Z 2V60 2C72 2C73 2C75 2C76 2C65 2C66 2C67 2BYB
+                 2BK3 2BK4 1OJ9 1OJA 1OJC 1OJD 1GOS
+AASEQ       520
+            MSNKCDVVVVGGGISGMAAAKLLHDSGLNVVVLEARDRVGGRTYTLRNQKVKYVDLGGSY
+            VGPTQNRILRLAKELGLETYKVNEVERLIHHVKGKSYPFRGPFPPVWNPITYLDHNNFWR
+            TMDDMGREIPSDAPWKAPLAEEWDNMTMKELLDKLCWTESAKQLATLFVNLCVTAETHEV
+            SALWFLWYVKQCGGTTRIISTTNGGQERKFVGGSGQVSERIMDLLGDRVKLERPVIYIDQ
+            TRENVLVETLNHEMYEAKYVISAIPPTLGMKIHFNPPLPMMRNQMITRVPLGSVIKCIVY
+            YKEPFWRKKDYCGTMIIDGEEAPVAYTLDDTKPEGNYAAIMGFILAHKARKLARLTKEER
+            LKKLCELYAKVLGSLEALEPVHYEEKNWCEEQYSGGCYTTYFPPGILTQYGRVLRQPVDR
+            IYFAGTETATHWSGYMEGAVEAGERAAREILHAMGKIPEDEIWQSEPESVDVPAQPITTT
+            FLERHLPSVPGLLRLIGLTTIFSATALGFLAHKRGLLVRV
+NTSEQ       1563
+            atgagcaacaaatgcgacgtggtcgtggtggggggcggcatctcaggtatggcagcagcc
+            aaacttctgcatgactctggactgaatgtggttgttctggaagcccgggaccgtgtggga
+            ggcaggacttacactcttaggaaccaaaaggttaaatatgtggaccttggaggatcctat
+            gttggaccaacccagaatcgtatcttgagattagccaaggagctaggattggagacctac
+            aaagtgaatgaggttgagcgtctgatccaccatgtaaagggcaaatcataccccttcagg
+            gggccattcccacctgtatggaatccaattacctacttagatcataacaacttttggagg
+            acaatggatgacatggggcgagagattccgagtgatgccccatggaaggctccccttgca
+            gaagagtgggacaacatgacaatgaaggagctactggacaagctctgctggactgaatct
+            gcaaagcagcttgccactctctttgtgaacctgtgtgtcactgcagagacccatgaggtc
+            tctgctctctggttcctgtggtatgtgaagcagtgtggaggcacaacaagaatcatctcg
+            acaacaaatggaggacaggagaggaaatttgtgggcggatctggtcaagtgagtgagcgg
+            ataatggacctccttggagaccgagtgaagctggagaggcctgtgatctacattgaccag
+            acaagagaaaatgtccttgtggagaccctaaaccatgagatgtatgaggctaaatatgtg
+            attagtgctattcctcctactctgggcatgaagattcacttcaatccccctctgccaatg
+            atgagaaaccagatgatcactcgtgtgcctttgggttcagtcatcaagtgtatagtttat
+            tataaagagcctttctggaggaaaaaggattactgtggaaccatgattattgatggagaa
+            gaagctccagttgcctacacgttggatgataccaaacctgaaggcaactatgctgccata
+            atgggatttatcctggcccacaaagccagaaaactggcacgtcttaccaaagaggaaagg
+            ttgaagaaactttgtgaactctatgccaaggttctgggttccctagaagctctggagcca
+            gtgcattatgaagaaaagaactggtgtgaggagcagtactctgggggctgctacacaact
+            tatttcccccctgggatcctgactcaatatggaagggttctacgccagccagtggacagg
+            atttactttgcaggcaccgagactgccacacactggagcggctacatggagggggctgta
+            gaggccggggagagagcagcccgagagatcctgcatgccatggggaagattccagaggat
+            gaaatctggcagtcagaaccagagtctgtggatgtccctgcacagcccatcaccaccacc
+            tttttggagagacatttgccctccgtgccaggcctgctcaggctgattggattgaccacc
+            atcttttcagcaacggctcttggcttcctggcccacaaaagggggctacttgtgagagtc
+            taa
+///
+ENTRY       4128              CDS       T01001
+NAME        MAOA, BRNRS, MAO-A
+DEFINITION  (RefSeq) monoamine oxidase A
+ORTHOLOGY   K00274  monoamine oxidase [EC:1.4.3.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00260  Glycine, serine and threonine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DISEASE     H00548  Brunner syndrome
+            H01450  Obsessive-compulsive disorder (OCD)
+DRUG_TARGET Befloxatone (DG02785): D02563
+            Brofaromine (DG02786): D02560
+            Caroxazone (DG02789): D03409
+            Cimoxatone (DG02787): D02581
+            Clorgiline (DG02788): D03248
+            Etryptamine (DG02790): D04092
+            Iproclozide: D07338
+            Iproniazide (DG00950): D02579 D08085
+            Isocarboxazid: D02580
+            Ladostigil (DG02791): D03239
+            Minaprine (DG00954): D05039 D05040
+            Moclobemide: D02561
+            Nialamide: D07337
+            Pargyline (DG00264): D02564 D08453
+            Phenelzine (DG00948): D00505 D08349
+            Pirlindole (DG01277): D08392 D08393
+            Safrazine (DG02792): D01888
+            Toloxatone: D02559
+            Tranylcypromine (DG00949): D00826 D08625
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                4128 (MAOA)
+               00330 Arginine and proline metabolism
+                4128 (MAOA)
+               00340 Histidine metabolism
+                4128 (MAOA)
+               00350 Tyrosine metabolism
+                4128 (MAOA)
+               00360 Phenylalanine metabolism
+                4128 (MAOA)
+               00380 Tryptophan metabolism
+                4128 (MAOA)
+              Xenobiotics biodegradation and metabolism
+               00982 Drug metabolism - cytochrome P450
+                4128 (MAOA)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                4128 (MAOA)
+               04726 Serotonergic synapse
+                4128 (MAOA)
+             Human Diseases
+              Substance dependence
+               05030 Cocaine addiction
+                4128 (MAOA)
+               05031 Amphetamine addiction
+                4128 (MAOA)
+               05034 Alcoholism
+                4128 (MAOA)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.3  With oxygen as acceptor
+                1.4.3.4  monoamine oxidase
+                 4128 (MAOA)
+POSITION    Xp11.3
+MOTIF       Pfam: Amino_oxidase NAD_binding_8 DAO FAD_binding_3 Pyr_redox HI0933_like Pyr_redox_2 FAD_binding_2 FAD_oxidored Thi4 Pyr_redox_3 AlaDh_PNT_C Lycopene_cycl GIDA M20_dimer MCRA Trp_halogenase
+DBLINKS     NCBI-GeneID: 4128
+            NCBI-ProteinID: NP_000231
+            OMIM: 309850
+            HGNC: 6833
+            Ensembl: ENSG00000189221
+            Vega: OTTHUMG00000021387
+            Pharos: P21397(Tclin)
+            UniProt: P21397 Q53YE7 Q49A63
+STRUCTURE   PDB: 2Z5Y 2Z5X 2BXS 2BXR
+AASEQ       527
+            MENQEKASIAGHMFDVVVIGGGISGLSAAKLLTEYGVSVLVLEARDRVGGRTYTIRNEHV
+            DYVDVGGAYVGPTQNRILRLSKELGIETYKVNVSERLVQYVKGKTYPFRGAFPPVWNPIA
+            YLDYNNLWRTIDNMGKEIPTDAPWEAQHADKWDKMTMKELIDKICWTKTARRFAYLFVNI
+            NVTSEPHEVSALWFLWYVKQCGGTTRIFSVTNGGQERKFVGGSGQVSERIMDLLGDQVKL
+            NHPVTHVDQSSDNIIIETLNHEHYECKYVINAIPPTLTAKIHFRPELPAERNQLIQRLPM
+            GAVIKCMMYYKEAFWKKKDYCGCMIIEDEDAPISITLDDTKPDGSLPAIMGFILARKADR
+            LAKLHKEIRKKKICELYAKVLGSQEALHPVHYEEKNWCEEQYSGGCYTAYFPPGIMTQYG
+            RVIRQPVGRIFFAGTETATKWSGYMEGAVEAGERAAREVLNGLGKVTEKDIWVQEPESKD
+            VPAVEITHTFWERNLPSVSGLLKIIGFSTSVTALGFVLYKYKLLPRS
+NTSEQ       1584
+            atggagaatcaagagaaggcgagtatcgcgggccacatgttcgacgtagtcgtgatcgga
+            ggtggcatttcaggactatctgctgccaaactcttgactgaatatggcgttagtgttttg
+            gttttagaagctcgggacagggttggaggaagaacatatactataaggaatgagcatgtt
+            gattacgtagatgttggtggagcttatgtgggaccaacccaaaacagaatcttacgcttg
+            tctaaggagctgggcatagagacttacaaagtgaatgtcagtgagcgtctcgttcaatat
+            gtcaaggggaaaacatatccatttcggggcgcctttccaccagtatggaatcccattgca
+            tatttggattacaataatctgtggaggacaatagataacatggggaaggagattccaact
+            gatgcaccctgggaggctcaacatgctgacaaatgggacaaaatgaccatgaaagagctc
+            attgacaaaatctgctggacaaagactgctaggcggtttgcttatctttttgtgaatatc
+            aatgtgacctctgagcctcacgaagtgtctgccctgtggttcttgtggtatgtgaagcag
+            tgcgggggcaccactcggatattctctgtcaccaatggtggccaggaacggaagtttgta
+            ggtggatctggtcaagtgagcgaacggataatggacctcctcggagaccaagtgaagctg
+            aaccatcctgtcactcacgttgaccagtcaagtgacaacatcatcatagagacgctgaac
+            catgaacattatgagtgcaaatacgtaattaatgcgatccctccgaccttgactgccaag
+            attcacttcagaccagagcttccagcagagagaaaccagttaattcagcggcttccaatg
+            ggagctgtcattaagtgcatgatgtattacaaggaggccttctggaagaagaaggattac
+            tgtggctgcatgatcattgaagatgaagatgctccaatttcaataaccttggatgacacc
+            aagccagatgggtcactgcctgccatcatgggcttcattcttgcccggaaagctgatcga
+            cttgctaagctacataaggaaataaggaagaagaaaatctgtgagctctatgccaaagtg
+            ctgggatcccaagaagctttacatccagtgcattatgaagagaagaactggtgtgaggag
+            cagtactctgggggctgctacacggcctacttccctcctgggatcatgactcaatatgga
+            agggtgattcgtcaacccgtgggcaggattttctttgcgggcacagagactgccacaaag
+            tggagcggctacatggaaggggcagttgaggctggagaacgagcagctagggaggtctta
+            aatggtctcgggaaggtgaccgagaaagatatctgggtacaagaacctgaatcaaaggac
+            gttccagcggtagaaatcacccacaccttctgggaaaggaacctgccctctgtttctggc
+            ctgctgaagatcattggattttccacatcagtaactgccctggggtttgtgctgtacaaa
+            tacaagctcctgccacggtcttga
+///
+ENTRY       1543              CDS       T01001
+NAME        CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX
+DEFINITION  (RefSeq) cytochrome P450 family 1 subfamily A member 1
+ORTHOLOGY   K07408  cytochrome P450 family 1 subfamily A polypeptide 1 [EC:1.14.14.1]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00140  Steroid hormone biosynthesis
+            hsa00380  Tryptophan metabolism
+            hsa00830  Retinol metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa01100  Metabolic pathways
+            hsa04913  Ovarian steroidogenesis
+            hsa05204  Chemical carcinogenesis
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Lipid metabolism
+               00140 Steroid hormone biosynthesis
+                1543 (CYP1A1)
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                1543 (CYP1A1)
+              Metabolism of cofactors and vitamins
+               00830 Retinol metabolism
+                1543 (CYP1A1)
+              Xenobiotics biodegradation and metabolism
+               00980 Metabolism of xenobiotics by cytochrome P450
+                1543 (CYP1A1)
+             Organismal Systems
+              Endocrine system
+               04913 Ovarian Steroidogenesis
+                1543 (CYP1A1)
+             Human Diseases
+              Cancers
+               05204 Chemical carcinogenesis
+                1543 (CYP1A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.1  unspecific monooxygenase
+                 1543 (CYP1A1)
+            Cytochrome P450 [BR:hsa00199]
+             Cytochrome P450, animal type
+              CYP1 family
+               1543 (CYP1A1)
+POSITION    15q24.1
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 1543
+            NCBI-ProteinID: NP_000490
+            OMIM: 108330
+            HGNC: 2595
+            Ensembl: ENSG00000140465
+            Vega: OTTHUMG00000142812
+            Pharos: P04798(Tchem)
+            UniProt: P04798 A0N0X8
+STRUCTURE   PDB: 4I8V
+AASEQ       512
+            MLFPISMSATEFLLASVIFCLVFWVIRASRPQVPKGLKNPPGPWGWPLIGHMLTLGKNPH
+            LALSRMSQQYGDVLQIRIGSTPVVVLSGLDTIRQALVRQGDDFKGRPDLYTFTLISNGQS
+            MSFSPDSGPVWAARRRLAQNGLKSFSIASDPASSTSCYLEEHVSKEAEVLISTLQELMAG
+            PGHFNPYRYVVVSVTNVICAICFGRRYDHNHQELLSLVNLNNNFGEVVGSGNPADFIPIL
+            RYLPNPSLNAFKDLNEKFYSFMQKMVKEHYKTFEKGHIRDITDSLIEHCQEKQLDENANV
+            QLSDEKIINIVLDLFGAGFDTVTTAISWSLMYLVMNPRVQRKIQEELDTVIGRSRRPRLS
+            DRSHLPYMEAFILETFRHSSFVPFTIPHSTTRDTSLKGFYIPKGRCVFVNQWQINHDQKL
+            WVNPSEFLPERFLTPDGAIDKVLSEKVIIFGMGKRKCIGETIARWEVFLFLAILLQRVEF
+            SVPLGVKVDMTPIYGLTMKHACCEHFQMQLRS
+NTSEQ       1539
+            atgcttttcccaatctccatgtcggccacggagtttcttctggcctctgtcatcttctgt
+            ctggtattctgggtaatcagggcctcaagacctcaggtccccaaaggcctgaagaatcca
+            ccagggccatggggctggcctctgattgggcacatgctgaccctgggaaagaacccgcac
+            ctggcactgtcaaggatgagccagcagtatggggacgtgctgcagatccgaattggctcc
+            acacccgtggtggtgctgagcggcctggacaccatccggcaggccctggtgcggcagggc
+            gatgatttcaagggccggcccgacctctacaccttcaccctcatcagtaatggtcagagc
+            atgtccttcagcccagactctggaccagtgtgggctgcccgccggcgcctggcccagaat
+            ggcctgaaaagtttctccattgcctctgacccagcctcctcaacctcctgctacctggaa
+            gagcatgtgagcaaggaggctgaggtcctgataagcacgttgcaggagctgatggcaggg
+            cctgggcactttaacccctacaggtatgtggtggtatcagtgaccaatgtcatctgtgcc
+            atttgctttggccggcgctatgaccacaaccaccaagaactgcttagcctagtcaacctg
+            aataataatttcggggaggtggttggctctggaaacccagctgacttcatccctattctt
+            cgctacctacccaacccttccctgaatgccttcaaggacctgaatgagaagttctacagc
+            ttcatgcagaagatggtcaaggagcactacaaaacctttgagaagggccacatccgggac
+            atcacagacagcctgattgagcactgtcaggagaagcagctggatgagaacgccaatgtc
+            cagctgtcagatgagaagatcattaacatcgtcttggacctctttggagctgggtttgac
+            acagtcacaactgctatctcctggagcctcatgtatttggtgatgaaccccagggtacag
+            agaaagatccaagaggagctagacacagtgattggcaggtcacggcggccccggctctct
+            gacagatcccatctgccctatatggaggccttcatcctggagaccttccgacactcttcc
+            ttcgtccccttcaccatcccccacagcacaacaagagacacaagtttgaaaggcttttac
+            atccccaaggggcgttgtgtctttgtaaaccagtggcagatcaaccatgaccagaagcta
+            tgggtcaacccatctgagttcctacctgaacggtttctcacccctgatggtgctatcgac
+            aaggtgttaagtgagaaggtgattatctttggcatgggcaagcggaagtgtatcggtgag
+            accattgcccgctgggaggtctttctcttcctggctatcctgctgcaacgggtggaattc
+            agcgtgccactgggcgtgaaggtggacatgacccccatctatgggctaaccatgaagcat
+            gcctgctgtgagcacttccaaatgcagctgcgctcttag
+///
+ENTRY       217               CDS       T01001
+NAME        ALDH2, ALDH-E2, ALDHI, ALDM
+DEFINITION  (RefSeq) aldehyde dehydrogenase 2 family (mitochondrial)
+ORTHOLOGY   K00128  aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DISEASE     H01071  Acute alcohol sensitivity
+            H01611  Alcohol dependence
+DRUG_TARGET Cyanamide: D00123
+            Disulfiram: D00131
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                217 (ALDH2)
+               00053 Ascorbate and aldarate metabolism
+                217 (ALDH2)
+               00620 Pyruvate metabolism
+                217 (ALDH2)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                217 (ALDH2)
+               00561 Glycerolipid metabolism
+                217 (ALDH2)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                217 (ALDH2)
+               00310 Lysine degradation
+                217 (ALDH2)
+               00330 Arginine and proline metabolism
+                217 (ALDH2)
+               00340 Histidine metabolism
+                217 (ALDH2)
+               00380 Tryptophan metabolism
+                217 (ALDH2)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                217 (ALDH2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 217 (ALDH2)
+POSITION    12q24.12
+MOTIF       Pfam: Aldedh DUF1235
+DBLINKS     NCBI-GeneID: 217
+            NCBI-ProteinID: NP_000681
+            OMIM: 100650
+            HGNC: 404
+            Ensembl: ENSG00000111275
+            Vega: OTTHUMG00000169603
+            Pharos: P05091(Tclin)
+            UniProt: P05091
+STRUCTURE   PDB: 1O04 3N80 3INJ 3N81 3INL 3N83 1O02 2ONP 4KWG 3SZ9 1ZUM
+                 2ONO 1O01 4FR8 3N82 1O05 4FQF 4KWF 5L13 1NZX 1NZZ 2ONM
+                 1CW3 1O00 1NZW 2ONN 2VLE
+AASEQ       517
+            MLRAAARFGPRLGRRLLSAAATQAVPAPNQQPEVFCNQIFINNEWHDAVSRKTFPTVNPS
+            TGEVICQVAEGDKEDVDKAVKAARAAFQLGSPWRRMDASHRGRLLNRLADLIERDRTYLA
+            ALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTRHEPVGVCG
+            QIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPPGVVNIVPG
+            FGPTAGAAIASHEDVDKVAFTGSTEIGRVIQVAAGSSNLKRVTLELGGKSPNIIMSDADM
+            DWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYDEFVERSVARAKSRVVGNPFDSKTEQGP
+            QVDETQFKKILGYINTGKQEGAKLLCGGGIAADRGYFIQPTVFGDVQDGMTIAKEEIFGP
+            VMQILKFKTIEEVVGRANNSTYGLAAAVFTKDLDKANYLSQALQAGTVWVNCYDVFGAQS
+            PFGGYKMSGSGRELGEYGLQAYTEVKTVTVKVPQKNS
+NTSEQ       1554
+            atgttgcgcgctgccgcccgcttcgggccccgcctgggccgccgcctcttgtcagccgcc
+            gccacccaggccgtgcctgcccccaaccagcagcccgaggtcttctgcaaccagattttc
+            ataaacaatgaatggcacgatgccgtcagcaggaaaacattccccaccgtcaatccgtcc
+            actggagaggtcatctgtcaggtagctgaaggggacaaggaagatgtggacaaggcagtg
+            aaggccgcccgggccgccttccagctgggctcaccttggcgccgcatggacgcatcacac
+            aggggccggctgctgaaccgcctggccgatctgatcgagcgggaccggacctacctggcg
+            gccttggagaccctggacaatggcaagccctatgtcatctcctacctggtggatttggac
+            atggtcctcaaatgtctccggtattatgccggctgggctgataagtaccacgggaaaacc
+            atccccattgacggagacttcttcagctacacacgccatgaacctgtgggggtgtgcggg
+            cagatcattccgtggaatttcccgctcctgatgcaagcatggaagctgggcccagccttg
+            gcaactggaaacgtggttgtgatgaaggtagctgagcagacacccctcaccgccctctat
+            gtggccaacctgatcaaggaggctggctttccccctggtgtggtcaacattgtgcctgga
+            tttggccccacggctggggccgccattgcctcccatgaggatgtggacaaagtggcattc
+            acaggctccactgagattggccgcgtaatccaggttgctgctgggagcagcaacctcaag
+            agagtgaccttggagctgggggggaagagccccaacatcatcatgtcagatgccgatatg
+            gattgggccgtggaacaggcccacttcgccctgttcttcaaccagggccagtgctgctgt
+            gccggctcccggaccttcgtgcaggaggacatctatgatgagtttgtggagcggagcgtt
+            gcccgggccaagtctcgggtggtcgggaacccctttgatagcaagaccgagcaggggccg
+            caggtggatgaaactcagtttaagaagatcctcggctacatcaacacggggaagcaagag
+            ggggcgaagctgctgtgtggtgggggcattgctgctgaccgtggttacttcatccagccc
+            actgtgtttggagatgtgcaggatggcatgaccatcgccaaggaggagatcttcgggcca
+            gtgatgcagatcctgaagttcaagaccatagaggaggttgttgggagagccaacaattcc
+            acgtacgggctggccgcagctgtcttcacaaaggatttggacaaggccaattacctgtcc
+            caggccctccaggcgggcactgtgtgggtcaactgctatgatgtgtttggagcccagtca
+            ccctttggtggctacaagatgtcggggagtggccgggagttgggcgagtacgggctgcag
+            gcatacactgaagtgaaaactgtcacagtcaaagtgcctcagaagaactcataa
+///
+ENTRY       1644              CDS       T01001
+NAME        DDC, AADC
+DEFINITION  (RefSeq) dopa decarboxylase
+ORTHOLOGY   K01593  aromatic-L-amino-acid/L-tryptophan decarboxylase [EC:4.1.1.28 4.1.1.105]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+            hsa04728  Dopaminergic synapse
+            hsa05030  Cocaine addiction
+            hsa05031  Amphetamine addiction
+            hsa05034  Alcoholism
+MODULE      hsa_M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+            hsa_M00042  Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline
+DISEASE     H01161  Aromatic L-amino acid decarboxylase (AADC) deficiency
+DRUG_TARGET Benserazide (DG01296): D01653 D03082
+            Carbidopa: D00558
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00350 Tyrosine metabolism
+                1644 (DDC)
+               00360 Phenylalanine metabolism
+                1644 (DDC)
+               00380 Tryptophan metabolism
+                1644 (DDC)
+             Organismal Systems
+              Nervous system
+               04728 Dopaminergic synapse
+                1644 (DDC)
+               04726 Serotonergic synapse
+                1644 (DDC)
+             Human Diseases
+              Substance dependence
+               05030 Cocaine addiction
+                1644 (DDC)
+               05031 Amphetamine addiction
+                1644 (DDC)
+               05034 Alcoholism
+                1644 (DDC)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.1  Carboxy-lyases
+                4.1.1.28  aromatic-L-amino-acid decarboxylase
+                 1644 (DDC)
+                4.1.1.105  L-tryptophan decarboxylase
+                 1644 (DDC)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               1644 (DDC)
+POSITION    7p12.2-p12.1
+MOTIF       Pfam: Pyridoxal_deC Beta_elim_lyase Aminotran_1_2
+DBLINKS     NCBI-GeneID: 1644
+            NCBI-ProteinID: NP_000781
+            OMIM: 107930
+            HGNC: 2719
+            Ensembl: ENSG00000132437
+            Vega: OTTHUMG00000023353
+            Pharos: P20711(Tclin)
+            UniProt: P20711 Q53Y41
+STRUCTURE   PDB: 3RCH 3RBF 3RBL
+AASEQ       480
+            MNASEFRRRGKEMVDYVANYMEGIEGRQVYPDVEPGYLRPLIPAAAPQEPDTFEDIINDV
+            EKIIMPGVTHWHSPYFFAYFPTASSYPAMLADMLCGAIGCIGFSWAASPACTELETVMMD
+            WLGKMLELPKAFLNEKAGEGGGVIQGSASEATLVALLAARTKVIHRLQAASPELTQAAIM
+            EKLVAYSSDQAHSSVERAGLIGGVKLKAIPSDGNFAMRASALQEALERDKAAGLIPFFMV
+            ATLGTTTCCSFDNLLEVGPICNKEDIWLHVDAAYAGSAFICPEFRHLLNGVEFADSFNFN
+            PHKWLLVNFDCSAMWVKKRTDLTGAFRLDPTYLKHSHQDSGLITDYRHWQIPLGRRFRSL
+            KMWFVFRMYGVKGLQAYIRKHVQLSHEFESLVRQDPRFEICVEVILGLVCFRLKGSNKVN
+            EALLQRINSAKKIHLVPCHLRDKFVLRFAICSRTVESAHVQRAWEHIKELAADVLRAERE
+NTSEQ       1443
+            atgaacgcaagtgaattccgaaggagagggaaggagatggtggattacgtggccaactac
+            atggaaggcattgagggacgccaggtctaccctgacgtggagcccgggtacctgcggccg
+            ctgatccctgccgctgcccctcaggagccagacacgtttgaggacatcatcaacgacgtt
+            gagaagataatcatgcctggggtgacgcactggcacagcccctacttcttcgcctacttc
+            cccactgccagctcgtacccggccatgcttgcggacatgctgtgcggggccattggctgc
+            atcggcttctcctgggcggcaagcccagcatgcacagagctggagactgtgatgatggac
+            tggctcgggaagatgctggaactaccaaaggcatttttgaatgagaaagctggagaaggg
+            ggaggagtgatccagggaagtgccagtgaagccaccctggtggccctgctggccgctcgg
+            accaaagtgatccatcggctgcaggcagcgtccccagagctcacacaggccgctatcatg
+            gagaagctggtggcttactcatccgatcaggcacactcctcagtggaaagagctgggtta
+            attggtggagtgaaattaaaagccatcccctcagatggcaacttcgccatgcgtgcgtct
+            gccctgcaggaagccctggagagagacaaagcggctggcctgattcctttctttatggtt
+            gccaccctggggaccacaacatgctgctcctttgacaatctcttagaagtcggtcctatc
+            tgcaacaaggaagacatatggctgcacgttgatgcagcctacgcaggcagtgcattcatc
+            tgccctgagttccggcaccttctgaatggagtggagtttgcagattcattcaactttaat
+            ccccacaaatggctattggtgaattttgactgttctgccatgtgggtgaaaaagagaaca
+            gacttaacgggagcctttagactggaccccacttacctgaagcacagccatcaggattca
+            gggcttatcactgactaccggcattggcagataccactgggcagaagatttcgctctttg
+            aaaatgtggtttgtatttaggatgtatggagtcaaaggactgcaggcttatatccgcaag
+            catgtccagctgtcccatgagtttgagtcactggtgcgccaggatccccgctttgaaatc
+            tgtgtggaagtcattctggggcttgtctgctttcggctaaagggttccaacaaagtgaat
+            gaagctcttctgcaaagaataaacagtgccaaaaaaatccacttggttccatgtcacctc
+            agggacaagtttgtcctgcgctttgccatctgttctcgcacggtggaatctgcccatgtg
+            cagcgggcctgggaacacatcaaagagctggcggccgacgtgctgcgagcagagagggag
+            tag
+///
+ENTRY       26                CDS       T01001
+NAME        AOC1, ABP, ABP1, DAO, DAO1, KAO
+DEFINITION  (RefSeq) amine oxidase, copper containing 1
+ORTHOLOGY   K11182  diamine oxidase [EC:1.4.3.22]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+DRUG_TARGET Pimagedine hydrochloride: D05479
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00330 Arginine and proline metabolism
+                26 (AOC1)
+               00340 Histidine metabolism
+                26 (AOC1)
+               00380 Tryptophan metabolism
+                26 (AOC1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.3  With oxygen as acceptor
+                1.4.3.22  diamine oxidase
+                 26 (AOC1)
+POSITION    7q36.1
+MOTIF       Pfam: Cu_amine_oxid Cu_amine_oxidN2 Cu_amine_oxidN3 DUF1965
+DBLINKS     NCBI-GeneID: 26
+            NCBI-ProteinID: NP_001082
+            OMIM: 104610
+            HGNC: 80
+            Ensembl: ENSG00000002726
+            Vega: OTTHUMG00000158306
+            Pharos: P19801(Tchem)
+            UniProt: P19801
+STRUCTURE   PDB: 3HI7 3MPH 3HIG 3K5T 3HII
+AASEQ       751
+            MPALGWAVAAILMLQTAMAEPSPGTLPRKAGVFSDLSNQELKAVHSFLWSKKELRLQPSS
+            TTTMAKNTVFLIEMLLPKKYHVLRFLDKGERHPVREARAVIFFGDQEHPNVTEFAVGPLP
+            GPCYMRALSPRPGYQSSWASRPISTAEYALLYHTLQEATKPLHQFFLNTTGFSFQDCHDR
+            CLAFTDVAPRGVASGQRRSWLIIQRYVEGYFLHPTGLELLVDHGSTDAGHWAVEQVWYNG
+            KFYGSPEELARKYADGEVDVVVLEDPLPGGKGHDSTEEPPLFSSHKPRGDFPSPIHVSGP
+            RLVQPHGPRFRLEGNAVLYGGWSFAFRLRSSSGLQVLNVHFGGERIAYEVSVQEAVALYG
+            GHTPAGMQTKYLDVGWGLGSVTHELAPGIDCPETATFLDTFHYYDADDPVHYPRALCLFE
+            MPTGVPLRRHFNSNFKGGFNFYAGLKGQVLVLRTTSTVYNYDYIWDFIFYPNGVMEAKMH
+            ATGYVHATFYTPEGLRHGTRLHTHLIGNIHTHLVHYRVDLDVAGTKNSFQTLQMKLENIT
+            NPWSPRHRVVQPTLEQTQYSWERQAAFRFKRKLPKYLLFTSPQENPWGHKRTYRLQIHSM
+            ADQVLPPGWQEEQAITWARYPLAVTKYRESELCSSSIYHQNDPWHPPVVFEQFLHNNENI
+            ENEDLVAWVTVGFLHIPHSEDIPNTATPGNSVGFLLRPFNFFPEDPSLASRDTVIVWPRD
+            NGPNYVQRWIPEDRDCSMPPPFSYNGTYRPV
+NTSEQ       2256
+            atgccggccctgggctgggccgtggctgccatcctgatgctgcagacggccatggcggag
+            ccctccccggggactctgcccaggaaggcaggggtgttttcagacctaagcaaccaagag
+            ctgaaggcagtgcacagcttcctctggtccaagaaggagctgaggctgcagccctccagt
+            accaccaccatggccaagaacaccgtgtttctcatcgagatgctgctgcccaagaagtac
+            catgtgctgaggtttctggataaaggtgaaaggcatcctgtgcgggaagcccgtgccgtc
+            atcttctttggtgaccaggagcatcccaatgtcaccgagtttgctgtggggcccctgcca
+            gggccctgctacatgcgagcactgtcccccaggcctgggtaccagtcctcctgggcatcg
+            aggcccatctccacagcagagtatgccctcctctaccacaccctgcaggaagccaccaag
+            cccctgcatcagttcttcctcaataccacaggcttctcattccaagactgccatgacaga
+            tgcctggccttcaccgatgtggccccccggggtgtggcttctggccagcgccgcagttgg
+            cttatcatacagcgctatgtagaaggctactttctgcaccccactgggctggagctcctc
+            gtggatcatgggagcacagatgctgggcactgggccgtggagcaggtgtggtacaacggg
+            aagttctatgggagcccagaggaactggctcggaagtatgcagatggagaggtggacgtg
+            gtggtcctggaggacccgctgcctgggggcaaggggcatgacagcacagaggagccgccc
+            ctcttctcctcccacaagccccgcggggacttccccagccccatccatgtgagcggcccc
+            cgcttggtccagccccacggccctcgcttcaggctggagggcaacgctgtgctctacggc
+            ggctggagctttgccttccggctgcgctcctcctccgggctgcaggtcctgaacgtgcac
+            ttcggcggagagcgcattgcctatgaggtcagcgtgcaagaggcagtggcgctgtatgga
+            ggacacacacctgcaggcatgcagaccaagtacctcgatgtcggctggggcctgggcagc
+            gtcactcatgagttagcccccggcatcgactgcccggagaccgccaccttcctggacact
+            ttccactactatgatgccgatgacccggtccattatccccgagccctctgcctctttgaa
+            atgcccacaggggtgccccttcggcggcactttaattccaactttaaaggtggcttcaac
+            ttctatgcggggctgaagggccaggtgctggtgctgcggacaacttcaactgtctacaat
+            tatgattacatttgggactttatcttctaccccaacggggtgatggaggccaagatgcat
+            gccactggctacgtccacgccaccttctacacccccgaggggctgcgccacggcactcgc
+            ctgcacacccacctgattggcaacatacacactcacttggtgcactaccgcgtagacctg
+            gatgtggcaggcaccaagaacagcttccagacactgcagatgaagctagaaaacatcacc
+            aacccctggagcccaagacaccgcgtggtccagccaactctggagcagacgcagtactcc
+            tgggagcgccaggcggccttccgcttcaaaaggaagctgcctaagtacctgctctttacc
+            agcccccaggagaacccctggggccacaagcgcacgtaccgcctgcagatccactccatg
+            gccgaccaggtgctgcccccaggctggcaggaggagcaggccatcacctgggcaaggtac
+            cccctggcagtgaccaagtaccgggagtcggagctgtgcagcagcagcatctaccaccag
+            aacgacccctggcacccgcccgtggtctttgagcagtttcttcacaacaacgagaacatt
+            gaaaatgaggacctggtggcctgggtgacggtgggcttcctgcacatcccccactcagag
+            gacattcccaacacagccacacctgggaactccgtgggcttcctgctccggccattcaac
+            ttcttcccagaggacccctccctggcatccagagacactgtgatcgtgtggcctcgggac
+            aacggccccaactacgtccagcgctggatccctgaggacagggactgctcgatgcctccc
+            ccttttagctacaatgggacctatagacctgtgtga
+///
+ENTRY       223               CDS       T01001
+NAME        ALDH9A1, ALDH4, ALDH7, ALDH9, E3, TMABADH
+DEFINITION  (RefSeq) aldehyde dehydrogenase 9 family member A1
+ORTHOLOGY   K00149  aldehyde dehydrogenase family 9 member A1 [EC:1.2.1.47 1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                223 (ALDH9A1)
+               00053 Ascorbate and aldarate metabolism
+                223 (ALDH9A1)
+               00620 Pyruvate metabolism
+                223 (ALDH9A1)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                223 (ALDH9A1)
+               00561 Glycerolipid metabolism
+                223 (ALDH9A1)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                223 (ALDH9A1)
+               00310 Lysine degradation
+                223 (ALDH9A1)
+               00330 Arginine and proline metabolism
+                223 (ALDH9A1)
+               00340 Histidine metabolism
+                223 (ALDH9A1)
+               00380 Tryptophan metabolism
+                223 (ALDH9A1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                223 (ALDH9A1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 223 (ALDH9A1)
+                1.2.1.47  4-trimethylammoniobutyraldehyde dehydrogenase
+                 223 (ALDH9A1)
+POSITION    1q24.1
+MOTIF       Pfam: Aldedh DUF1487
+DBLINKS     NCBI-GeneID: 223
+            NCBI-ProteinID: NP_000687
+            OMIM: 602733
+            HGNC: 412
+            Ensembl: ENSG00000143149
+            Vega: OTTHUMG00000034677
+            Pharos: P49189(Tbio)
+            UniProt: P49189 B9EKV4
+AASEQ       518
+            MFLRAGLAALSPLLRSLRPSPVAAMSTGTFVVSQPLNYRGGARVEPADASGTEKAFEPAT
+            GRVIATFTCSGEKEVNLAVQNAKAAFKIWSQKSGMERCRILLEAARIIREREDEIATMEC
+            INNGKSIFEARLDIDISWQCLEYYAGLAASMAGEHIQLPGGSFGYTRREPLGVCVGIGAW
+            NYPFQIASWKSAPALACGNAMVFKPSPFTPVSALLLAEIYSEAGVPPGLFNVVQGGAATG
+            QFLCQHPDVAKVSFTGSVPTGMKIMEMSAKGIKPVTLELGGKSPLIIFSDCDMNNAVKGA
+            LMANFLTQGQVCCNGTRVFVQKEILDKFTEEVVKQTQRIKIGDPLLEDTRMGPLINRPHL
+            ERVLGFVKVAKEQGAKVLCGGDIYVPEDPKLKDGYYMRPCVLTNCRDDMTCVKEEIFGPV
+            MSILSFDTEAEVLERANDTTFGLAAGVFTRDIQRAHRVVAELQAGTCFINNYNVSPVELP
+            FGGYKKSGFGRENGRVTIEYYSQLKTVCVEMGDVESAF
+NTSEQ       1557
+            atgtttctccgagcaggcctggccgcgctctccccgcttcttcgcagtcttcggccctct
+            cctgtcgccgccatgagcactggcaccttcgtcgtgtcgcagccgctcaattaccgcggc
+            ggggcccgcgtggagccggcggacgcctccggtaccgagaaagctttcgagccagcaacc
+            ggccgagtgatagctactttcacatgttcaggagaaaaggaagtaaatttggctgttcaa
+            aatgcaaaggctgcttttaaaatatggagtcaaaaatctggcatggagcgttgccgaatc
+            cttttggaggctgccaggataataagggaacgggaggatgaaattgctactatggagtgc
+            atcaacaatggcaagtccatctttgaggcccgcttggacattgacatttcctggcagtgc
+            ctggagtattatgcgggcttggctgcatccatggctggtgaacacatccagctcccaggt
+            ggatcgtttggttataccagaagagaaccacttggggtatgtgtgggaataggagcatgg
+            aactacccctttcagattgcctcttggaagtcggctccagcattagcctgtggtaatgcc
+            atggtctttaaaccttctccctttacacctgtttctgcattgctactggctgaaatctac
+            agtgaggctggtgtacctcctgggctcttcaatgtggtgcagggaggggctgccacaggc
+            cagtttctgtgtcagcatcccgatgtggccaaagtctccttcactggaagtgtgcccact
+            ggcatgaagatcatggagatgtcagctaaaggaatcaaacctgttaccttggaacttgga
+            ggcaaatctccactcatcatcttctcagactgtgatatgaacaatgctgtaaagggggcg
+            ctgatggccaacttcctcacacaaggccaggtttgctgtaatggcacaagagtatttgtg
+            cagaaagaaattcttgataaatttacagaggaagtggtgaaacagacccaaaggattaaa
+            attggagatccccttctggaagatacaaggatgggtccactcatcaaccgaccacacctg
+            gagcgagtccttgggtttgtcaaagtggcaaaggagcagggtgctaaagtgttatgtggt
+            ggagatatatatgtacctgaagatcccaaattaaaggatggatattacatgagaccttgt
+            gtattaactaattgcagagacgacatgacctgtgtgaaggaagagatctttgggcctgtt
+            atgtccattttatcatttgacactgaagctgaggttctagaaagagccaatgataccact
+            tttggactagcagctggcgtctttaccagggacatccaacgggctcatagagtggtagct
+            gagcttcaggctgggacgtgcttcattaacaactataacgtcagcccagtggagttgccc
+            tttggtggatataagaagtcaggatttggcagagagaacggccgtgtgacaatcgaatat
+            tattcacagctgaagactgtgtgtgtggagatgggtgatgtggaatctgctttttga
+///
+ENTRY       219               CDS       T01001
+NAME        ALDH1B1, ALDH5, ALDHX
+DEFINITION  (RefSeq) aldehyde dehydrogenase 1 family member B1
+ORTHOLOGY   K00128  aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00010  Glycolysis / Gluconeogenesis
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+DRUG_TARGET Cyanamide: D00123
+            Disulfiram: D00131
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                219 (ALDH1B1)
+               00053 Ascorbate and aldarate metabolism
+                219 (ALDH1B1)
+               00620 Pyruvate metabolism
+                219 (ALDH1B1)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                219 (ALDH1B1)
+               00561 Glycerolipid metabolism
+                219 (ALDH1B1)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                219 (ALDH1B1)
+               00310 Lysine degradation
+                219 (ALDH1B1)
+               00330 Arginine and proline metabolism
+                219 (ALDH1B1)
+               00340 Histidine metabolism
+                219 (ALDH1B1)
+               00380 Tryptophan metabolism
+                219 (ALDH1B1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                219 (ALDH1B1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.2  Acting on the aldehyde or oxo group of donors
+               1.2.1  With NAD+ or NADP+ as acceptor
+                1.2.1.3  aldehyde dehydrogenase (NAD+)
+                 219 (ALDH1B1)
+POSITION    9p13.1
+MOTIF       Pfam: Aldedh
+DBLINKS     NCBI-GeneID: 219
+            NCBI-ProteinID: NP_000683
+            OMIM: 100670
+            HGNC: 407
+            Ensembl: ENSG00000137124
+            Vega: OTTHUMG00000019938
+            Pharos: P30837(Tbio)
+            UniProt: P30837
+AASEQ       517
+            MLRFLAPRLLSLQGRTARYSSAAALPSPILNPDIPYNQLFINNEWQDAVSKKTFPTVNPT
+            TGEVIGHVAEGDRADVDRAVKAAREAFRLGSPWRRMDASERGRLLNRLADLVERDRVYLA
+            SLETLDNGKPFQESYALDLDEVIKVYRYFAGWADKWHGKTIPMDGQHFCFTRHEPVGVCG
+            QIIPWNFPLVMQGWKLAPALATGNTVVMKVAEQTPLSALYLASLIKEAGFPPGVVNIITG
+            YGPTAGAAIAQHVDVDKVAFTGSTEVGHLIQKAAGDSNLKRVTLELGGKSPSIVLADADM
+            EHAVEQCHEALFFNMGQCCCAGSRTFVEESIYNEFLERTVEKAKQRKVGNPFELDTQQGP
+            QVDKEQFERVLGYIQLGQKEGAKLLCGGERFGERGFFIKPTVFGGVQDDMRIAKEEIFGP
+            VQPLFKFKKIEEVVERANNTRYGLAAAVFTRDLDKAMYFTQALQAGTVWVNTYNIVTCHT
+            PFGGFKESGNGRELGEDGLKAYTEVKTVTIKVPQKNS
+NTSEQ       1554
+            atgctgcgcttcctggcaccccggctgcttagcctccagggcaggaccgcccgctactcc
+            tcggcagcagccctcccaagccccattctgaacccagacatcccctacaaccagctgttc
+            atcaacaatgaatggcaagatgcagtcagcaagaagaccttcccgacggtcaaccctacc
+            accggggaggtcattgggcacgtggctgaaggtgaccgggctgatgtggatcgggccgtg
+            aaagcagcccgggaagccttccgcctggggtccccatggcgccggatggatgcctctgag
+            cggggccggctgctgaaccgcctggcagacctagtggagcgggatcgagtctacttggcc
+            tcactcgagaccttggacaatgggaagcctttccaagagtcttacgccttggacttggat
+            gaggtcatcaaggtgtatcggtactttgctggctgggctgacaagtggcatggcaagacc
+            atccccatggatggccagcatttctgcttcacccggcatgagcccgttggtgtctgtggc
+            cagatcatcccgtggaacttccccttggtcatgcagggttggaaacttgccccggcactc
+            gccacaggcaacactgtggttatgaaggtggcagagcagacccccctctctgccctgtat
+            ttggcctccctcatcaaggaggcaggctttccccctggggtggtgaacatcatcacgggg
+            tatggcccaacagcaggtgcggccatcgcccagcacgtggatgttgacaaagttgccttc
+            accggttccaccgaggtgggccacctgatccagaaagcagctggcgattccaacctcaag
+            agagtcaccctggagctgggtggtaagagccccagcatcgtgctggccgatgctgacatg
+            gagcatgccgtggagcagtgccacgaagccctgttcttcaacatgggccagtgctgctgt
+            gctggctcccggaccttcgtggaagaatccatctacaatgagtttctcgagagaaccgtg
+            gagaaagcaaagcagaggaaagtggggaacccctttgagctggacacccagcaggggcct
+            caggtggacaaggagcagtttgaacgagtcctaggctacatccagcttggccagaaggag
+            ggcgcaaaactcctctgtggcggagagcgtttcggggagcgtggtttcttcatcaagcct
+            actgtctttggtggcgtgcaggatgacatgagaattgccaaagaggagatctttgggcct
+            gtgcagcccctgttcaagttcaagaagattgaggaggtggttgagagggccaacaacacc
+            aggtatggcctggctgcggctgtgttcacccgggatctggacaaggccatgtacttcacc
+            caggcactccaggccgggaccgtgtgggtaaacacctacaacatcgtcacctgccacacg
+            ccatttggagggtttaaggaatctggaaacgggagggagctgggtgaggatgggcttaag
+            gcctacacagaggtaaagacggtcaccatcaaggttcctcagaagaactcgtaa
+///
+ENTRY       259307            CDS       T01001
+NAME        IL4I1, FIG1, LAAO, LAO
+DEFINITION  (RefSeq) interleukin 4 induced 1
+ORTHOLOGY   K03334  L-amino-acid oxidase [EC:1.4.3.2]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00044  Tyrosine degradation, tyrosine => homogentisate
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                259307 (IL4I1)
+               00270 Cysteine and methionine metabolism
+                259307 (IL4I1)
+               00280 Valine, leucine and isoleucine degradation
+                259307 (IL4I1)
+               00350 Tyrosine metabolism
+                259307 (IL4I1)
+               00360 Phenylalanine metabolism
+                259307 (IL4I1)
+               00380 Tryptophan metabolism
+                259307 (IL4I1)
+               00400 Phenylalanine, tyrosine and tryptophan biosynthesis
+                259307 (IL4I1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.4  Acting on the CH-NH2 group of donors
+               1.4.3  With oxygen as acceptor
+                1.4.3.2  L-amino-acid oxidase
+                 259307 (IL4I1)
+POSITION    19q13.33
+MOTIF       Pfam: Amino_oxidase NAD_binding_8 Pyr_redox_2 DAO HI0933_like FAD_binding_2 Pyr_redox AlaDh_PNT_C FAD_binding_3 Thi4 FAD_oxidored GIDA Pyr_redox_3 MCRA Lycopene_cycl UDPG_MGDP_dh_N 3HCDH_N FMO-like DUF1188 NAD_binding_7 DUF4264 Shikimate_DH Trp_halogenase
+DBLINKS     NCBI-GeneID: 259307
+            NCBI-ProteinID: NP_690863
+            OMIM: 609742
+            HGNC: 19094
+            Ensembl: ENSG00000104951
+            Vega: OTTHUMG00000183377
+            Pharos: Q96RQ9(Tbio)
+            UniProt: Q96RQ9
+AASEQ       567
+            MAPLALHLLVLVPILLSLVASQDWKAERSQDPFEKCMQDPDYEQLLKVVTWGLNRTLKPQ
+            RVIVVGAGVAGLVAAKVLSDAGHKVTILEADNRIGGRIFTYRDQNTGWIGELGAMRMPSS
+            HRILHKLCQGLGLNLTKFTQYDKNTWTEVHEVKLRNYVVEKVPEKLGYALRPQEKGHSPE
+            DIYQMALNQALKDLKALGCRKAMKKFERHTLLEYLLGEGNLSRPAVQLLGDVMSEDGFFY
+            LSFAEALRAHSCLSDRLQYSRIVGGWDLLPRALLSSLSGLVLLNAPVVAMTQGPHDVHVQ
+            IETSPPARNLKVLKADVVLLTASGPAVKRITFSPPLPRHMQEALRRLHYVPATKVFLSFR
+            RPFWREEHIEGGHSNTDRPSRMIFYPPPREGALLLASYTWSDAAAAFAGLSREEALRLAL
+            DDVAALHGPVVRQLWDGTGVVKRWAEDQHSQGGFVVQPPALWQTEKDDWTVPYGRIYFAG
+            EHTAYPHGWVETAVKSALRAAIKINSRKGPASDTASPEGHASDMEGQGHVHGVASSPSHD
+            LAKEEGSHPPVQGQLSLQNTTHTRTSH
+NTSEQ       1704
+            atggccccattggccctgcacctcctcgtcctcgtccccatcctcctcagcctggtggcc
+            tcccaggactggaaggctgaacgcagccaagaccccttcgagaaatgcatgcaggatcct
+            gactatgagcagctgctcaaggtggtgacctgggggctcaatcggaccctgaagccccag
+            agggtgattgtggttggcgctggtgtggccgggctggtggccgccaaggtgctcagcgat
+            gctggacacaaggtcaccatcctggaggcagataacaggatcgggggccgcatcttcacc
+            taccgggaccagaacacgggctggattggggagctgggagccatgcgcatgcccagctct
+            cacaggatcctccacaagctctgccagggcctggggctcaacctgaccaagttcacccag
+            tacgacaagaacacgtggacggaggtgcacgaagtgaagctgcgcaactatgtggtggag
+            aaggtgcccgagaagctgggctacgccttgcgtccccaggaaaagggccactcgcccgaa
+            gacatctaccagatggctctcaaccaggccctcaaagacctcaaggcactgggctgcaga
+            aaggcgatgaagaagtttgaaaggcacacgctcttggaatatcttctcggggaggggaac
+            ctgagccggccggccgtgcagcttctgggagacgtgatgtccgaggatggcttcttctat
+            ctcagcttcgccgaggccctccgggcccacagctgcctcagcgacagactccagtacagc
+            cgcatcgtgggtggctgggacctgctgccgcgcgcgctgctgagctcgctgtccgggctt
+            gtgctgttgaacgcgcccgtggtggcgatgacccagggaccgcacgatgtgcacgtgcag
+            atcgagacctctcccccggcgcggaatctgaaggtgctgaaggccgacgtggtgctgctg
+            acggcgagcggaccggcggtgaagcgcatcaccttctcgccgccgctgccccgccacatg
+            caggaggcgctgcggaggctgcactacgtgccggccaccaaggtgttcctaagcttccgc
+            aggcccttctggcgcgaggagcacattgaaggcggccactcaaacaccgatcgcccgtcg
+            cgcatgattttctacccgccgccgcgcgagggcgcgctgctgctggcctcgtacacgtgg
+            tcggacgcggcggcagcgttcgccggcttgagccgggaagaggcgttgcgcttggcgctc
+            gacgacgtggcggcattgcacgggcctgtcgtgcgccagctctgggacggcaccggcgtc
+            gtcaagcgttgggcggaggaccagcacagccagggtggctttgtggtacagccgccggcg
+            ctctggcaaaccgaaaaggatgactggacggtcccttatggccgcatctactttgccggc
+            gagcacaccgcctacccgcacggctgggtggagacggcggtcaagtcggcgctgcgcgcc
+            gccatcaagatcaacagccggaaggggcctgcatcggacacggccagccccgaggggcac
+            gcatctgacatggaggggcaggggcatgtgcatggggtggccagcagcccctcgcatgac
+            ctggcaaaggaagaaggcagccaccctccagtccaaggccagttatctctccaaaacacg
+            acccacacgaggacctcgcattaa
+///
+ENTRY       3033              CDS       T01001
+NAME        HADH, HAD, HADH1, HADHSC, HCDH, HHF4, MSCHAD, SCHAD
+DEFINITION  (RefSeq) hydroxyacyl-CoA dehydrogenase
+ORTHOLOGY   K00022  3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00085  Fatty acid biosynthesis, elongation, mitochondria
+            hsa_M00087  beta-Oxidation
+DISEASE     H01267  Familial hyperinsulinemic hypoglycemia (HHF)
+            H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00650 Butanoate metabolism
+                3033 (HADH)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                3033 (HADH)
+               00071 Fatty acid degradation
+                3033 (HADH)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                3033 (HADH)
+               00310 Lysine degradation
+                3033 (HADH)
+               00380 Tryptophan metabolism
+                3033 (HADH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.35  3-hydroxyacyl-CoA dehydrogenase
+                 3033 (HADH)
+POSITION    4q25
+MOTIF       Pfam: 3HCDH_N 3HCDH Pyr_redox_2 Pyr_redox AlaDh_PNT_C NAD_binding_2 NAD_Gly3P_dh_N UDPG_MGDP_dh_N NAD_binding_7 F420_oxidored 2-Hacid_dh_C NAD_binding_8 DAO Phage_T4_gp36 XdhC_C Sacchrp_dh_NADP GIDA FAD_oxidored
+DBLINKS     NCBI-GeneID: 3033
+            NCBI-ProteinID: NP_005318
+            OMIM: 601609
+            HGNC: 4799
+            Ensembl: ENSG00000138796
+            Vega: OTTHUMG00000131810
+            Pharos: Q16836(Tbio)
+            UniProt: Q16836
+STRUCTURE   PDB: 1F0Y 3RQS 3HAD 1M76 1IL0 2HDH 1M75 1F14 1F17 1F12 1LSJ
+                 1LSO
+AASEQ       314
+            MAFVTRQFMRSVSSSSTASASAKKIIVKHVTVIGGGLMGAGIAQVAAATGHTVVLVDQTE
+            DILAKSKKGIEESLRKVAKKKFAENPKAGDEFVEKTLSTIATSTDAASVVHSTDLVVEAI
+            VENLKVKNELFKRLDKFAAEHTIFASNTSSLQITSIANATTRQDRFAGLHFFNPVPVMKL
+            VEVIKTPMTSQKTFESLVDFSKALGKHPVSCKDTPGFIVNRLLVPYLMEAIRLYERGDAS
+            KEDIDTAMKLGAGYPMGPFELLDYVGLDTTKFIVDGWHEMDAENPLHQPSPSLNKLVAEN
+            KFGKKTGEGFYKYK
+NTSEQ       945
+            atggccttcgtcaccaggcagttcatgcgttccgtgtcctcctcgtccaccgcctcggcc
+            tcggccaagaagataatcgtcaagcacgtgacggtcatcggcggcgggctgatgggcgcc
+            ggcattgcccaggttgctgcagcaactggtcacacagtagtgttggtagaccagacagag
+            gacatcctggcaaaatccaaaaagggaattgaggaaagccttaggaaagtggcaaagaag
+            aagtttgcagaaaaccctaaggccggcgatgaatttgtggagaagaccctgagcaccata
+            gcgaccagcacggatgcagcctccgttgtccacagcacagacttggtggtggaagccatc
+            gtggagaatctgaaggtgaaaaacgagctcttcaaaaggctggacaagtttgctgctgaa
+            catacaatctttgccagcaacacttcctccttgcagattacaagcatagctaatgccacc
+            accagacaagaccgattcgctggcctccatttcttcaacccagtgcctgtcatgaaactt
+            gtggaggtcattaaaacaccaatgaccagccagaagacatttgaatctttggtagacttt
+            agcaaagccctaggaaagcatcctgtttcttgcaaggacactcctgggtttattgtgaac
+            cgcctcctggttccatacctcatggaagcaatcaggctgtatgaacgaggtgacgcatcc
+            aaagaagacattgacactgctatgaaattaggagccggttaccccatgggcccatttgag
+            cttctagattatgtcggactggatactacgaagttcatcgtggatgggtggcatgaaatg
+            gatgcagagaacccattacatcagcccagcccatccttaaataagctggtagcagagaac
+            aagttcggcaagaagactggagaaggattttacaaatacaagtga
+///
+ENTRY       3030              CDS       T01001
+NAME        HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA
+DEFINITION  (RefSeq) hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha
+ORTHOLOGY   K07515  enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00013  Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00085  Fatty acid biosynthesis, elongation, mitochondria
+            hsa_M00087  beta-Oxidation
+DISEASE     H00489  LCHAD deficiency
+            H00525  Disorders of fatty-acid oxidation
+            H01352  Mitochondrial trifunctional protein deficiency
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                3030 (HADHA)
+               00650 Butanoate metabolism
+                3030 (HADHA)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                3030 (HADHA)
+               00071 Fatty acid degradation
+                3030 (HADHA)
+               01040 Biosynthesis of unsaturated fatty acids
+                3030 (HADHA)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                3030 (HADHA)
+               00310 Lysine degradation
+                3030 (HADHA)
+               00380 Tryptophan metabolism
+                3030 (HADHA)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                3030 (HADHA)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.211  long-chain-3-hydroxyacyl-CoA dehydrogenase
+                 3030 (HADHA)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.17  enoyl-CoA hydratase
+                 3030 (HADHA)
+POSITION    2p23.3
+MOTIF       Pfam: 3HCDH_N ECH_1 3HCDH ECH_2
+DBLINKS     NCBI-GeneID: 3030
+            NCBI-ProteinID: NP_000173
+            OMIM: 600890
+            HGNC: 4801
+            Ensembl: ENSG00000084754
+            Vega: OTTHUMG00000096979
+            Pharos: P40939(Tbio)
+            UniProt: P40939 E9KL44
+AASEQ       763
+            MVACRAIGILSRFSAFRILRSRGYICRNFTGSSALLTRTHINYGVKGDVAVVRINSPNSK
+            VNTLSKELHSEFSEVMNEIWASDQIRSAVLISSKPGCFIAGADINMLAACKTLQEVTQLS
+            QEAQRIVEKLEKSTKPIVAAINGSCLGGGLEVAISCQYRIATKDRKTVLGTPEVLLGALP
+            GAGGTQRLPKMVGVPAALDMMLTGRSIRADRAKKMGLVDQLVEPLGPGLKPPEERTIEYL
+            EEVAITFAKGLADKKISPKRDKGLVEKLTAYAMTIPFVRQQVYKKVEEKVRKQTKGLYPA
+            PLKIIDVVKTGIEQGSDAGYLCESQKFGELVMTKESKALMGLYHGQVLCKKNKFGAPQKD
+            VKHLAILGAGLMGAGIAQVSVDKGLKTILKDATLTALDRGQQQVFKGLNDKVKKKALTSF
+            ERDSIFSNLTGQLDYQGFEKADMVIEAVFEDLSLKHRVLKEVEAVIPDHCIFASNTSALP
+            ISEIAAVSKRPEKVIGMHYFSPVDKMQLLEIITTEKTSKDTSASAVAVGLKQGKVIIVVK
+            DGPGFYTTRCLAPMMSEVIRILQEGVDPKKLDSLTTSFGFPVGAATLVDEVGVDVAKHVA
+            EDLGKVFGERFGGGNPELLTQMVSKGFLGRKSGKGFYIYQEGVKRKDLNSDMDSILASLK
+            LPPKSEVSSDEDIQFRLVTRFVNEAVMCLQEGILATPAEGDIGAVFGLGFPPCLGGPFRF
+            VDLYGAQKIVDRLKKYEAAYGKQFTPCQLLADHANSPNKKFYQ
+NTSEQ       2292
+            atggtggcctgccgggcgattggcatcctcagccgcttttctgccttcaggatcctccgc
+            tcccgaggttatatatgccgcaattttacagggtcttctgctttgctgaccagaacccat
+            attaactatggagtcaaaggggatgtggcagttgttcgaattaactctcccaattcaaag
+            gtaaatacactgagtaaagagctacattcagagttctcagaagttatgaatgaaatctgg
+            gctagtgatcaaatcagaagtgccgtccttatctcatcaaagccaggctgctttattgca
+            ggtgctgatatcaacatgttagccgcttgcaagacccttcaagaagtaacacagctatca
+            caagaagcacagagaatagttgagaaacttgaaaagtccacaaagcctattgtggctgcc
+            atcaatggatcctgcctgggaggaggacttgaggttgccatttcatgccaatacagaata
+            gcaacaaaagacagaaaaacagtattaggtacccctgaagttttgctgggggccttacca
+            ggagcaggaggcacacaaaggctgcccaaaatggtgggtgtgcctgctgctttggacatg
+            atgctgactggtagaagcattcgtgcagacagggcaaagaaaatgggactggttgaccaa
+            ctggtggaacccctgggaccaggactaaaacctccagaggaacggacaatagaataccta
+            gaagaagttgcaattacttttgccaaaggactagctgataagaagatctctccaaagaga
+            gacaagggattggtggaaaaattgacagcgtatgccatgactattccatttgtcaggcaa
+            caggtttacaaaaaagtggaagaaaaagtgcgaaagcagactaaaggcctttatcctgca
+            cctctgaaaataattgatgtggtaaagactggaattgagcaagggagtgatgccggttat
+            ctctgtgaatctcagaaatttggagagcttgtaatgaccaaagaatcaaaggccttgatg
+            ggactctaccatggtcaggtcctgtgcaagaagaataaatttggagctccacagaaggat
+            gttaagcatctggctattcttggtgcagggctgatgggagcaggcatcgcccaagtctcc
+            gtggataaggggctaaagactatacttaaagatgccaccctcactgcgctagaccgagga
+            cagcaacaagtgttcaaaggattgaatgacaaagtgaagaagaaagctctaacatcattt
+            gaaagggattccatcttcagcaacttgactgggcagcttgattaccaaggttttgaaaag
+            gccgacatggtgattgaagctgtgtttgaggaccttagtcttaagcacagagtgctaaag
+            gaagtagaagcggtgattccagatcactgtatctttgccagtaacacatctgctctccca
+            atcagtgaaatcgctgctgtcagcaaaagacctgagaaggtgattggcatgcactacttc
+            tctcccgtggacaagatgcagctgctggagattatcacgaccgagaaaacttccaaagac
+            accagtgcttcagctgtagcagttggtctcaagcaggggaaggtcatcattgtggttaag
+            gatggacctggcttctatactaccaggtgtcttgcgcccatgatgtctgaagtcatccga
+            atcctccaggaaggagttgacccgaagaagctggattccctgaccacaagctttggcttt
+            cctgtgggtgccgccacactggtggatgaagttggtgtggatgtagcgaaacatgtggcg
+            gaagatctgggcaaagtctttggggagcggtttggaggtggaaacccagaactgctgaca
+            cagatggtgtccaagggcttcctaggtcgtaaatctgggaagggcttttacatctatcag
+            gagggtgtgaagaggaaggatttgaattctgacatggatagtattttagcgagtctgaag
+            ctgcctcctaagtctgaagtctcatcagacgaagacatccagttccgcctggtgacaaga
+            tttgtgaatgaggcagtcatgtgcctgcaagaggggatcttggccacacctgcagaggga
+            gacatcggagccgtctttgggcttggcttcccgccttgtctgggagggcctttccgcttt
+            gtggatctgtatggcgcccagaagatagtggaccggctcaagaaatatgaagctgcctat
+            ggaaaacagttcaccccatgccagctgctagctgaccatgctaacagccctaacaagaag
+            ttctaccagtga
+///
+ENTRY       15                CDS       T01001
+NAME        AANAT, DSPS, SNAT
+DEFINITION  (RefSeq) aralkylamine N-acetyltransferase
+ORTHOLOGY   K00669  arylalkylamine N-acetyltransferase [EC:2.3.1.87]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+MODULE      hsa_M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+DISEASE     H00689  Delayed sleep phase syndrome
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                15 (AANAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.87  aralkylamine N-acetyltransferase
+                 15 (AANAT)
+POSITION    17q25.1
+MOTIF       Pfam: Acetyltransf_1 Acetyltransf_10 Acetyltransf_7
+DBLINKS     NCBI-GeneID: 15
+            NCBI-ProteinID: NP_001079
+            OMIM: 600950
+            HGNC: 19
+            Ensembl: ENSG00000129673
+            Vega: OTTHUMG00000180179
+            Pharos: Q16613(Tbio)
+            UniProt: Q16613 F1T0I5
+AASEQ       207
+            MSTQSTHPLKPEAPRLPPGIPESPSCQRRHTLPASEFRCLTPEDAVSAFEIEREAFISVL
+            GVCPLYLDEIRHFLTLCPELSLGWFEEGCLVAFIIGSLWDKERLMQESLTLHRSGGHIAH
+            LHVLAVHRAFRQQGRGPILLWRYLHHLGSQPAVRRAALMCEDALVPFYERFSFHAVGPCA
+            ITVGSLTFMELHCSLRGHPFLRRNSGC
+NTSEQ       624
+            atgtccacgcagagcacccaccccctgaaacctgaggccccacgtctgccacctgggatc
+            cccgagtccccgagctgtcagcggcgccacacactccctgccagtgagtttcgctgcctc
+            accccggaggacgctgtcagcgcctttgagatcgagcgtgaagccttcatctccgtcttg
+            ggcgtctgccccctgtacctggatgagatccggcacttcctgaccctatgtccagagctg
+            tccctgggctggttcgaggagggctgccttgtggccttcatcatcggctcgctctgggac
+            aaggagagactcatgcaggagtcactgacgctgcacaggtctgggggccacatagcccac
+            ctgcatgtgctggccgtgcaccgcgccttccggcagcagggcaggggccccatcctgctg
+            tggcgctacctgcaccacctgggcagccagccggccgtgcgccgggccgcgctcatgtgc
+            gaggacgcgctggtacccttctatgagaggttcagcttccacgccgtgggcccctgcgcc
+            atcaccgtgggctccctcaccttcatggagctccactgctccctgcggggccaccccttc
+            ctgcgcaggaacagcggctgctga
+///
+ENTRY       121278            CDS       T01001
+NAME        TPH2, ADHD7, NTPH
+DEFINITION  (RefSeq) tryptophan hydroxylase 2
+ORTHOLOGY   K00502  tryptophan 5-monooxygenase [EC:1.14.16.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+MODULE      hsa_M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+DISEASE     H01646  Major depressive disorder (MDD)
+            H01895  Attention deficit hyperactivity disorder (ADHD)
+DRUG_TARGET Telotristat (DG02809): D09973 D09974 D09975
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                121278 (TPH2)
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                121278 (TPH2)
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                121278 (TPH2)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.16  With reduced pteridine as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.16.4  tryptophan 5-monooxygenase
+                 121278 (TPH2)
+POSITION    12q21.1
+MOTIF       Pfam: Biopterin_H ACT
+DBLINKS     NCBI-GeneID: 121278
+            NCBI-ProteinID: NP_775489
+            OMIM: 607478
+            HGNC: 20692
+            Ensembl: ENSG00000139287
+            Vega: OTTHUMG00000169677
+            Pharos: Q8IWU9(Tchem)
+            UniProt: Q8IWU9
+STRUCTURE   PDB: 4V06
+AASEQ       490
+            MQPAMMMFSSKYWARRGFSLDSAVPEEHQLLGSSTLNKPNSGKNDDKGNKGSSKREAATE
+            SGKTAVVFSLKNEVGGLVKALRLFQEKRVNMVHIESRKSRRRSSEVEIFVDCECGKTEFN
+            ELIQLLKFQTTIVTLNPPENIWTEEEELEDVPWFPRKISELDKCSHRVLMYGSELDADHP
+            GFKDNVYRQRRKYFVDVAMGYKYGQPIPRVEYTEEETKTWGVVFRELSKLYPTHACREYL
+            KNFPLLTKYCGYREDNVPQLEDVSMFLKERSGFTVRPVAGYLSPRDFLAGLAYRVFHCTQ
+            YIRHGSDPLYTPEPDTCHELLGHVPLLADPKFAQFSQEIGLASLGASDEDVQKLATCYFF
+            TIEFGLCKQEGQLRAYGAGLLSSIGELKHALSDKACVKAFDPKTTCLQECLITTFQEAYF
+            VSESFEEAKEKMRDFAKSITRPFSVYFNPYTQSIEILKDTRSIENVVQDLRSDLNTVCDA
+            LNKMNQYLGI
+NTSEQ       1473
+            atgcagccagcaatgatgatgttttccagtaaatactgggcacggagagggttttccctg
+            gattcagcagtgcccgaagagcatcagctacttggcagctcaacactaaataaacctaac
+            tctggcaaaaatgacgacaaaggcaacaagggaagcagcaaacgtgaagctgctaccgaa
+            agtggcaagacagcagttgttttctccttgaagaatgaagttggtggattggtaaaagca
+            ctgaggctctttcaggaaaaacgtgtcaacatggttcatattgaatccaggaaatctcgg
+            cgaagaagttctgaggttgaaatctttgtggactgtgagtgtgggaaaacagaattcaat
+            gagctcattcagttgctgaaatttcaaaccactattgtgacgctgaatcctccagagaac
+            atttggacagaggaagaagagctagaggatgtgccctggttccctcggaagatctctgag
+            ttagacaaatgctctcacagagttctcatgtatggttctgagcttgatgctgaccaccca
+            ggatttaaggacaatgtctatcgacagagaagaaagtattttgtggatgtggccatgggt
+            tataaatatggtcagcccattcccagggtggagtatactgaagaagaaactaaaacttgg
+            ggtgttgtattccgggagctctccaaactctatcccactcatgcttgccgagagtatttg
+            aaaaacttccctctgctgactaaatactgtggctacagagaggacaatgtgcctcaactc
+            gaagatgtctccatgtttctgaaagaaaggtctggcttcacggtgaggccggtggctgga
+            tacctgagcccacgagactttctggcaggactggcctacagagtgttccactgtacccag
+            tacatccggcatggctcagatcccctctacaccccagaaccagacacatgccatgaactc
+            ttgggacatgttccactacttgcggatcctaagtttgctcagttttcacaagaaataggt
+            ctggcgtctctgggagcatcagatgaagatgttcagaaactagccacgtgctatttcttc
+            acaatcgagtttggcctttgcaagcaagaagggcaactgcgggcatatggagcaggactc
+            ctttcctccattggagaattaaagcacgccctttctgacaaggcatgtgtgaaagccttt
+            gacccaaagacaacttgcttacaggaatgccttatcaccaccttccaggaagcctacttt
+            gtttcagaaagttttgaagaagccaaagaaaagatgagggactttgcaaagtcaattacc
+            cgtcccttctcagtatacttcaatccctacacacagagtattgaaattctgaaagacacc
+            agaagtattgaaaatgtggtgcaggaccttcgcagcgacttgaatacagtgtgtgatgct
+            ttaaacaaaatgaaccaatatctggggatttga
+///
+ENTRY       51166             CDS       T01001
+NAME        AADAT, KAT2, KATII, KYAT2
+DEFINITION  (RefSeq) aminoadipate aminotransferase
+ORTHOLOGY   K00825  kynurenine/2-aminoadipate aminotransferase [EC:2.6.1.7 2.6.1.39]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+            hsa01210  2-Oxocarboxylic acid metabolism
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00300 Lysine biosynthesis
+                51166 (AADAT)
+               00310 Lysine degradation
+                51166 (AADAT)
+               00380 Tryptophan metabolism
+                51166 (AADAT)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.7  kynurenine---oxoglutarate transaminase
+                 51166 (AADAT)
+                2.6.1.39  2-aminoadipate transaminase
+                 51166 (AADAT)
+            Amino acid related enzymes [BR:hsa01007]
+             Aminotransferase (transaminase)
+              Class I
+               51166 (AADAT)
+POSITION    4q33
+MOTIF       Pfam: Aminotran_1_2 Aminotran_MocR
+DBLINKS     NCBI-GeneID: 51166
+            NCBI-ProteinID: NP_001273612
+            OMIM: 611754
+            HGNC: 17929
+            Ensembl: ENSG00000109576
+            Vega: OTTHUMG00000160912
+            Pharos: Q8N5Z0(Tchem)
+            UniProt: Q8N5Z0 Q4W5N8
+STRUCTURE   PDB: 5TF5 5EUN 5EFS 2R2N 4GE7 2XH1 4GEB 2QLR 4GE4 4GE9 3DC1
+                 4GDY 3UE8 2VGZ
+AASEQ       425
+            MNYARFITAASAARNPSPIRTMTDILSRGPKSMISLAGGLPNPNMFPFKTAVITVENGKT
+            IQFGEEMMKRALQYSPSAGIPELLSWLKQLQIKLHNPPTIHYPPSQGQMDLCVTSGSQQG
+            LCKVFEMIINPGDNVLLDEPAYSGTLQSLHPLGCNIINVASDESGIVPDSLRDILSRWKP
+            EDAKNPQKNTPKFLYTVPNGNNPTGNSLTSERKKEIYELARKYDFLIIEDDPYYFLQFNK
+            FRVPTFLSMDVDGRVIRADSFSKIISSGLRIGFLTGPKPLIERVILHIQVSTLHPSTFNQ
+            LMISQLLHEWGEEGFMAHVDRVIDFYSNQKDAILAAADKWLTGLAEWHVPAAGMFLWIKV
+            KGINDVKELIEEKAVKMGVLMLPGNAFYVDSSAPSPYLRASFSSASPEQMDVAFQVLAQL
+            IKESL
+NTSEQ       1278
+            atgaattacgcacggttcatcacggcagcgagcgcagccagaaacccttctcccatccgg
+            accatgactgacatattgagcagaggaccaaaatcgatgatctccttggctggtggctta
+            ccaaatccaaacatgtttccttttaagactgccgtaatcactgtagaaaatggaaagacc
+            atccaatttggagaagagatgatgaagagagcacttcagtattctccgagtgctggaatt
+            ccagagcttttgtcctggctaaaacagttacaaataaaattgcataatcctcctaccatc
+            cattacccacccagtcaaggacaaatggatctatgtgtcacatctggcagccaacaaggt
+            ctttgtaaggtgtttgaaatgatcattaatcctggagataatgtcctcctagatgaacct
+            gcttattcaggaactcttcaaagtctgcacccactgggctgcaacattattaatgttgcc
+            agtgatgaaagtgggattgttccagattccctaagagacatactttccagatggaaacca
+            gaagatgcaaagaatccccagaaaaacacccccaaatttctttatactgttccaaatggc
+            aacaaccctactggaaactcattaaccagtgaacgcaaaaaggaaatctatgagcttgca
+            agaaaatatgatttcctcataatagaagatgatccttactattttctccagtttaacaag
+            ttcagggtaccaacatttctttccatggatgttgatggacgtgtcatcagagctgactct
+            ttttcaaaaatcatttcctctgggttgagaataggatttttaactggtccaaaaccctta
+            atagagagagttattttacacatacaagtttcaacattgcaccccagcacttttaaccag
+            ctcatgatatcacagcttctacacgaatggggagaagaaggtttcatggctcatgtagac
+            agggttattgatttctatagtaaccagaaggatgcaatactggcagctgcagacaagtgg
+            ttaactggtttggcagaatggcatgttcctgctgctggaatgtttttatggattaaagtt
+            aaaggcattaatgatgtaaaagaactgattgaagaaaaggccgttaagatgggggtatta
+            atgctccctggaaatgctttctacgtcgatagctcagctcctagcccttacttgagagca
+            tccttctcttcagcttctccagaacagatggatgtggccttccaggtattagcacaactt
+            ataaaagaatctttatga
+///
+ENTRY       39                CDS       T01001
+NAME        ACAT2
+DEFINITION  (RefSeq) acetyl-CoA acetyltransferase 2
+ORTHOLOGY   K00626  acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa00072  Synthesis and degradation of ketone bodies
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+            hsa04975  Fat digestion and absorption
+MODULE      hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                39 (ACAT2)
+               00630 Glyoxylate and dicarboxylate metabolism
+                39 (ACAT2)
+               00640 Propanoate metabolism
+                39 (ACAT2)
+               00650 Butanoate metabolism
+                39 (ACAT2)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                39 (ACAT2)
+               00072 Synthesis and degradation of ketone bodies
+                39 (ACAT2)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                39 (ACAT2)
+               00310 Lysine degradation
+                39 (ACAT2)
+               00380 Tryptophan metabolism
+                39 (ACAT2)
+              Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                39 (ACAT2)
+             Organismal Systems
+              Digestive system
+               04975 Fat digestion and absorption
+                39 (ACAT2)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.9  acetyl-CoA C-acetyltransferase
+                 39 (ACAT2)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               39 (ACAT2)
+POSITION    6q25.3
+MOTIF       Pfam: Thiolase_N Thiolase_C ketoacyl-synt ACP_syn_III_C Dodecin
+DBLINKS     NCBI-GeneID: 39
+            NCBI-ProteinID: NP_005882
+            OMIM: 100678
+            HGNC: 94
+            Ensembl: ENSG00000120437
+            Vega: OTTHUMG00000015935
+            Pharos: Q9BWD1(Tbio)
+            UniProt: Q9BWD1
+STRUCTURE   PDB: 1WL4 1WL5
+AASEQ       397
+            MNAGSDPVVIVSAARTIIGSFNGALAAVPVQDLGSTVIKEVLKRATVAPEDVSEVIFGHV
+            LAAGCGQNPVRQASVGAGIPYSVPAWSCQMICGSGLKAVCLAVQSIGIGDSSIVVAGGME
+            NMSKAPHLAYLRTGVKIGEMPLTDSILCDGLTDAFHNCHMGITAENVAKKWQVSREDQDK
+            VAVLSQNRTENAQKAGHFDKEIVPVLVSTRKGLIEVKTDEFPRHGSNIEAMSKLKPYFLT
+            DGTGTVTPANASGINDGAAAVVLMKKSEADKRGLTPLARIVSWSQVGVEPSIMGIGPIPA
+            IKQAVTKAGWSLEDVDIFEINEAFAAVSAAIVKELGLNPEKVNIEGGAIALGHPLGASGC
+            RILVTLLHTLERMGRSRGVAALCIGGGMGIAMCVQRE
+NTSEQ       1194
+            atgaatgcaggctcagatcctgtggtcatcgtctcggcggcgcggaccatcataggttcc
+            ttcaatggtgccttagctgctgttcctgtccaggacctgggctccactgtcatcaaagaa
+            gtcttgaagagggccactgtggctccggaagatgtgtctgaggtcatctttggacatgtc
+            ttggcagcaggctgtgggcagaatcctgttagacaagccagtgtgggtgcaggaattccc
+            tactctgttccagcatggagctgccagatgatctgtgggtcaggcctaaaagctgtgtgc
+            cttgcagtccagtcaatagggataggagactccagcattgtggttgcaggaggcatggaa
+            aatatgagcaaggctcctcacttggcttacttgagaacaggagtaaagataggtgagatg
+            ccactgactgacagtatactctgtgatggtcttacagatgcatttcacaactgtcatatg
+            ggtattacagctgaaaatgtagccaaaaaatggcaagtgagtagagaagatcaggacaag
+            gttgcagttctgtcccagaacaggacagagaatgcacagaaagctggccattttgacaaa
+            gagattgtaccagttttggtgtcaactagaaaaggtcttattgaagttaaaacagatgag
+            tttcctcgccatgggagcaacatagaagccatgtccaagctaaagccttactttcttact
+            gatggaacgggaacagtcaccccagccaatgcttcaggaataaatgatggtgctgcagct
+            gtcgttcttatgaagaagtcagaagctgataaacgtgggcttacacctttagcacggata
+            gtttcctggtcccaagtgggtgtggagccttccattatgggaataggaccaattccagcc
+            ataaagcaagctgttacaaaagcaggttggtcactggaagatgttgacatatttgaaatc
+            aatgaagcctttgcagctgtctctgctgcaatagttaaagaacttggattaaacccagag
+            aaggtcaatattgaaggaggggctatagccttgggccaccctcttggagcatctggctgt
+            cgaattcttgtgaccctgttacacacactggagagaatgggcagaagtcgtggtgttgca
+            gccctgtgcattgggggtgggatgggaatagcaatgtgtgttcagagagaatga
+///
+ENTRY       1962              CDS       T01001
+NAME        EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE
+DEFINITION  (RefSeq) enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase
+ORTHOLOGY   K07514  enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+            hsa03320  PPAR signaling pathway
+            hsa04146  Peroxisome
+MODULE      hsa_M00013  Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00087  beta-Oxidation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                1962 (EHHADH)
+               00650 Butanoate metabolism
+                1962 (EHHADH)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                1962 (EHHADH)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                1962 (EHHADH)
+               00310 Lysine degradation
+                1962 (EHHADH)
+               00380 Tryptophan metabolism
+                1962 (EHHADH)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                1962 (EHHADH)
+             Cellular Processes
+              Transport and catabolism
+               04146 Peroxisome
+                1962 (EHHADH)
+             Organismal Systems
+              Endocrine system
+               03320 PPAR signaling pathway
+                1962 (EHHADH)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.35  3-hydroxyacyl-CoA dehydrogenase
+                 1962 (EHHADH)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.17  enoyl-CoA hydratase
+                 1962 (EHHADH)
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.3  Transposing C=C bonds
+                5.3.3.8  dodecenoyl-CoA isomerase
+                 1962 (EHHADH)
+POSITION    3q27.2
+MOTIF       Pfam: 3HCDH_N ECH_1 3HCDH ECH_2 NAD_binding_2 UDPG_MGDP_dh_N Peptidase_S49 TrkA_N 2-Hacid_dh_C
+DBLINKS     NCBI-GeneID: 1962
+            NCBI-ProteinID: NP_001957
+            OMIM: 607037
+            HGNC: 3247
+            Ensembl: ENSG00000113790
+            Vega: OTTHUMG00000156698
+            Pharos: Q08426(Tbio)
+            UniProt: Q08426
+AASEQ       723
+            MAEYTRLHNALALIRLRNPPVNAISTTLLRDIKEGLQKAVIDHTIKAIVICGAEGKFSAG
+            ADIRGFSAPRTFGLTLGHVVDEIQRNEKPVVAAIQGMAFGGGLELALGCHYRIAHAEAQV
+            GLPEVTLGLLPGARGTQLLPRLTGVPAALDLITSGRRILADEALKLGILDKVVNSDPVEE
+            AIRFAQRVSDQPLESRRLCNKPIQSLPNMDSIFSEALLKMRRQHPGCLAQEACVRAVQAA
+            VQYPYEVGIKKEEELFLYLLQSGQARALQYAFFAERKANKWSTPSGASWKTASARPVSSV
+            GVVGLGTMGRGIVISFARARIPVIAVDSDKNQLATANKMITSVLEKEASKMQQSGHPWSG
+            PKPRLTSSVKELGGVDLVIEAVFEEMSLKKQVFAELSAVCKPEAFLCTNTSALDVDEIAS
+            STDRPHLVIGTHFFSPAHVMKLLEVIPSQYSSPTTIATVMNLSKKIKKIGVVVGNCFGFV
+            GNRMLNPYYNQAYFLLEEGSKPEEVDQVLEEFGFKMGPFRVSDLAGLDVGWKSRKGQGLT
+            GPTLLPGTPARKRGNRRYCPIPDVLCELGRFGQKTGKGWYQYDKPLGRIHKPDPWLSKFL
+            SRYRKTHHIEPRTISQDEILERCLYSLINEAFRILGEGIAASPEHIDVVYLHGYGWPRHK
+            GGPMFYASTVGLPTVLEKLQKYYRQNPDIPQLEPSDYLKKLASQGNPPLKEWQSLAGSPS
+            SKL
+NTSEQ       2172
+            atggccgagtatacgcggctgcacaacgccttggcgctaatccgcctccgaaacccgccg
+            gtcaacgcgatcagtacgactttactccgtgacataaaagaaggactacagaaagctgta
+            atagaccatacaataaaagccattgtgatttgtggagcagagggcaaattttctgcaggt
+            gctgatattcgtggcttcagtgctcctaggacatttggccttacactgggacatgtagta
+            gatgaaatacagagaaatgagaagcccgtggtggcagcaatccaaggcatggctttcgga
+            gggggactagagctggccctgggctgtcactataggattgcccacgcagaggctcaagtt
+            ggcttaccagaagttacactgggacttctccctggtgcaagaggaacccagcttctcccc
+            agactcactggagttcctgctgcacttgacttaattacctcaggaagacgtattttagca
+            gatgaagcactcaagctgggcattctagataaagttgtaaactcagacccggttgaagaa
+            gcaatcagatttgctcagagagtttcagatcaacctctagaatcccgtagactctgcaac
+            aagccaattcagagcttgcccaacatggacagcatttttagtgaggccctcttgaagatg
+            cggaggcagcaccctgggtgtcttgcacaggaggcttgtgtccgtgcagtccaggctgct
+            gtgcagtatccctatgaagtgggcatcaagaaggaggaggagctgtttctatatcttttg
+            caatcagggcaggctagagccctgcaatatgctttcttcgctgaaaggaaagcaaataag
+            tggtcaactccctccggagcatcgtggaaaacagcatcagcgcggcctgtctcctcagtt
+            ggtgttgttggcttgggaacaatgggccgaggcattgtcatttcttttgcaagggccagg
+            attcctgtgattgctgtagactcggacaaaaaccagctagcaactgcaaacaagatgata
+            acctctgtcttggaaaaagaagcctccaaaatgcaacagagcggccacccttggtcagga
+            ccaaaacccaggttaacttcatctgtgaaggagcttggtggtgtagatttagtcattgaa
+            gcagtatttgaggaaatgagcctgaagaagcaggtctttgctgaactctcagctgtgtgc
+            aaaccagaagcatttttgtgcactaatacttcagccctggatgttgatgagattgcttct
+            tccactgatcgtcctcacttggtcattggcacccacttcttttcgccagctcatgtcatg
+            aagttgttagaggttattcccagccaatactcttcccccactaccattgccactgttatg
+            aacttatcaaaaaagattaaaaagattggagtcgttgtaggcaactgttttggatttgtg
+            gggaatcgaatgttgaatccttactacaatcaggcatatttcttgttagaagaaggcagc
+            aaaccagaggaggtagatcaggtgctggaagagtttggttttaaaatgggaccttttaga
+            gtgtctgatcttgctgggttggatgtgggctggaaatctagaaaggggcaaggtcttact
+            ggacctacattgcttccaggaactcctgcccgaaaaaggggtaataggaggtactgccca
+            attcctgatgtgctctgtgaattaggacgatttggccagaagacaggtaagggttggtat
+            caatatgacaagccattgggtaggattcacaaacctgatccctggctttccaaattccta
+            tcacggtatagaaaaacccatcacattgaaccacgtaccattagccaggatgagatcctt
+            gaacgctgcttatattcacttatcaatgaagcattccgtatcttgggagaagggatagct
+            gctagcccagagcacattgatgttgtctatttacatggatatggatggccaaggcacaag
+            ggcgggcccatgttctatgcttccacagttgggttgcccacagttctagagaaattgcag
+            aaatattacaggcagaaccctgatattccccaactggagccaagtgactatctaaaaaaa
+            ctggcttctcagggaaaccctcccctgaaagaatggcaaagcttggcaggctcccctagc
+            agtaaattgtga
+///
+ENTRY       8942              CDS       T01001
+NAME        KYNU, KYNUU, VCRL2
+DEFINITION  (RefSeq) kynureninase
+ORTHOLOGY   K01556  kynureninase [EC:3.7.1.3]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+DISEASE     H01583  Hydroxykynureninuria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                8942 (KYNU)
+            Enzymes [BR:hsa01000]
+             3. Hydrolases
+              3.7  Acting on carbon-carbon bonds
+               3.7.1  In ketonic substances
+                3.7.1.3  kynureninase
+                 8942 (KYNU)
+POSITION    2q22.2
+MOTIF       Pfam: Aminotran_5 CaKB
+DBLINKS     NCBI-GeneID: 8942
+            NCBI-ProteinID: NP_001186170
+            OMIM: 605197
+            HGNC: 6469
+            Ensembl: ENSG00000115919
+            Vega: OTTHUMG00000131829
+            Pharos: Q16719(Tchem)
+            UniProt: Q16719
+STRUCTURE   PDB: 3E9K 2HZP
+AASEQ       465
+            MEPSSLELPADTVQRIAAELKCHPTDERVALHLDEEDKLRHFRECFYIPKIQDLPPVDLS
+            LVNKDENAIYFLGNSLGLQPKMVKTYLEEELDKWAKIAAYGHEVGKRPWITGDESIVGLM
+            KDIVGANEKEIALMNALTVNLHLLMLSFFKPTPKRYKILLEAKAFPSDHYAIESQLQLHG
+            LNIEESMRMIKPREGEETLRIEDILEVIEKEGDSIAVILFSGVHFYTGQHFNIPAITKAG
+            QAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYKYLNAGAGGIAGAFIHEKHAHTIKP
+            ALVGWFGHELSTRFKMDNKLQLIPGVCGFRISNPPILLVCSLHASLEIFKQATMKALRKK
+            SVLLTGYLEYLIKHNYGKDKAATKKPVVNIITPSHVEERGCQLTITFSVPNKDVFQELEK
+            RGVVCDKRNPNGIRVAPVPLYNSFHDVYKFTNLLTSILDSAETKN
+NTSEQ       1398
+            atggagccttcatctcttgagctgccggctgacacagtgcagcgcattgcggctgaactc
+            aaatgccacccaacggatgagagggtggctctccacctagatgaggaagataagctgagg
+            cacttcagggagtgcttttatattcccaaaatacaggatctgcctccagttgatttatca
+            ttagtgaataaagatgaaaatgccatctatttcttgggaaattctcttggccttcaacca
+            aaaatggttaaaacatatcttgaagaagaactagataagtgggccaaaatagcagcctat
+            ggtcatgaagtggggaagcgtccttggattacaggagatgagagtattgtaggccttatg
+            aaggacattgtaggagccaatgagaaagaaatagccctaatgaatgctttgactgtaaat
+            ttacatcttctaatgttatcattttttaagcctacgccaaaacgatataaaattcttcta
+            gaagccaaagccttcccttctgatcattatgctattgagtcacaactacaacttcacgga
+            cttaacattgaagaaagtatgcggatgataaagccaagagagggggaagaaaccttaaga
+            atagaggatatccttgaagtaattgagaaggaaggagactcaattgcagtgatcctgttc
+            agtggggtgcatttttacactggacagcactttaatattcctgccatcacaaaagctgga
+            caagcgaagggttgttatgttggctttgatctagcacatgcagttggaaatgttgaactc
+            tacttacatgactggggagttgattttgcctgctggtgttcctacaagtatttaaatgca
+            ggagcaggaggaattgctggtgccttcattcatgaaaagcatgcccatacgattaaacct
+            gcattagtgggatggtttggccatgaactcagcaccagatttaagatggataacaaactg
+            cagttaatccctggggtctgtggattccgaatttcaaatcctcccattttgttggtctgt
+            tccttgcatgctagtttagagatctttaagcaagcgacaatgaaggcattgcggaaaaaa
+            tctgttttgctaactggctatctggaatacctgatcaagcataactatggcaaagataaa
+            gcagcaaccaagaaaccagttgtgaacataattactccgtctcatgtagaggagcggggg
+            tgccagctaacaataacattttctgttccaaacaaagatgttttccaagaactagaaaaa
+            agaggagtggtttgtgacaagcggaatccaaatggcattcgagtggctccagttcctctc
+            tataattctttccatgatgtttataaatttaccaatctgctcacttctatacttgactct
+            gcagaaacaaaaaattag
+///
+ENTRY       7166              CDS       T01001
+NAME        TPH1, TPRH, TRPH, TPH
+DEFINITION  (RefSeq) tryptophan hydroxylase 1
+ORTHOLOGY   K00502  tryptophan 5-monooxygenase [EC:1.14.16.4]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa00790  Folate biosynthesis
+            hsa01100  Metabolic pathways
+            hsa04726  Serotonergic synapse
+MODULE      hsa_M00037  Melatonin biosynthesis, tryptophan => serotonin => melatonin
+DRUG_TARGET Telotristat (DG02809): D09973 D09974 D09975
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                7166 (TPH1)
+              Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                7166 (TPH1)
+             Organismal Systems
+              Nervous system
+               04726 Serotonergic synapse
+                7166 (TPH1)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.16  With reduced pteridine as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.16.4  tryptophan 5-monooxygenase
+                 7166 (TPH1)
+POSITION    11p15.1
+MOTIF       Pfam: Biopterin_H ACT ACT_4
+DBLINKS     NCBI-GeneID: 7166
+            NCBI-ProteinID: NP_004170
+            OMIM: 191060
+            HGNC: 12008
+            Ensembl: ENSG00000129167
+            Vega: OTTHUMG00000166421
+            Pharos: P17752(Tchem)
+            UniProt: P17752
+STRUCTURE   PDB: 5TPG 1MLW 3HF6 3HF8 5L01 5J6D 3HFB
+AASEQ       444
+            MIEDNKENKDHSLERGRASLIFSLKNEVGGLIKALKIFQEKHVNLLHIESRKSKRRNSEF
+            EIFVDCDINREQLNDIFHLLKSHTNVLSVNLPDNFTLKEDGMETVPWFPKKISDLDHCAN
+            RVLMYGSELDADHPGFKDNVYRKRRKYFADLAMNYKHGDPIPKVEFTEEEIKTWGTVFQE
+            LNKLYPTHACREYLKNLPLLSKYCGYREDNIPQLEDVSNFLKERTGFSIRPVAGYLSPRD
+            FLSGLAFRVFHCTQYVRHSSDPFYTPEPDTCHELLGHVPLLAEPSFAQFSQEIGLASLGA
+            SEEAVQKLATCYFFTVEFGLCKQDGQLRVFGAGLLSSISELKHALSGHAKVKPFDPKITC
+            KQECLITTFQDVYFVSESFEDAKEKMREFTKTIKRPFGVKYNPYTRSIQILKDTKSITSA
+            MNELQHDLDVVSDALAKVSRKPSI
+NTSEQ       1335
+            atgattgaagacaataaggagaacaaagaccattccttagaaaggggaagagcaagtctc
+            attttttccttaaagaatgaagttggaggacttataaaagccctgaaaatctttcaggag
+            aagcatgtgaatctgttacatatcgagtcccgaaaatcaaaaagaagaaactcagaattt
+            gagatttttgttgactgtgacatcaacagagaacaattgaatgatatttttcatctgctg
+            aagtctcataccaatgttctctctgtgaatctaccagataattttactttgaaggaagat
+            ggtatggaaactgttccttggtttccaaagaagatttctgacctggaccattgtgccaac
+            agagttctgatgtatggatctgaactagatgcagaccatcctggcttcaaagacaatgtc
+            taccgtaaacgtcgaaagtattttgcggacttggctatgaactataaacatggagacccc
+            attccaaaggttgaattcactgaagaggagattaagacctggggaaccgtattccaagag
+            ctcaacaaactctacccaacccatgcttgcagagagtatctcaaaaacttacctttgctt
+            tctaaatattgtggatatcgggaggataatatcccacaattggaagatgtctccaacttt
+            ttaaaagagcgtacaggtttttccatccgtcctgtggctggttacttatcaccaagagat
+            ttcttatcaggtttagcctttcgagtttttcactgcactcaatatgtgagacacagttca
+            gatcccttctataccccagagccagatacctgccatgaactcttaggtcatgtcccgctt
+            ttggctgaacctagttttgcccaattctcccaagaaattggcttggcttctcttggcgct
+            tcagaggaggctgttcaaaaactggcaacgtgctactttttcactgtggagtttggtcta
+            tgtaaacaagatggacagctaagagtctttggtgctggcttactttcttctatcagtgaa
+            ctcaaacatgcactttctggacatgccaaagtaaagccctttgatcccaagattacctgc
+            aaacaggaatgtcttatcacaacttttcaagatgtctactttgtatctgaaagttttgaa
+            gatgcaaaggagaagatgagagaatttaccaaaacaattaagcgtccatttggagtgaag
+            tataatccatatacacggagtattcagatcctgaaagacaccaagagcataaccagtgcc
+            atgaatgagctgcagcatgatctcgatgttgtcagtgatgcccttgctaaggtcagcagg
+            aagccgagtatctaa
+///
+ENTRY       38                CDS       T01001
+NAME        ACAT1, ACAT, MAT, T2, THIL
+DEFINITION  (RefSeq) acetyl-CoA acetyltransferase 1
+ORTHOLOGY   K00626  acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00071  Fatty acid degradation
+            hsa00072  Synthesis and degradation of ketone bodies
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway
+DISEASE     H01076  Alpha-methylacetoacetic aciduria
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                38 (ACAT1)
+               00630 Glyoxylate and dicarboxylate metabolism
+                38 (ACAT1)
+               00640 Propanoate metabolism
+                38 (ACAT1)
+               00650 Butanoate metabolism
+                38 (ACAT1)
+              Lipid metabolism
+               00071 Fatty acid degradation
+                38 (ACAT1)
+               00072 Synthesis and degradation of ketone bodies
+                38 (ACAT1)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                38 (ACAT1)
+               00310 Lysine degradation
+                38 (ACAT1)
+               00380 Tryptophan metabolism
+                38 (ACAT1)
+              Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                38 (ACAT1)
+            Enzymes [BR:hsa01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.9  acetyl-CoA C-acetyltransferase
+                 38 (ACAT1)
+            Exosome [BR:hsa04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               38 (ACAT1)
+POSITION    11q22.3
+MOTIF       Pfam: Thiolase_N Thiolase_C ketoacyl-synt
+DBLINKS     NCBI-GeneID: 38
+            NCBI-ProteinID: NP_000010
+            OMIM: 607809
+            HGNC: 93
+            Ensembl: ENSG00000075239
+            Vega: OTTHUMG00000166381
+            Pharos: P24752(Tbio)
+            UniProt: P24752 A0A140VJX1
+STRUCTURE   PDB: 2IBY 2IB8 2IBU 2IBW 2F2S 2IB7 2IB9
+AASEQ       427
+            MAVLAALLRSGARSRSPLLRRLVQEIRYVERSYVSKPTLKEVVIVSATRTPIGSFLGSLS
+            LLPATKLGSIAIQGAIEKAGIPKEEVKEAYMGNVLQGGEGQAPTRQAVLGAGLPISTPCT
+            TINKVCASGMKAIMMASQSLMCGHQDVMVAGGMESMSNVPYVMNRGSTPYGGVKLEDLIV
+            KDGLTDVYNKIHMGSCAENTAKKLNIARNEQDAYAINSYTRSKAAWEAGKFGNEVIPVTV
+            TVKGQPDVVVKEDEEYKRVDFSKVPKLKTVFQKENGTVTAANASTLNDGAAALVLMTADA
+            AKRLNVTPLARIVAFADAAVEPIDFPIAPVYAASMVLKDVGLKKEDIAMWEVNEAFSLVV
+            LANIKMLEIDPQKVNINGGAVSLGHPIGMSGARIVGHLTHALKQGEYGLASICNGGGGAS
+            AMLIQKL
+NTSEQ       1284
+            atggctgtgctggcggcacttctgcgcagcggcgcccgcagccgcagccccctgctccgg
+            aggctggtgcaggaaataagatatgtggaacggagttatgtatcaaaacccactttgaag
+            gaagtggtcatagtaagtgctacaagaacacccattggatcttttttaggcagcctttcc
+            ttgctgccagccactaagcttggttccattgcaattcagggagccattgaaaaggcaggg
+            attccaaaagaagaagtgaaagaagcatacatgggtaatgttctacaaggaggtgaagga
+            caagctcctacaaggcaggcagtattgggtgcaggcttacctatttctactccatgtacc
+            accataaacaaagtttgtgcttcaggaatgaaagccatcatgatggcctctcaaagtctt
+            atgtgtggacatcaggatgtgatggtggcaggtgggatggagagcatgtccaatgttcca
+            tatgtaatgaacagaggatcaacaccatatggtggggtaaagcttgaagatttgattgta
+            aaagacgggctaactgatgtctacaataaaattcatatgggcagctgtgctgagaataca
+            gcaaagaagctgaatattgcacgaaatgaacaggacgcttatgctattaattcttatacc
+            agaagtaaagcagcatgggaagctgggaaatttggaaatgaagttattcctgtcacagtt
+            acagtaaaaggtcaaccagatgtagtggtgaaagaagatgaagaatataaacgtgttgat
+            tttagcaaagttccaaagctgaagacagttttccagaaagaaaatggcacagtaacagct
+            gccaatgccagtacactgaatgatggagcagctgctctggttctcatgacggcagatgca
+            gcgaagaggctcaatgttacaccactggcaagaatagtagcatttgctgacgctgctgta
+            gaacctattgattttccaattgctcctgtatatgctgcatctatggttcttaaagatgtg
+            ggattgaaaaaagaagatattgcaatgtgggaagtaaatgaagcctttagtctggttgta
+            ctagcaaacattaaaatgttggagattgatccccaaaaagtgaatatcaatggaggagct
+            gtttctctgggacatccaattgggatgtctggagccaggattgttggtcatttgactcat
+            gccttgaagcaaggagaatacggtcttgccagtatttgcaatggaggaggaggtgcttct
+            gccatgctaattcagaagctgtag
+///
+ENTRY       1892              CDS       T01001
+NAME        ECHS1, ECHS1D, SCEH
+DEFINITION  (RefSeq) enoyl-CoA hydratase, short chain 1
+ORTHOLOGY   K07511  enoyl-CoA hydratase [EC:4.2.1.17]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00310  Lysine degradation
+            hsa00380  Tryptophan metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa01100  Metabolic pathways
+            hsa01200  Carbon metabolism
+            hsa01212  Fatty acid metabolism
+MODULE      hsa_M00013  Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            hsa_M00085  Fatty acid biosynthesis, elongation, mitochondria
+            hsa_M00087  beta-Oxidation
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Carbohydrate metabolism
+               00640 Propanoate metabolism
+                1892 (ECHS1)
+               00650 Butanoate metabolism
+                1892 (ECHS1)
+              Lipid metabolism
+               00062 Fatty acid elongation
+                1892 (ECHS1)
+               00071 Fatty acid degradation
+                1892 (ECHS1)
+              Amino acid metabolism
+               00280 Valine, leucine and isoleucine degradation
+                1892 (ECHS1)
+               00310 Lysine degradation
+                1892 (ECHS1)
+               00380 Tryptophan metabolism
+                1892 (ECHS1)
+              Metabolism of other amino acids
+               00410 beta-Alanine metabolism
+                1892 (ECHS1)
+            Enzymes [BR:hsa01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.17  enoyl-CoA hydratase
+                 1892 (ECHS1)
+POSITION    10q26.3
+MOTIF       Pfam: ECH_1 ECH_2 Peptidase_S49
+DBLINKS     NCBI-GeneID: 1892
+            NCBI-ProteinID: NP_004083
+            OMIM: 602292
+            HGNC: 3151
+            Ensembl: ENSG00000127884
+            Vega: OTTHUMG00000019320
+            Pharos: P30084(Tbio)
+            UniProt: P30084
+STRUCTURE   PDB: 2HW5
+AASEQ       290
+            MAALRVLLSCVRGPLRPPVRCPAWRPFASGANFEYIIAEKRGKNNTVGLIQLNRPKALNA
+            LCDGLIDELNQALKTFEEDPAVGAIVLTGGDKAFAAGADIKEMQNLSFQDCYSSKFLKHW
+            DHLTQVKKPVIAAVNGYAFGGGCELAMMCDIIYAGEKAQFAQPEILIGTIPGAGGTQRLT
+            RAVGKSLAMEMVLTGDRISAQDAKQAGLVSKICPVETLVEEAIQCAEKIASNSKIVVAMA
+            KESVNAAFEMTLTEGSKLEKKLFYSTFATDDRKEGMTAFVEKRKANFKDQ
+NTSEQ       873
+            atggccgccctgcgtgtcctgctgtcctgcgtccgcggcccgctgaggcccccggttcgc
+            tgtcccgcctggcgtcccttcgcctcgggtgctaactttgagtacatcatcgcagaaaaa
+            agagggaagaataacaccgtggggttgatccaactgaaccgccccaaggccctcaatgca
+            ctttgcgatggcctgattgacgagctcaaccaggccctgaagaccttcgaggaggacccg
+            gccgtgggggccattgtcctcaccggcggggataaggcctttgcagctggagctgatatc
+            aaggaaatgcagaacctgagtttccaggactgttactccagcaagttcttgaagcactgg
+            gaccacctcacccaggtcaagaagccagtcatcgctgctgtcaatggctatgcctttggc
+            gggggctgtgagcttgccatgatgtgtgatatcatctatgccggtgagaaggcccagttt
+            gcacagccggagatcttaataggaaccatcccaggtgcgggcggcacccagagactcacc
+            cgtgctgttgggaagtcgctggcgatggagatggtcctcactggtgaccggatctcagcc
+            caggacgccaagcaagcaggtcttgtcagcaagatttgtcctgttgagacactggtggaa
+            gaagccatccagtgtgcagaaaaaattgccagcaattctaaaattgtagtagcgatggcc
+            aaagaatcagtgaatgcagcttttgaaatgacattaacagaaggaagtaagttggagaag
+            aaactcttttattcaacctttgccactgatgaccggaaagaagggatgaccgcgtttgtg
+            gaaaagagaaaggccaacttcaaagaccagtga
+///
+ENTRY       23498             CDS       T01001
+NAME        HAAO, 3-HAO, HAO, VCRL1
+DEFINITION  (RefSeq) 3-hydroxyanthranilate 3,4-dioxygenase
+ORTHOLOGY   K00452  3-hydroxyanthranilate 3,4-dioxygenase [EC:1.13.11.6]
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa00380  Tryptophan metabolism
+            hsa01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             Metabolism
+              Amino acid metabolism
+               00380 Tryptophan metabolism
+                23498 (HAAO)
+            Enzymes [BR:hsa01000]
+             1. Oxidoreductases
+              1.13  Acting on single donors with incorporation of molecular oxygen (oxygenases)
+               1.13.11  With incorporation of two atoms of oxygen
+                1.13.11.6  3-hydroxyanthranilate 3,4-dioxygenase
+                 23498 (HAAO)
+POSITION    2p21
+MOTIF       Pfam: 3-HAO Cupin_2 AraC_binding AraC_binding_2 Cupin_1
+DBLINKS     NCBI-GeneID: 23498
+            NCBI-ProteinID: NP_036337
+            OMIM: 604521
+            HGNC: 4796
+            Ensembl: ENSG00000162882
+            Vega: OTTHUMG00000152348
+            Pharos: P46952(Tbio)
+            UniProt: P46952
+STRUCTURE   PDB: 2QNK 5TKQ 5TK5
+AASEQ       286
+            MERRLGVRAWVKENRGSFQPPVCNKLMHQEQLKVMFIGGPNTRKDYHIEEGEEVFYQLEG
+            DMVLRVLEQGKHRDVVIRQGEIFLLPARVPHSPQRFANTVGLVVERRRLETELDGLRYYV
+            GDTMDVLFEKWFYCKDLGTQLAPIIQEFFSSEQYRTGKPIPDQLLKEPPFPLSTRSIMEP
+            MSLDAWLDSHHRELQAGTPLSLFGDTYETQVIAYGQGSSEGLRQNVDVWLWQLEGSSVVT
+            MGGRRLSLAPDDSLLVLAGTSYAWERTQGSVALSVTQDPACKKPLG
+NTSEQ       861
+            atggagcgccgcctgggagtgagggcctgggtgaaggagaaccggggctccttccagccc
+            ccggtctgcaacaagctcatgcaccaggagcagctcaaagtcatgttcatcggaggcccc
+            aacaccaggaaggactatcacatcgaagagggtgaagaggtattttaccagctggaggga
+            gacatggttctccgagtcctggagcaagggaaacaccgggatgtggtcattcggcaggga
+            gagatattcctcctgcctgccagggtgccccactcaccacagaggtttgccaacaccgtg
+            gggctggtggttgagcgaaggcggctggagaccgagctagatgggctcaggtactatgtg
+            ggcgacaccatggacgttctgtttgagaagtggttctactgcaaggacctcggcacgcag
+            ttggcccccatcatccaggagttcttcagctctgagcagtacagaacaggaaagcccatc
+            cctgaccagctgctcaaggagccaccattccctctgagcacacgatccatcatggagccc
+            atgtccctggatgcctggctggacagccaccacagggagctgcaggcaggcacaccactc
+            agcctgtttggggacacctatgagacccaggtgatcgcctatgggcaaggcagcagcgaa
+            ggcctgagacagaatgtggacgtgtggctgtggcagctggagggctcctcggtggtgaca
+            atggggggacggcgcctgagcctggcccctgatgacagcctcctggtgctagctgggacc
+            tcgtatgcctgggagcgaacacaaggctctgtggccctgtctgtgacccaggaccctgcc
+            tgcaagaagcccctggggtga
+///
