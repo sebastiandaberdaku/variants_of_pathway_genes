@@ -1,4 +1,5 @@
-# This is a collection of scripts used to identify and download all known mutations in the dbSNP, ClinVar and OMIM databases affecting genes/proteins in the human insulin signaling and tryptophan metabolism pathways. All genomic locations refer to the GRCh38.p7 assembly.
+# Variants of pathway genes
+## This is a collection of scripts used to identify and download all known mutations in the dbSNP, ClinVar and OMIM databases affecting genes/proteins in the human insulin signaling and tryptophan metabolism pathways. All genomic locations refer to the GRCh38.p7 assembly.
 
 	Prerequisites:
 	- python 2.7
